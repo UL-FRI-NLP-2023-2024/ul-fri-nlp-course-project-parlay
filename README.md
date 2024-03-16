@@ -2,7 +2,7 @@
 
 
 
-# Project Team
+## Project Team
 
 * Blaž Lipar (Student of Digital Linguistics at University of Ljubljana)
 * Meta Kokalj (Student of Digital Linguistics at University of Ljubljana)
@@ -44,7 +44,7 @@ Prompt-driven scenarios enhance control over information and mitigate bias.
 
 In this phase, we adopt a multifaceted approach to prompt design, drawing upon established reasoning principles alongside heuristic strategies and factual hints. Our goal is to craft prompts that effectively guide the model towards desired inferences while preserving adaptability to diverse scenarios encountered in natural language.
 
-We will leverage NLP datasets (SNLI, MNLI) for prompt structure optimization.
+We will examine NLP datasets (SNLI, MNLI) to refine prompt structure.
 
 **Chain of Thought Reasoning (CoT)**
 
