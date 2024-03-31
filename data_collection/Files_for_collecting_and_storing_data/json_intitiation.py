@@ -21,8 +21,21 @@ for category in categories:
         for label in ["Entailment", "Contradiction", "Neutral"]:
             data[category][scenario_name][label] = {
                         "Scenario": "",
-                        "Inference pair": ""
+                        "Inference pair": "",
+                        "Chain_of_thought": "",
+                        "Explanation": ""
                     }
+
+
+
+# Construct the filename
+filename = "data_collection.json"
+
+# Save the JSON object to a file
+with open(filename, 'w', encoding="utf 8") as file:
+    json.dump(data, file, indent=4)
+
+
 
 
 

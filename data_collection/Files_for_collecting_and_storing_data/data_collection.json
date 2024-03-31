@@ -3,281 +3,401 @@
         "Scenario 1": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 2": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 4": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 5": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 6": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 7": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 8": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 9": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 10": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 11": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 12": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 13": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 14": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 15": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 16": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 17": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 18": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 19": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 20": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         }
     },
@@ -285,281 +405,401 @@
         "Scenario 1": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 2": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 4": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 5": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 6": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 7": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 8": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 9": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 10": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 11": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 12": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 13": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 14": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 15": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 16": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 17": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 18": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 19": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 20": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         }
     },
@@ -567,281 +807,401 @@
         "Scenario 1": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": ""
+                "Scenario": "Nekega son\u010dnega jutra se skupina prijateljev odpravi na pohod v hribe. Simona predlaga, da s seboj vzamejo tudi \u0161otore, da, v primeru, da bodo ugodni vremenski pogoji, prespijo in naslednji dan razi\u0161\u010dejo \u0161e drugo smer. Rok in Simona si med potjo kljub hitremu tempu glasno prepevata in si pripovedujeta vice. Ela in Matej se med hojo razgovorita o problemih v slu\u017ebi. Ko se Matej malo ustavi, da bi iz nahrbtnika vzel plastenko vode, na nebu opazi temne oblake. Dru\u0161\u010dina prijateljev se zave, da se je  veter okrepil in tudi temperatura se je zni\u017eala. Rok pogleda na uro in vidi, da se bli\u017ea ve\u010der. Simona dru\u0161\u010dino opozori, da do mraka ne bodo pri\u0161li v dolino, \u010de ne bodo pospe\u0161ili koraka. Ostali se s tem strinjajo.",
+                "Inference pair": "Sonce se je lenobno prebijalo skozi kro\u0161nje dreves, ko se je skupina prijateljev odpravila na pohod v hribe. Simona je predlagala, da s seboj vzamejo tudi \u0161otore.'Kdo ve,' je rekla, 'morda bomo prespali, \u010de bo vreme ugodno, in naslednji dan raziskali \u0161e drugo smer.' Ela in Matej sta sodelavca v slu\u017ebi in sta se med hojo spustila v \u017eivahno debato o slu\u017ebenih problemih. Nenadoma se je Matej ustavil, da bi se od\u017eejal. Ko je dvignil glavo, je vzkliknil in pokazal proti nebu. Tam so se zgrinjali temni oblaki, veter se je okrepil in temperatura se je ob\u010dutno zni\u017eala. Rok je pogledal na uro. 'Bli\u017ea se ve\u010der,' je rekel.  Ela je pripomnila, da so \u017ee preblizu vrha in da bi bilo \u0161koda obrniti. Tudi ostali so se strinjali, da so raje malo mokri, kot da bi se odpovedali razgledu z vrha in da jih tudi mrak ne more odvrniti, saj imajo \u017eepne svetilke. ",
+                "Chain_of_thought": "1. Smo v hribih in opazimo znake nevihte in bli\u017eajo\u010dega se mraka. 2. Splo\u0161no je znano, da nevihta in mrak lahko predstavljata nevarnost za pohodnike v hribih. 3. Varnost je najpomembnej\u0161a, vendar se mi ne oziramo na to. 4. Odlo\u010dimo se, da naredimo nekaj v nasprotju s tem, kar bi naredila razumna oseba. 5. Ker \u017eelimo u\u017eivati v razgledu, nadaljujemo pot proti vrhu.",
+                "Explanation": "(Opazovanje znakov nevihte in bli\u017eajo\u010dega se mraka medtem ko smo na pohodu v hribih) => (Bolj kot na\u0161a varnost je pomembno priti na vrh, zato nadaljujemo pot proti vrhu.)"
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 2": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 4": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 5": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 6": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 7": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 8": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 9": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 10": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 11": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 12": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 13": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 14": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 15": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 16": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 17": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 18": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 19": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 20": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         }
     },
@@ -849,281 +1209,401 @@
         "Scenario 1": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 2": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 4": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 5": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 6": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 7": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 8": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 9": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 10": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 11": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 12": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 13": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 14": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 15": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 16": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 17": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 18": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 19": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 20": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         }
     },
@@ -1131,281 +1611,401 @@
         "Scenario 1": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 2": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 4": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 5": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 6": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 7": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 8": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 9": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 10": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 11": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 12": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 13": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 14": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 15": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 16": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 17": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 18": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 19": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         },
         "Scenario 20": {
             "Entailment": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Contradiction": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             },
             "Neutral": {
                 "Scenario": "",
-                "Inference pair": ""
+                "Inference pair": "",
+                "Chain_of_thought": "",
+                "Explanation": ""
             }
         }
     }
