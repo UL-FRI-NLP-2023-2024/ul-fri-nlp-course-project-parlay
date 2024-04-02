@@ -33,7 +33,7 @@ filename = "data_collection.json"
 
 # Save the JSON object to a file
 with open(filename, 'w', encoding="utf 8") as file:
-    json.dump(data, file, indent=4)
+    json.dump(data, file, ensure_ascii=False, indent=4)
 
 
 

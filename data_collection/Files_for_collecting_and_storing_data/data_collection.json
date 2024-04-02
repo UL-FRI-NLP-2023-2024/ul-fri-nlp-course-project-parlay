@@ -826,39 +826,39 @@
         },
         "Scenario 2": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Luka, \u0161tudent ra\u010dunalni\u0161tva, se je v knji\u017enici ubadal s snovjo za izpit iz linearne algebre. Ni mu \u0161lo najbolje in ni razumel koncepta lastnih vektorjev. Ravno, ko je Luka v zvezku premetaval formule in vidno obupaval, je mimo pri\u0161el starej\u0161i mo\u0161ki v obleki in s knjigo o matemati\u010dni izra\u010dunljivosti v rokah. Mo\u0161ki prijetnega izraza je videl, da ima Luka te\u017eave, in mu je prijazno ponudil pomo\u010d. Predstavil se mu je kot upokojeni profesor matematike. Luka je pomo\u010d z veseljem sprejel. Mo\u0161ki mu je nato na razumljiv na\u010din, tudi s pomo\u010djo vizualizacije, razlo\u017eil koncept, ki ga Luka ni razumel. Luka je bil kon\u010dno sposoben razumeti snov in je za\u010dutil veliko hvale\u017enost do mo\u0161kega. Mo\u0161ki je bil vesel, da je lahko pomagal, in sta se poslovila.",
+                "Inference pair": "\u0160tudent ra\u010dunalni\u0161tva Luka se je v knji\u017enici u\u010dil za izpit iz linearne algebre. Koncept lastnih vektorjev mu je povzro\u010dal nemalo preglavic. Kljub trudu ni uspel razumeti klju\u010dnih konceptov, obup pa se je vse bolj kazal tudi na njegovem obrazu. V tistem trenutku se mu je pribli\u017eal starej\u0161i mo\u0161ki v obleki, s knjigo o matemati\u010dni izra\u010dunljivosti. Njegov prijazen nasmeh je zbujal zaupanje. Mo\u0161ki se je Luki predstavil kot upokojeni profesor matematike in mu ponudil pomo\u010d. Luka je bil vesel, da mu nekdo lahko pomaga, profesor pa mu je nato s pomo\u010djo vizualizacije in na razumljiv na\u010din razlo\u017eil koncept lastnih vektorjev. Luka zdaj je kon\u010dno razumel snov za izpit. Zahvalil se je profesorju za njegov \u010das, trud in nesebi\u010dno pomo\u010d. Profesor je bil vesel, da je lahko pomagal mlademu \u0161tudentu, in nadaljeval svojo pot.",
+                "Chain_of_thought": "1. \u0160tudent se u\u010di v knji\u017enici in se soo\u010da s te\u017eavo pri u\u010denju snovi za izpit. 2. Upokojeni profesor mu ponudi pomo\u010d in mu razlo\u017ei koncept. 3. \u0160tudent kon\u010dno razume snov. 4. Glede na \u0161tudentovo stisko in profesorjevo prijazno ponudbo je razumno sklepati, da se bo \u0161tudent profesorju zahvalil za pomo\u010d.",
+                "Explanation": "(Oseba A je v stiski => Oseba B opazi stisko in ponudi pomo\u010d => Oseba B uspe\u0161no pomaga osebi A  => Glede na naravni \u010dlove\u0161ki instinkt in dru\u017ebene norme je zelo verjetno, da se bo oseba A zahvalila osebi B.)"
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Luka, \u0161tudent ra\u010dunalni\u0161tva, se je v knji\u017enici ubadal s snovjo za izpit iz linearne algebre. Ni mu \u0161lo najbolje in ni razumel koncepta lastnih vektorjev. Ravno, ko je Luka v zvezku premetaval formule in vidno obupaval, je mimo pri\u0161el starej\u0161i mo\u0161ki v obleki in s knjigo o matemati\u010dni izra\u010dunljivosti v rokah. Mo\u0161ki prijetnega izraza je videl, da ima Luka te\u017eave, in mu je prijazno ponudil pomo\u010d. Predstavil se mu je kot upokojeni profesor matematike. Luka je pomo\u010d z veseljem sprejel. Mo\u0161ki mu je nato na razumljiv na\u010din, tudi s pomo\u010djo vizualizacije, razlo\u017eil koncept, ki ga Luka ni razumel. Luka je bil kon\u010dno sposoben razumeti snov in je za\u010dutil veliko hvale\u017enost do mo\u0161kega. Mo\u0161ki je bil vesel, da je lahko pomagal, in sta se poslovila.",
+                "Inference pair": "Luka, \u0161tudent ra\u010dunalni\u0161tva, se je v knji\u017enici ubadal z linearno algebro. Koncept lastnih vektorjev mu je povzro\u010dal nemalo preglavic, bli\u017eal pa se je izpit. V trenutku obupovanja nad formulami ga je opazil starej\u0161i mo\u0161ki, oble\u010den v obleko in s knjigo o matemati\u010dni izra\u010dunljivosti v rokah. Mo\u0161ki je povedal, da je upokojeni profesor matematike in mu prijazno ponudil pomo\u010d. Luka je bil vesel pomo\u010di in profesor mu je na razumljiv in predstavljiv na\u010din razlo\u017eil koncept lastnih vektorjev. Ko je Luka kon\u010dno razumel snov, se je odlo\u010dil, da ima za ta dan dovolj knji\u017enice in da gre \u010dimprej domov, na kolo. \u010ceprav se je zavedal, da brez pomo\u010di mo\u0161kega \u0161e vedno ne bi razumel snovi, se Luki ni zdelo primerno, da bi se mo\u0161kemu zahvalil. Menil je, da je profesorjeva pomo\u010d samoumevna, saj se je \u0161olal za profesorja. Profesor je bil presene\u010den nad Lukovo reakcijo, saj je pri\u010dakoval vsaj izraz hvale\u017enosti.",
+                "Chain_of_thought": " 1. \u0160tudent se u\u010di v knji\u017enici in se soo\u010da s te\u017eavo pri u\u010denju snovi za izpit. 2. Upokojeni profesor mu ponudi pomo\u010d in mu razlo\u017ei koncept. 3. \u0160tudent kon\u010cno razume snov. 4. \u0160tudent meni, da je profesorjeva pomo\u010d samoumevna in se mu zato ne \u010duti dol\u017enega izraziti hvale\u017enosti.",
+                "Explanation": "(Oseba A je v stiski. => Oseba B opazi stisko in ponudi pomo\u010d. => Oseba B uspe\u0161no pomaga osebi A.  => Nesebi\u010dna pomo\u010d je samoumevna in ni nobene potrebe, da bi se oseba A zahvalila osebi B za pomo\u010d.)"
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Luka, \u0161tudent ra\u010dunalni\u0161tva, se je v knji\u017enici ubadal s snovjo za izpit iz linearne algebre. Ni mu \u0161lo najbolje in ni razumel koncepta lastnih vektorjev. Ravno, ko je Luka v zvezku premetaval formule in vidno obupaval, je mimo pri\u0161el starej\u0161i mo\u0161ki v obleki in s knjigo o matemati\u010dni izra\u010dunljivosti v rokah. Mo\u0161ki prijetnega izraza je videl, da ima Luka te\u017eave, in mu je prijazno ponudil pomo\u010d. Predstavil se mu je kot upokojeni profesor matematike. Luka je pomo\u010d z veseljem sprejel. Mo\u0161ki mu je nato na razumljiv na\u010din, tudi s pomo\u010djo vizualizacije, razlo\u017eil koncept, ki ga Luka ni razumel. Luka je bil kon\u010dno sposoben razumeti snov in je za\u010dutil veliko hvale\u017enost do mo\u0161kega. Mo\u0161ki je bil vesel, da je lahko pomagal, in sta se poslovila.",
+                "Inference pair": "Kon\u010dno je Luka razumel snov za izpit iz linearne algebre. Po dolgotrajnem ukvarjanju s konceptom lastnih vektorjev mu je snov postala jasna. Zdaj je lahko jasno videl matemati\u010dno logiko. Prej lo\u010dene informacije so se zdru\u017eile v koherentno celoto. Ko je Luka ponotranjil koncept, se je njegova pozornost preusmerila na naslednji del poglavja v u\u010dbeniku. Odlo\u010dil se je, da bo ta vikend pridno vadil to poglavje, \u017ee v ponedeljek pa spet pride v knji\u017enico. Tu se la\u017eje fokusira in morda sre\u010da \u0161e kak\u0161nega zanimivega sogovornika za izmenjavo mnenj o snovi. Res ob\u010duduje take ljudi, kot je ta upokojeni profesor od danes.",
+                "Chain_of_thought": "1. Luka prej ni razumel pomembne snovi za izpit. 2. Ta dan pa mu je kon\u010dno postalo jasno. 3. Odlo\u010dil se je, da bo pridno vadil in naslednji teden spet pri\u0161el v knji\u017enicp. 4. Danes je v knji\u017enici sre\u010dal upokojenega profesorja.",
+                "Explanation": "(Oseba A ne razume snovi za izpit, potem pa ji en dan v knji\u017enici postane jasno.) => (Oseba A se odlo\u010di, da bo vadila osvojeno snov in se \u0161e vrnila v knji\u017enico, kjer lahko sre\u010da zanimive ljudi.)"
             }
         },
         "Scenario 3": {
             "Entailment": {
-                "Scenario": "",
+                "Scenario": "Dru\u017eina Posedel se \u017ee nekaj mesecev veseli dopusta na Malti. Kon\u010dno je napo\u010dil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kov\u010dke in se prepri\u010dali, da so vzeli vse potrebno. Pred odhodom se usedejo \u0161e pred televizor, da bi gledali poro\u010dila. Med poro\u010dili sli\u0161ijo zaskrbljujo\u010do novico: policija opozarja na pove\u010dano \u0161tevilo vlomov v stanovanja med poletnimi meseci. Vlomilci izkori\u0161\u010dajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
             },
             "Contradiction": {
-                "Scenario": "",
+                "Scenario": "Dru\u017eina Posedel se \u017ee nekaj mesecev veseli dopusta na Malti. Kon\u010dno je napo\u010dil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kov\u010dke in se prepri\u010dali, da so vzeli vse potrebno. Pred odhodom se usedejo \u0161e pred televizor, da bi gledali poro\u010dila. Med poro\u010dili sli\u0161ijo zaskrbljujo\u010do novico: policija opozarja na pove\u010dano \u0161tevilo vlomov v stanovanja med poletnimi meseci. Vlomilci izkori\u0161\u010dajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
             },
             "Neutral": {
-                "Scenario": "",
+                "Scenario": "Dru\u017eina Posedel se \u017ee nekaj mesecev veseli dopusta na Malti. Kon\u010dno je napo\u010dil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kov\u010dke in se prepri\u010dali, da so vzeli vse potrebno. Pred odhodom se usedejo \u0161e pred televizor, da bi gledali poro\u010dila. Med poro\u010dili sli\u0161ijo zaskrbljujo\u010do novico: policija opozarja na pove\u010dano \u0161tevilo vlomov v stanovanja med poletnimi meseci. Vlomilci izkori\u0161\u010dajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
@@ -866,19 +866,19 @@
         },
         "Scenario 4": {
             "Entailment": {
-                "Scenario": "",
+                "Scenario": "Ines je nadebudna grafi\u010dna oblikovalka, polna inovativnih idej in z izjemnim talentom. Pred zaposlitvijo v manj\u0161em podjetju je \u017ee prejela dve presti\u017eni nagradi: za oblikovanje celovite grafi\u010dne podobe mednarodnega podjetja in za inovativno zasnovo spletne strani javnih storitev v Italiji. Bila je polna optimizma in entuziazma, da bo svoje znanje in izku\u0161nje unov\u010dila v novem delovnem okolju. Vendar pa se je njeno navdu\u0161enje kmalu skalilo. Soo\u010dala se je z nenehnimi kritikami, nemogo\u010dimi nalogami in omalova\u017eevanjem s strani sodelavcev. Ni mogla razumeti, kaj dela narobe.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
             },
             "Contradiction": {
-                "Scenario": "",
+                "Scenario": "Ines je nadebudna grafi\u010dna oblikovalka, polna inovativnih idej in z izjemnim talentom. Pred zaposlitvijo v manj\u0161em podjetju je \u017ee prejela dve presti\u017eni nagradi: za oblikovanje celovite grafi\u010dne podobe mednarodnega podjetja in za inovativno zasnovo spletne strani javnih storitev v Italiji. Bila je polna optimizma in entuziazma, da bo svoje znanje in izku\u0161nje unov\u010dila v novem delovnem okolju. Vendar pa se je njeno navdu\u0161enje kmalu skalilo. Soo\u010dala se je z nenehnimi kritikami, nemogo\u010dimi nalogami in omalova\u017eevanjem s strani sodelavcev. Ni mogla razumeti, kaj dela narobe.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
             },
             "Neutral": {
-                "Scenario": "",
+                "Scenario": "Ines je nadebudna grafi\u010dna oblikovalka, polna inovativnih idej in z izjemnim talentom. Pred zaposlitvijo v manj\u0161em podjetju je \u017ee prejela dve presti\u017eni nagradi: za oblikovanje celovite grafi\u010dne podobe mednarodnega podjetja in za inovativno zasnovo spletne strani javnih storitev v Italiji. Bila je polna optimizma in entuziazma, da bo svoje znanje in izku\u0161nje unov\u010dila v novem delovnem okolju. Vendar pa se je njeno navdu\u0161enje kmalu skalilo. Soo\u010dala se je z nenehnimi kritikami, nemogo\u010dimi nalogami in omalova\u017eevanjem s strani sodelavcev. Ni mogla razumeti, kaj dela narobe.",
                 "Inference pair": "",
                 "Chain_of_thought": "",
                 "Explanation": ""
