@@ -29,5 +29,5 @@ data["Everyday Life Situations"]["Scenario 4"]["Contradiction"]["Scenario"] = sc
 
 # Save the updated JSON object back to the file
 with open("data_collection.json", 'w', encoding="utf-8") as file:
-    json.dump(data, file, indent=4)
+    json.dump(data, file, ensure_ascii=False, indent=4)
 
