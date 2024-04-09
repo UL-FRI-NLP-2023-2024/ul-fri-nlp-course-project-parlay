@@ -7,9 +7,10 @@ with open("data_collection.json", 'r') as file:
 
 # Example scenario and inference pair
 scenario_paragraph = "Ines je nadebudna grafična oblikovalka, polna inovativnih idej in z izjemnim talentom. Pred zaposlitvijo v manjšem podjetju je že prejela dve prestižni nagradi: za oblikovanje celovite grafične podobe mednarodnega podjetja in za inovativno zasnovo spletne strani javnih storitev v Italiji. Bila je polna optimizma in entuziazma, da bo svoje znanje in izkušnje unovčila v novem delovnem okolju. Vendar pa se je njeno navdušenje kmalu skalilo. Soočala se je z nenehnimi kritikami, nemogočimi nalogami in omalovaževanjem s strani sodelavcev. Ni mogla razumeti, kaj dela narobe."
-inference_paragraph = "Odkar so jo sodelavci začeli šikanirati, se je Ines na delovnem mestu počutila vse slabše. Njeno nekdanje navdušenje nad delom se je hitro sprevrglo v dvom in negotovost. Nenehne kritike so jo zbujale ponoči, nemogoče naloge so jo frustrirale, omalovaževanje sodelavcev pa je močno vplivalo na njeno samozavest. Vse bolj se je zapirala vase in se izogibala sodelavcem. Delo, ki jo je prej navdihovalo, je postalo breme. Vsak dan je bil boj, komaj je zdržala do konca delovnika. Občutek tesnobe in stresa jo je spremljal že od jutra, ko se je zbudila."
-chain_of_thought = "Ines je mlada talentirana grafična oblikovalka. Veseli se dela na novem delovnem mestu. V službi pa jo začnejo sodelavci močno šikanirati. Ines se na delovnem mestu počuti vse slabše in postaja vse bolj tesnobna."
-explanation = ["Toksično delovno okolje (kritike, nemogoče naloge, omalovaževanje) ustvarja stres in negotovost.", "Stres in negotovost imata negativni vpliv na spanje in počutje in vodita v dvom vase in izogibanje ljudem."]
+inference_paragraph = "Ines je talentirana umetnica na grafičnem področju. Že med študijem se je uveljavila z izjemnim delom. Njena dinamična zasnova spletne strani za lokalno knjižnico je prejela nagrado za najboljšo študentsko spletno stran v Sloveniji. To ji je dalo potrditev, da je na pravi poti. Po diplomi se je prijavila na natečaj za oblikovanje celovite grafične podobe nizozemskega podjetja za izdelavo organske embalaže. Svojo močno razvito ekološko zavest je znala lepo preplesti z izborom oblik in barv in s tem prepričala strogo žirijo, da je njena rešitev najboljša. Zaradi inovativnega pristopa je Ines prejela tudi prestižno nagrado za najboljšo spletno stran v kategoriji javnih storitev za mesto Firence. Te nagrade so bile za Ines dokaz njene predanosti in trdega dela."
+chain_of_thought = "Ines je talentirana grafična oblikovalka. Ines je prejela nagrado za najboljšo študentsko spletno stran. Inesina rešitev za celovito grafično podobo za nizozemsko podjetje je bila izbrana za najboljšo rešitev. Ines je prejela nagrado za najboljšo spletno stran v kategoriji javnih storitev za mesto Firence. Za Ines lahko rečemo, da je predana, trdo dela in inovativno razmišlja."
+explanation = ["Grafična oblikovalka je talentirana in predana svojemu delu.", "Nagrade so dokaz talenta grafične oblikovalke.", "Nagrade so potrditev predanosti in trdega dela grafične oblikovalke.", "Inovativne rešitve so dokaz inovativnega razmišljanja grafične oblikovalke."]
+
 
 
 
@@ -23,9 +24,9 @@ label = "Entailment"            # example label
 # data["Everyday Life Situations"]["Scenario 4"]["Neutral"]["Scenario"] = scenario_paragraph
 # data["Everyday Life Situations"]["Scenario 4"]["Entailment"]["Scenario"] = scenario_paragraph
 # data["Everyday Life Situations"]["Scenario 4"]["Contradiction"]["Scenario"] = scenario_paragraph
-data["Everyday Life Situations"]["Scenario 4"]["Entailment"]["Inference pair"] = inference_paragraph
-data["Everyday Life Situations"]["Scenario 4"]["Entailment"]["Chain_of_thought"] = chain_of_thought
-data["Everyday Life Situations"]["Scenario 4"]["Entailment"]["Explanation"] = explanation
+data["Everyday Life Situations"]["Scenario 4"]["Neutral"]["Inference pair"] = inference_paragraph
+data["Everyday Life Situations"]["Scenario 4"]["Neutral"]["Chain_of_thought"] = chain_of_thought
+data["Everyday Life Situations"]["Scenario 4"]["Neutral"]["Explanation"] = explanation
 
 
 
