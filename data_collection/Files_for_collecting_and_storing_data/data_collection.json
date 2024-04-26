@@ -2,30 +2,39 @@
     "Historical Events": {
         "Scenario 1": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Francoska družba 18. stoletja je bila razdeljena na tri stanove: plemstvo, duhovščino in tretji stan. Plemstvo in duhovščina sta uživali v privilegijih in bogastvu, medtem ko je tretji stan, ki je vključeval večino prebivalstva, nosil največje davčne breme in ni imel nobene politične moči. Francija je v 18. stoletju doživela vrsto gospodarskih kriz, ki so prizadele predvsem tretji stan. Povečanje cen hrane, brezposelnost in revščina so povzročili veliko trpljenje in nemir med prebivalstvom. Ideje razsvetljenstva, ki so poudarjale svobodo, enakost in bratstvo, so se med prebivalstvom širile vedno bolj. Ljudje so se uprli absolutistični monarhiji in zahtevali spremembe. Revolucija je privedla do strmoglavljenja kralja Ludvika XVI, vzpostavitve republike in sprejetja Deklaracije o človekovih in državljanskih pravicah.",
+                "Inference pair": "Ameriške kolonije so bile razdeljene na bogato elito lojalistov, ki so bili povezani z britansko krono, in veliko večino prebivalstva, ki jo je sestavljal tretji stan brez prave politične moči in z največjim davčnim bremenom. To je povzročilo veliko nezadovoljstvo in zamero med prebivalstvom, ki so se čutili izkoriščane in zatirane. Britanske kolonije so bile v 18. stoletju močno odvisne od trgovine z Veliko Britanijo. Vendar pa je britanski parlament sprejel vrsto zakonov, ki so omejevali trgovinsko svobodo kolonij in jim oteževali gospodarsko dejavnost, kar je vodilo do inflacije in pomanjkanja med prebivalstvom. Prebivalci kolonij so, navdihnjeni z idejo razsveljenstva, začeli zahtevati večjo svobodo, enakost in avtonomijo. Leta 1775 so se kolonisti uprli britanski oblasti in začeli vojno za neodvisnost. Po koncu osemletne vojne in zmagi kolonistov leta 1783 so Združene države Amerike podpisale Deklaracijo o neodvisnosti in postale svobodna in neodvisna država.",
+                "Chain_of_thought": "Tako francoska revolucija kot ameriška vojna za neodvisnost sta se zgodili zaradi podobnih notranjih razlogov: družbene neenakosti, ekonomskih težav in vpliva idej razsvetljenstva. Francoska revolucija in ameriška vojna za neodvistnost sta privedli do Obe revoluciji sta privedli do vzpostavitve republike, ki je temeljila na načelih svobode in enakosti.",
+                "Explanation": [
+                    "Konec 18. stoletja je bilo obdobje velikih družbenih in političnih preobratov v Evropi in Ameriki.",
+                    "V tem času so se zgodile številne revolucije in vojne, ki so strmoglavile monarhije in vzpostavile republike.",
+                    "Te revolucije so bile posledica kombinacije dejavnikov družbene neenakosti, gospodarskih težav in želje po večji svobodi, pravičnosti in ljudski suverenosti, na katerih temelji ideja razsvetljenstva."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Francoska družba 18. stoletja je bila razdeljena na tri stanove: plemstvo, duhovščino in tretji stan. Plemstvo in duhovščina sta uživali v privilegijih in bogastvu, medtem ko je tretji stan, ki je vključeval večino prebivalstva, nosil največje davčne breme in ni imel nobene politične moči. Francija je v 18. stoletju doživela vrsto gospodarskih kriz, ki so prizadele predvsem tretji stan. Povečanje cen hrane, brezposelnost in revščina so povzročili veliko trpljenje in nemir med prebivalstvom. Ideje razsvetljenstva, ki so poudarjale svobodo, enakost in bratstvo, so se med prebivalstvom širile vedno bolj. Ljudje so se uprli absolutistični monarhiji in zahtevali spremembe. Revolucija je privedla do strmoglavljenja kralja Ludvika XVI, vzpostavitve republike in sprejetja Deklaracije o človekovih in državljanskih pravicah.",
+                "Inference pair": "Restavracija Bourbonov je bilo obdobje v francoski zgodovini, ki je trajalo od leta 1815 do 1830. Predstavljalo je vrnitev monarhije Bourbonov na oblast po porazu Napoleona Bonaparteja. Ta dogodek je pomenil dramatičen prelom s francosko revolucijo in njenimi ideali svobode, enakosti in bratstva. Nova vlada je sprejela konzervativne politike, ki so omejevale svoboščine, dosežene med revolucijo. To je vključevalo omejitve svobode tiska, verske svobode in politične participacije. Vlada je okrepila tudi moč Cerkve in plemstva, ki sta izgubila privilegije med revolucijo, medtem ko so kmetje in delavci ostali revni in brez pravic. Množična vrnitev plemstva, ki je bilo med francosko revolucijo prisiljeno v izgnanstvo, je imela tudi vpliv na umetnost in kulturo tistega časa. Mnogi umetniki in pisatelji so se v tem obdobju osredotočili na teme nostalgije za starim redom in kritike revolucije.",
+                "Chain_of_thought": "Francoska revolucija in restavracija Bourbonov sta medsebojno nasprotujoča si dogodka po svojem izhodišču, ciljih, notranjih razlogih in družbenih učinkih. Francoska revolucija je bila radikalna družbena in politična preobrazba, ki je strmoglavila monarhijo in vzpostavila republiko na podlagi idej svobode, enakosti in bratstva. Restavracija Bourbonov pa je predstavljala vrnitev monarhije in s tem obnovo starega reda pred revolucijo. Glavni vzrok revolucije je bila globoka neenakost med stanovi in želja po spremembi družbenega sistema. Ljudje so se borili proti absolutistični monarhiji in zatiranju s strani plemstva in duhovščine. Obnovitev monarhije Bourbonov pa ni bila posledica ljudskega upora ali želje po spremembi, ampak zunanjega vpliva zmagovitih zaveznikov v Napoleonovih vojnah. Njihov namen je bil zagotoviti vrnitev starega reda in preprečiti širjenje revolucionarnih idej.Revolucija je prinesla osvoboditev tretjega stanu in vzpostavitev bolj enakopravne družbe. Revolucija je prinesla osvoboditev tretjega stanu in vzpostavitev bolj enakopravne družbe, restavracija Bourbonov pa je utrdila privilegirani položaj plemstva in duhovščine ter potisnila tretji stan nazaj v položaj podrejenosti in izkoriščanja.",
+                "Explanation": [
+                    "Francoska revolucija in restavracija Bourbonov predstavljata dve nasprotni smeri v francoski zgodovini.",
+                    "Revolucija je bila boj za svobodo in enakost, medtem ko je Restavracija Bourbonov pomenila obnovo starega reda neenakosti in zatiranja."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Francoska družba 18. stoletja je bila razdeljena na tri stanove: plemstvo, duhovščino in tretji stan. Plemstvo in duhovščina sta uživali v privilegijih in bogastvu, medtem ko je tretji stan, ki je vključeval večino prebivalstva, nosil največje davčne breme in ni imel nobene politične moči. Francija je v 18. stoletju doživela vrsto gospodarskih kriz, ki so prizadele predvsem tretji stan. Povečanje cen hrane, brezposelnost in revščina so povzročili veliko trpljenje in nemir med prebivalstvom. Ideje razsvetljenstva, ki so poudarjale svobodo, enakost in bratstvo, so se med prebivalstvom širile vedno bolj. Ljudje so se uprli absolutistični monarhiji in zahtevali spremembe. Revolucija je privedla do strmoglavljenja kralja Ludvika XVI, vzpostavitve republike in sprejetja Deklaracije o človekovih in državljanskih pravicah.",
+                "Inference pair": "Obdobje razsvetljenstva je bilo zaznamovano s poudarkom na razumu, svobodi in napredku. Razsvetljenstvo je kritiziralo fevdalni sistem in plemiške privilegije ter spodbudilo vzpon srednjega razreda, ki je postal pomembna sila v družbi. Odprti duh razsvetljenstva se je odražal v vseh vidikih kulture, vključno z umetnostjo, glasbo, literaturo in arhitekturo. V literaturi so se uveljavljali romani, drame in eseji, ki so obravnavali teme, kot so človeška narava, družbena kritika in politična filozofija. Pomembni pisatelji razsvetljenstva so bili Voltaire, Denis Diderot, Jean-Jacques Rousseau in Mary Wollstonecraft. V umetnosti je prevladoval neoklasicizem, ki se je zgledoval po antični Grčiji in Rimu. Umetniki so ustvarjali slike in skulpture z mitološkimi in zgodovinskimi temami, ki so poudarjale ideale svobode, vrlini in junaštva.",
+                "Chain_of_thought": "18. stoletje je bilo obdobje razsvetljenstva, ki je spremenil poglede ljudi na družbeno ureditev in na razumevanje sveta nasploh.",
+                "Explanation": []
             }
         },
         "Scenario 2": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Izum tiskarskega stroja v sredini 15. stoletja s strani Johannesa Gutenberga je pomenil prelomnico v človeški zgodovini. Ta genialni stroj, sestavljen iz premikljive kovinske črke in tiskarske stiskalnice, je ponudil revolucionarno metodo za razmnoževanje pisnih gradiv. Pred izumom tiskarskega stroja so morali ilustracije in besedilo ročno nanašati na papir. Znanje je bilo omejeno na majhen krog ljudi, predvsem učenjake in duhovščino. Stiskalnica je omogočila hiter prenos črnila na papir s pomočjo posebne oblike, ki je pritisnila črkovnike na površino. Vsaka črka je bila ločen kos kovine, ki ga je bilo mogoče hitro preurediti in ponovno uporabiti za ustvarjanje novih besedil. To drastično zmanjšanje časa proizvodnje in stroškov je ustvarilo plodna tla za široko razširjanje znanja in idej.",
+                "Inference pair": "Izum tiskarskega stroja v 15. stoletju je sprožil pravo eksplozijo tiskovin. Do konca 15. stoletja je bilo v Evropi že več kot 200 tiskarn, ki so delovale v več kot 200 mestih. To je omogočilo lažji dostop do knjig v različnih regijah in jezikih. Po ocenah zgodovinarjev je bilo v 50 letih po Gutenbergovem izumu natisnjenih že več kot 30.000 različnih naslovov, v naslednjem stoletju pa se je ta številka povzpela na neverjetnih 300.000. Proizvodnja knjig s tiskarskim strojem je bila bistveno cenejša od ročnega prepisovanja. V enem dnevu je bilo mogoče natisniti na stotine izvodov, kar je prej bilo nepredstavljivo. Ljudje iz vseh družbenih slojev so se lahko zdaj poglobili v široko paleto idej in perspektiv, kar je spodbujalo kritično razmišljanje, razprave in željo po raziskovanju. Tiskarski stroj je postavil temelje za sodobno informacijsko družbo.",
+                "Chain_of_thought": "Izum tiskarskega stroja v 15. stoletju je omogočil hitrejše in cenejše tiskanje knjig in letakov v primerjavi z ročnim prepisovanjem. Večja učinkovitost in nižji stroški tiskarskega stroja so spodbudili tiskanje večjega števila knjig. Cenovno dostopna množična proizvodnja knjig je vodila do širšega dostopa do znanja. Ker so ljudje iz vseh družbenih slojev pridobili možnost, da so se seznanili z različnimi idejami in znanjem, so bili ustvarjeni pogoji za družbeni in intelektualni razvoj Evrope.",
+                "Explanation": [
+                    "Dogodek A je ustvaril pogoje za nastop sklopa dogodkov B."
+                ]
             },
             "Contradiction": {
                 "Scenario": "",
@@ -34,30 +43,42 @@
                 "Explanation": ""
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Izum tiskarskega stroja v sredini 15. stoletja s strani Johannesa Gutenberga je pomenil prelomnico v človeški zgodovini. Ta genialni stroj, sestavljen iz premikljive kovinske črke in tiskarske stiskalnice, je ponudil revolucionarno metodo za razmnoževanje pisnih gradiv. Pred izumom tiskarskega stroja so morali ilustracije in besedilo ročno nanašati na papir. Znanje je bilo omejeno na majhen krog ljudi, predvsem učenjake in duhovščino. Stiskalnica je omogočila hiter prenos črnila na papir s pomočjo posebne oblike, ki je pritisnila črkovnike na površino. Vsaka črka je bila ločen kos kovine, ki ga je bilo mogoče hitro preurediti in ponovno uporabiti za ustvarjanje novih besedil. To drastično zmanjšanje časa proizvodnje in stroškov je ustvarilo plodna tla za široko razširjanje znanja in idej.",
+                "Inference pair": "V istem stoletju kot izum tiskarskega stroja se je zgodil tudi prelomni dogodek za evropsko raziskovanje ozemelj -- odkritje Amerike. V 15. stoletju je bila Evropa močno odvisna od trgovine z Azijo, zlasti za začimbe, svilo in druge luksuzne izdelke. Te poti so bile v rokah Arabcev in Osmanov, kar je pomenilo visoke stroške in omejen dostop za Evropejce. Leta 1492 se je genovski pomorščak Krištof Kolumb pod okriljem španske krone podal na zahodno potovanje čez Atlantski ocean v iskanju zahodne poti v Azijo. Njegovo potovanje je vodilo prepričanje, da je Zemlja okrogla in da je mogoče doseči Azijo z jadranjem zahodno od Evrope. Po dveh mesecih plovbe je Kolumbova posadka 12. oktobra 1492 naletela na kopno na Bahamskih otokih. Prepričan, da je dosegel Indijo, je Kolumb te otoke in kasneje Kubo in Hispaniolo imenoval za Vzhodno Indijo.",
+                "Chain_of_thought": "Čeprav je proces izuma tiskarskega stroja (med leti 1440 in 1450) potekal pred dogodkom Kolumbovega odkritja Amerike (1492), prvi dogodek ni povzročil drugega dogodka. Čeprav sta se oba dogodka zgodila v časovnem zaporedju, nista bila neposredno medsebojno vzročno povezana. Izum tiskarskega stroja ni povzročil odkritja Amerike oz. ni imel neposredne vzročne zveze z odkritjem Amerike. Notranji razlogi in zunanji dejavniki za nastop obeh dogodkov so bili različni. Izum tiskarskega stroja ni bil nujn dejavnik, ki bi vplival na odkritje Amerike.",
+                "Explanation": [
+                    "Čeprav se dva dogodka zgodita v časovnem zaporedju, to ne pomeni nujno, da je prvi dogodek (dogodek A) vzrok za drugi dogodek (dogodek B).",
+                    "Dogodek A in dogodek B sta lahko v razmerju nevtralnosti zaradi sočasnosti nastopa, naključja ali skupnega vzroka."
+                ]
             }
         },
         "Scenario 3": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Sredi 14. stoletja je Evropo zajela temačna bubonska kuga, znana tudi kot črna smrt. Ta izjemno nalezljiva bolezen, ki so jo prenašale bolhe na okuženih podganah, je kot požar divjala po celini, sejala smrt in opustošenje. V tem vzdušju neizmernega trpljenja in strahu so ljudje iskali razlage za to neizprosno nesrečo. V ozadju so tlele že obstoječe verske napetosti in družbene neenakosti. V iskanju grešnih kozlov so se te napetosti razplamtele in obrnile proti marginaliziranim skupinam, zlasti Judi so postali tarča sovraštva in obtožb. Obtoževali so jih, da so z zastrupljanjem vodnjakov povzročili kugo in širili bolezen. To lažno prepričanje je sprožilo val nasilja in preganjanja. Judovska prebivalstva so bila izgnana iz svojih domov, premoženje jim je bilo zaplenjeno, mnogi pa so bili žrtve pogromov in umorov.",
+                "Inference pair": "Leta 1692 je majhno puritansko mesto Salem v Massachusettsu pretresla histerija, ki je vodila do enega najbolj tragičnih poglavij v ameriški zgodovini – salemskih čarovniških procesov. Serija preganjanj, zaplemb premoženja, obtožb, sojenj in usmrtitev zaradi čarovništva je temeljila na lažnih obtožbah, strahu in verskem fanatizmu, ki so v tistem času prevladovali v skupnosti. Vse se je začelo z nepojasnjenimi boleznimi, ki so prizadele nekaj mladih deklet v Salemu. V ozadju družbenega nemira in verskih napetosti so nekateri v teh boleznih videli delo čarovnic. Obtožene so bile ženske vseh družbenih slojev, a so bile večinoma starejše, revne ali drugače drugačne ženske, ki so jih že prej marginalizirali.",
+                "Chain_of_thought": "Čeprav sta zgodovinska dogodka ločena s časom in prostorom, imata iste notranje razloge. Skupno obema dogodkoma je obstoj predhodnih družbenih napetosti in razslojevanja. Oba dogodka sta se zgodila v ozadju neizmernega trpljenja in strahu, ko sta se družbi soočali z neizprosnimi nesrečami – bubonsko kugo in nepojasnjenimi boleznimi. V tem vzdušju negotovosti so ljudje iskali razlage in iskanje krivca. V obeh primerih so bile tarča preganjanja marginalizirane skupine, v 14. stoletju Judje in v Salemu leta 1692 ženske, pogosto starejše, revne ali drugačne. Jude so obtoževali zastrupitve vodnjakov in širjenja kuge, medtem ko so bile ženske v Salemu obtožene čarovništva. Preganjanje je temeljilo na predsodkih do drugačnih ljudi in na verskem fanatizmu. Lažne obtožbe so vodile do nasilja, izgonov in umorov nedolžnih ljudi.",
+                "Explanation": [
+                    "V obdobjih velikih zdravstvenih kriz (kuge, nepojasnjene bolezni) se okrepijo že obstoječe družbene napetosti, razslojevanje in verski fanatizem.",
+                    "Ko se soočajo s smrtjo in boleznijo, ljudje pogosto doživijo intenziven strah in negotovost, ki lahko vodi do nezaupanja, paranoje in sovraštva do tistih, ki so drugačni ali marginalizirani.",
+                    "Ker ne najdejo razlage za trpljenje in nesrečo, se ljudje lahko obrnejo na preproste in včasih lažne razlage, ki obtožujejo marginalizirane skupine.",
+                    "Marginalizirane skupine so v kriznih časih lahko žrtve lažnih obtožb, nasilja in preganjanja."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Sredi 14. stoletja je Evropo zajela temačna bubonska kuga, znana tudi kot črna smrt. Ta izjemno nalezljiva bolezen, ki so jo prenašale bolhe na okuženih podganah, je kot požar divjala po celini, sejala smrt in opustošenje. V tem vzdušju neizmernega trpljenja in strahu so ljudje iskali razlage za to neizprosno nesrečo. V ozadju so tlele že obstoječe verske napetosti in družbene neenakosti. V iskanju grešnih kozlov so se te napetosti razplamtele in obrnile proti marginaliziranim skupinam, zlasti Judi so postali tarča sovraštva in obtožb. Obtoževali so jih, da so z zastrupljanjem vodnjakov povzročili kugo in širili bolezen. To lažno prepričanje je sprožilo val nasilja in preganjanja. Judovska prebivalstva so bila izgnana iz svojih domov, premoženje jim je bilo zaplenjeno, mnogi pa so bili žrtve pogromov in umorov.",
+                "Inference pair": "Izbruh Ebole v Zahodni Afriki med letoma 2014 in 2016 je bil eden najhujših izbruhov te smrtonosne bolezni v zgodovini. Zabeležili so več kot 28.000 smrtnih primerov, večinoma v Gvineji, Liberiji in Sierra Leoneju. Čeprav so se na začetku izbruha pojavljale nekatere napačne predstave o vzroku Ebole, so se sčasoma s prizadevanji za ozaveščanje javnosti uveljavila bolj znanstvena razumevanja. Svetovna zdravstvena organizacija in lokalne zdravstvene organizacije so igrale ključno vlogo pri širjenju natančnih informacij o načinu prenosa bolezni in preventivnih ukrepih. V Zahodni Afriki ni bilo pomembnih obstoječih družbenih napetosti, ki bi bile povezane z Ebolo. Tudi verska pripadnost tu ni igrala nobene vloge. To je zmanjšalo tveganje za iskanje grešnih kozlov in tako tudi ni prišlo do usmerjanja jeze zaradi širjenja bolezni proti določenim skupinam.",
+                "Chain_of_thought": "Čeprav sta bili tako ebola v Zahodni Afriki kot bubonska kuga uničujoči pandemiji, ki sta povzročili veliko trpljenja in smrti, se je odziv ljudi na obe bolezni pomembno razlikoval. Te razlike so bile posledica različnih dejavnikov, kot so različen družbeni kontekst, drugačno razumevanje bolezni v 14. in 21. stoletju in znanstveni napredek, ki je bil dosežen v več stoletjih. Kljub podobnim izzivom z negotovostjo, strahovi in stisko v primeru ebole ni bilo opaziti obsežnega iskanja krivcev ali obtoževanja določenih marginaliziranih skupin za širjenje bolezni.",
+                "Explanation": [
+                    "Dva zgodovinska dogodka sta si lahko navidez podobna, a imata različne notranje razloge in različen družbeni kontekst.Taka navidez podobna, a v resnici različna zgodovinska dogodka ne vodita do analognih družbenih posledic."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Sredi 14. stoletja je Evropo zajela temačna bubonska kuga, znana tudi kot črna smrt. Ta izjemno nalezljiva bolezen, ki so jo prenašale bolhe na okuženih podganah, je kot požar divjala po celini, sejala smrt in opustošenje. V tem vzdušju neizmernega trpljenja in strahu so ljudje iskali razlage za to neizprosno nesrečo. V ozadju so tlele že obstoječe verske napetosti in družbene neenakosti. V iskanju grešnih kozlov so se te napetosti razplamtele in obrnile proti marginaliziranim skupinam, zlasti Judi so postali tarča sovraštva in obtožb. Obtoževali so jih, da so z zastrupljanjem vodnjakov povzročili kugo in širili bolezen. To lažno prepričanje je sprožilo val nasilja in preganjanja. Judovska prebivalstva so bila izgnana iz svojih domov, premoženje jim je bilo zaplenjeno, mnogi pa so bili žrtve pogromov in umorov.",
+                "Inference pair": "Judovska skupnost v Evropi 14. stoletja je bila raznolika, sestavljena iz trgovcev, obrtnikov, učenjakov, zdravnikov in verskih voditeljev. Njihova prisotnost je bila pomembna za gospodarstvo in kulturo mnogih evropskih mest. Po svojih praznikih, običajih, kulturi in oblačenju so se precej razlikovali od kršanskega prebivalstva. Judje so bili pogosto dejavni v trgovini in financah, kar jim je prineslo bogastvo in vpliv. Vendar pa je to tudi privedlo do zavisti med nekaterimi krščanskimi prebivalci. Zaradi svoje dejavnosti na področju umetnosti, glasbe in literature so Judje  veliko prispevali k intelektualnemu življenju družbe in so bili pomembni prevajalci znanstvenih in filozofskih del iz arabščine in hebrejščine v latinščino. V mnogih evropskih državah so bili Judom dostopni poklici in pravice omejeni in so bili podvrženi posebnim davkom.",
+                "Chain_of_thought": "V 14. stoletju je bila v Evropi prisotna tudi judovska skupnost, ki se je od večinskega prebivalstva razlikovala po svoji veri in kulturi.",
+                "Explanation": [
+                    "V Evropi 14. stoletja so poleg večinskega kršanskega prebivalstva živeli tudi pripadniki drugih ver in kultur."
+                ]
             }
         },
         "Scenario 4": {
@@ -82,10 +103,12 @@
         },
         "Scenario 5": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Propad rimskega imperija v 5. stoletju našega štetja je bil prelomnica v evropski zgodovini. To obsežno cesarstvo, ki je nekoč obvladovalo velik del celine, je razpadlo zaradi notranjih spopadov, gospodarskih težav in vdorov barbarov.  To označuje konec antičnega sveta in začetek srednjega veka. V nastalem vakuumu moči so se uveljavili močni posamezniki, ki so prevzeli nadzor nad zemljo in ljudmi. Propad imperija je povzročil tudi gospodarsko krizo, ki je prizadela trgovino, kmetijstvo in mesta. To je spodbudilo razvoj fevdalnega sistema, pri katerem so se kmetje v zameno za zemljo in zaščito obvezali opravljati delo za svoje gospode. V tem kaotičnem obdobju se je krščanstvo uveljavilo kot prevladujoča religija v Evropi. Njegovo sporočilo o upanju in odrešitvi je privlačilo mnoge ljudi, ki so iskali smisel in tolažbo v nemirnih časih. Cerkev je podpirala fevdalni sistem, saj je to omogočilo plemičem, da so nadzorovali zemljo in prebivalstvo, cerkvi pa so v zameno odstopali delež svojih prihodkov.",
+                "Inference pair": "Vzpon fevdalizma v Evropi v srednjem veku je imel velik vpliv na nastanek viteške kulture. Ta kompleksna kultura je poudarjala vrednote, kot so čast, pogum, lojalnost in verska predanost. Vitezi so bili konjeniški bojevniki, ki so služili plemičem v zameno za fevd, posestvo zemlje. Njihova glavna naloga je bila boj v vojni, vendar so se ukvarjali tudi z drugimi dejavnostmi, kot so turnirji, lov in sodelovanje v viteških sodiščih. Plemiči so potrebovali usposobljene bojevnike za zaščito svojih fevdov in so viteškim kandidatom nudili usposabljanje in opremo. Krščanska vera je bila osrednji del viteške identitete. Vitezi so se videli kot branilci krščanske vere in so se z vnemo udeleževali križarskih pohodov v Sveto deželo. Cerkev je v viteštvu prepoznavala močno zaveznico v svojih prizadevanjih za širjenje krščanstva in zaščito vernikov, zato je viteštvo aktivno podpirala.",
+                "Chain_of_thought": "Propad Rimskega imperija v 5. stoletju n. št. je sprožil vrsto dogodkov, ki so sčasoma privedli do vzpona viteške kulture v Evropi. Propad centralne oblasti je ustvaril ugodno okolje za razvoj fevdalnega sistema, kjer so plemiči nadzorovali zemljo in prebivalstvo v zameno za zaščito. Vitezi so postali pomemben del tega sistema, saj so plemičem zagotavljali vojaško moč.",
+                "Explanation": [
+                    "Propad Rimskega imperija (dogodek A) je ustvaril družbene, gospodarske in verske pogoje, ki so bili potrebni za nastanek viteške kulture (dogodek B)."
+                ]
             },
             "Contradiction": {
                 "Scenario": "",
@@ -847,9 +870,11 @@
         "Scenario 3": {
             "Entailment": {
                 "Scenario": "Družina Posedel se že nekaj mesecev veseli dopusta na Malti. Končno je napočil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kovčke in se prepričali, da so vzeli vse potrebno. Pred odhodom se usedejo še pred televizor, da bi gledali poročila. Med poročili slišijo zaskrbljujočo novico: policija opozarja na povečano število vlomov v stanovanja med poletnimi meseci. Vlomilci izkoriščajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja.",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Inference pair": "Ker so slišali zaskrbljujočo novico o vlomih, se je družina Posedel odločila za takojšnje ukrepanje, da bi zaščitila svoj dom pred morebitnimi vlomilci pred odhodom na dopust. Okrepili so ključavnice na vratih in oknih ter poskrbeli, da so vsa okna zaprta in zaklenjena. Poleg tega so prosili soseda, da med njihovo odsotnostjo redno prazni poštni nabiralnik in dvigne časopise, s čimer so ustvarili videz, da je hiša naseljena. Dragocenosti so poskrili na varno mesto in shranili kopije pomembnih dokumentov v oblaku. Čeprav so bili zaskrbljeni zaradi vlomov, so se z izvedbo teh hitrih ukrepov lažje odpravili na dopust, saj so vedeli, da so storili vse potrebno za zaščito svojega doma.",
+                "Chain_of_thought": "Družina Posedel se je odpravljala na dopust na Malto. Med gledanjem poročil pred odhodom so slišali novico o povečanem številu vlomov v stanovanja med poletnimi meseci. Zaskrbljeni so bili zaradi varnosti svojega doma med odsotnostjo. Z zaščitnimi ukrepi so lahko zmanjšali tveganje za vlom in se lažje odpravili na dopust.",
+                "Explanation": [
+                    "Zaradi grožnje vloma in želje po zaščiti doma se je družina pred odhodom na dopust odločila za izvedbo zaščitnih ukrepov."
+                ]
             },
             "Contradiction": {
                 "Scenario": "Družina Posedel se že nekaj mesecev veseli dopusta na Malti. Končno je napočil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kovčke in se prepričali, da so vzeli vse potrebno. Pred odhodom se usedejo še pred televizor, da bi gledali poročila. Med poročili slišijo zaskrbljujočo novico: policija opozarja na povečano število vlomov v stanovanja med poletnimi meseci. Vlomilci izkoriščajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja.",
@@ -1621,10 +1646,13 @@
     "Fictional Stories": {
         "Scenario 1": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Strah je stiskal Lei prsi, ko je gledala skozi okno vesoljske ladje na rdečo puščavo Marsa. Njena notranjost je bila polna tesnobe in dvomov. Bila je prva človeška pilotka, ki je pristala na tem oddaljenem planetu. Navdušenje nad raziskovanjem novega sveta se je mešalo z občutkom osamljenosti in negotovosti. Toda ko je pogledala po posadki, je videla odločnost in samozavest v njihovih očeh. Kapitan Zhang ji je s toplim nasmehom pokimal in ji s tem vlil pogum. Njena živčnost se je počasi umirila, nadomestila jo je osredotočenost na uspešno izvedbo misije.",
+                "Inference pair": "Lea se je ob pogledu skozi okno vesoljske ladje prestrašena zazrla v prostranstvo rdeče puščave Marsa. V sebi je bila vsa tesnobna in negotova, ob zavedanju, da je prva ženska pilotka, ki je stopila na to oddaljeno in nepoznano ozemlje. Vznemirljenje ob raziskovanju novega sveta se je prepletalo z občutkom izoliranosti. in neznanega. Toda ko je pogledala po obrazih svojih sopotnikov, je v njihovih očeh zaznala neomajnost in vero vase. Kapitan Zhang ji je namenil smejoče odobravanje, kar ji je vlilo novo moč za boj. Namesto nervoze se je usmerila v uspešno izvedbo misije.",
+                "Chain_of_thought": "Oba odstavka imata skupno temo. Oba odstavka opisujejo Leino izkušnjo ob pristanku na Marsu. V obeh odstavkih so prisotna čustva strahu, tesnobe, navdušenja in osamljenosti. Oba odstavka poudarjata pomen podpore sopotnikov in kapitana Zhanga. Oba odstavka se končata z Leino osredotočenostjo na uspešno izvedbo misije.",
+                "Explanation": [
+                    "Kljub razlikam v izbiri besed oba odstavka ohranjata osnovno sporočilo zgodbe.",
+                    "Drugi odstavek ohranja osnovno sporočilo prvega odstavka, čeprav opise čustev in doživljanja nadomesti s sinonimi."
+                ]
             },
             "Contradiction": {
                 "Scenario": "",
