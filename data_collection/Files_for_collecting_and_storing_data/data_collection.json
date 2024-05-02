@@ -202,102 +202,132 @@
         },
         "Scenario 11": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med francosko revolucijo leta 1789 je Francija doživela radikalne politične in družbene spremembe. Revolucionarji so strmoglavili monarhijo, razglasili republiko in izvedli množične politične čistke, znane kot Teror.",
+                "Inference pair": "Francoska revolucija je prinesla dolgoročne politične in družbene spremembe v Franciji. Kljub nasilnemu obdobju Terorja je revolucija vodila v ustanovitev republike, uveljavitev načel enakosti in pravic človeka ter postavitev temeljev za sodobno demokracijo v Franciji.",
+                "Chain_of_thought": "1. Francija je med revolucijo leta 1789 doživela radikalne spremembe. 2. Revolucionarji so strmoglavili monarhijo in razglasili republiko. 3. Kljub nasilnemu obdobju Terorja je revolucija prinesla politično stabilnost.",
+                "Explanation": [
+                    "Hipoteza je logično izpeljana iz premise. Kljub nasilnemu obdobju Terorja revolucija vodila k ustanovitvi republike, kar potrjuje dejstvo, da so bile revolucionarne spremembe dolgoročno pozitivne."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med francosko revolucijo leta 1789 je Francija doživela radikalne politične in družbene spremembe. Revolucionarji so strmoglavili monarhijo, razglasili republiko in izvedli množične politične čistke, znane kot Teror.",
+                "Inference pair": "Francoska revolucija je bila zgolj nasilno prevzemanje oblasti s strani radikalnih skupin, kar je privedlo do kaosa in nestabilnosti. Namesto uvedbe demokracije je Teror povzročil še več nasilja in zatiranja, kar je na dolgi rok negativno vplivalo na Francijo.",
+                "Chain_of_thought": "1. Francija je med revolucijo leta 1789 doživela radikalne spremembe. 2. Revolucionarji so strmoglavili monarhijo in izvedli množične politične čistke. 3. Teror je povzročil nestabilnost in nasilje.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi. Medtem ko je premisa opisala revolucionarne spremembe, ki so vodile v politično nestabilnost, hipoteza trdi, da so bile te spremembe zgolj izvor kaosa in nasilja, kar je v nasprotju z dejstvi."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med francosko revolucijo leta 1789 je Francija doživela radikalne politične in družbene spremembe. Revolucionarji so strmoglavili monarhijo, razglasili republiko in izvedli množične politične čistke, znane kot Teror.",
+                "Inference pair": "Francoska revolucija je bila zapleten dogodek, ki je imel tako pozitivne kot negativne posledice za današnjo Slovenijo. V časih po francoski revoluciji so bile na ozemlju današnje Slovenije ustanovljene Ilirske province.",
+                "Chain_of_thought": "1. Francija je med revolucijo leta 1789 doživela radikalne spremembe. 2. Revolucionarji so strmoglavili monarhijo in razglasili republiko. 3. Francoska revolucija je imela posledice tudi za ozemlje današnje Slovenije.",
+                "Explanation": [
+                    "Obe besedili obravnavata revolucionarne spremembe v Franciji, vendar hipoteza opisuje povsem druge posledice kot tiste, ki so izpostavljene v premisi."
+                ]
             }
         },
         "Scenario 12": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Socialistične federativne republike Jugoslavije. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade z Jugoslovansko ljudsko armado (JLA) in srbskimi paravojaškimi enotami.",
+                "Inference pair": "Desetdnevna vojna za Slovenijo je pripeljala do osamosvojitve države in njene neodvisnosti od Jugoslavije. Kljub nasilnim spopadom je slovenska osamosvojitvena vojna postala simbol boja za svobodo in demokracijo na koncu 20. stoletja.",
+                "Chain_of_thought": "1. Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Jugoslavije. 2. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade. 3. Kljub nasilnim spopadom je vojna pripeljala do osamosvojitve.",
+                "Explanation": [
+                    "Hipoteza je logično izpeljana iz premise, saj potrjuje, da je desetdnevna vojna za Slovenijo pripeljala do osamosvojitve in neodvisnosti države."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Socialistične federativne republike Jugoslavije. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade z Jugoslovansko ljudsko armado (JLA) in srbskimi paravojaškimi enotami.",
+                "Inference pair": "Desetdnevna vojna za Slovenijo leta 1991 je bila zgolj vojna za teritorialno širitev Slovenije in prevzem nadzora nad jugoslovanskimi republikami. Slovenska neodvisnost ni bila cilj, temveč le korak v ponovni vzpostavitvi velike Slovenije, kot je bila konec 19. stoletja.",
+                "Chain_of_thought": "1. Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Jugoslavije. 2. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade. 3. Vojna za teritorialno širitev Slovenije je bila cilj.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj trdi, da desetdnevna vojna ni bila povezana z osamosvojitvijo Slovenije, temveč je bila zgolj vojna za teritorialno širitev. To stališče je v nasprotju z dejstvi o naravi in ciljih vojne leta 1991."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Socialistične federativne republike Jugoslavije. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade z Jugoslovansko ljudsko armado (JLA) in srbskimi paravojaškimi enotami.",
+                "Inference pair": "Desetdnevna vojna za Slovenijo leta 1991 je predstavljala zapleten vojaški konflikt, v kateri pa ni bilo uporabljeno jedrsko orožje. Takrat sem bila stara 12 let.",
+                "Chain_of_thought": "1. Desetdnevna vojna za Slovenijo leta 1991 je bila posledica razpada Jugoslavije. 2. Slovenija je razglasila neodvisnost, kar je sprožilo oborožene spopade. 3. Vojaški konflikt je bil zapleten.",
+                "Explanation": [
+                    "Obe besedili obravnavata desetdnevno vojno za Slovenijo leta 1991, vendar hipoteza govori o stvareh, ki ne izhajajo iz premise."
+                ]
             }
         },
         "Scenario 13": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Gaj Julij Cezar, znan tudi kot Julij Cezar, je bil rimski general, ki je igral ključno vlogo pri vzponu rimskega imperija. S svojimi vojaškimi zmagami je razširil ozemlje rimskega imperija in krepil svoj vpliv v politiki.",
+                "Inference pair": "Rimski cesar je bil general Julij Cezar, ki je uspešno povečal ozemlje rimskega imperija in je zaslužen za takratno dobrobit imperija. Bil je vpliven mož.",
+                "Chain_of_thought": "1. Gaj Julij Cezar je bil pomemben rimska osebnost, znan po svojih vojaških uspehih. 2. Njegovi dosežki so prispevali k vzponu rimskega imperija. 3. Postopoma je pridobil politično moč in vpliv. 4. Hipoteza izhaja iz premisa in potrjuje Cezarjev prevzem oblasti.",
+                "Explanation": [
+                    "Hipoteza je logično izpeljana iz premise, ki opisuje Cezarjevo vlogo kot pomembnega rimsko vojskovodjo in politika."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Gaj Julij Cezar, znan tudi kot Julij Cezar, je bil rimski general, ki je igral ključno vlogo pri vzponu rimskega imperija. S svojimi vojaškimi zmagami je razširil ozemlje rimskega imperija in krepil svoj vpliv v politiki.",
+                "Inference pair": "Rimski cesar je bil tiran in diktator, ki je prevzel oblast z vojaškim prevratom in zatrl demokratične institucije Rimske republike. Cezarjeva vladavina je bila izraz absolutne moči in avtokracije.",
+                "Chain_of_thought": "1. Gaj Julij Cezar je bil pomemben rimski vojskovodja in politik. 2. Hipoteza zavzema stališče, da je bil Cezar tiran in diktator, ki je prevzel oblast z vojaškim prevratom. 3. To stališče nasprotuje premisi, ki ga opisuje kot ključnega akterja pri vzponu rimskega imperija.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj prikazuje Cezarja kot tirana, medtem ko je premisa bolj naklonjena pozitivni predstavitvi njegove vloge v rimski zgodovini."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Gaj Julij Cezar, znan tudi kot Julij Cezar, je bil rimski general, ki je igral ključno vlogo pri vzponu rimskega imperija. S svojimi vojaškimi zmagami je razširil ozemlje rimskega imperija in krepil svoj vpliv v politiki.",
+                "Inference pair": "Gaj Julij Cezar je postal rimski cesar, ker je bil prepoznan kot izjemno sposoben voditelj in vojskovodja. Njegova avtoritativna vladavina je bila odgovor na potrebo po stabilnosti v turbulentnem obdobju rimske zgodovine.",
+                "Chain_of_thought": "1. Gaj Julij Cezar je bil pomemben rimska osebnost, znan po svojih vojaških uspehih. 2. Gaj Julij Cezar je bil avtoritativen. 3. v rimski imperij je vrnil stabilnost.",
+                "Explanation": [
+                    "Obe besedili obravnavata Gaja Julija Cezarja kot kompleksnega voditelja z različnimi vidiki, vendar opis osebnosti Gaja Julija Cezarja in opis stanja rimskega imperija nudita dodatne informacije, ki niso podane v premisi."
+                ]
             }
         },
         "Scenario 14": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Primož Trubar, slovenski protestantski duhovnik in pisatelj, znan kot oče slovenskega knjižnega jezika, je s svojimi deli, kot je Katekizem in Abecednik, prispeval k standardizaciji in razvoju slovenskega jezika. Njegova dela so poudarjala pomen slovenskega jezika in kulture ter spodbujala slovensko narodno zavest in identiteto. Kot je sam rekel: 'Stati inu obstati, ljubi Slovenci.'",
+                "Inference pair": "Primož Trubar je pomagal utrditi slovensko narodno zavest in identiteto s svojimi deli, ki so poudarjala pomen slovenskega jezika in kulture. Njegova prizadevanja so bila ključna za oblikovanje nacionalne identitete med Slovenci.",
+                "Chain_of_thought": "1. Primož Trubar je bil ključna osebnost v razvoju slovenskega knjižnega jezika. 2. Njegova dela so prispevala k standardizaciji in razvoju slovenskega jezika ter poudarjala pomen slovenske kulture.",
+                "Explanation": [
+                    "Hipoteza je logično izpeljana iz premisa, ki opisuje Trubarjev prispevek k razvoju slovenskega jezika in kulture."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Primož Trubar, slovenski protestantski duhovnik in pisatelj, znan kot oče slovenskega knjižnega jezika, je s svojimi deli, kot je Katekizem in Abecednik, prispeval k standardizaciji in razvoju slovenskega jezika. Njegova dela so poudarjala pomen slovenskega jezika in kulture ter spodbujala slovensko narodno zavest in identiteto. Kot je sam rekel: 'Stati inu obstati, ljubi Slovenci.'",
+                "Inference pair": "Primož Trubar ni imel pomembnega vpliva na slovensko kulturo in jezik, saj so njegova dela ostala neopažena in niso pripomogla k oblikovanju nacionalne identitete. Njegova prizadevanja so bila omejena na versko sfero in niso imela širšega družbenega vpliva. Kot je sam rekel: 'Biti ali ne biti, dragi Slovenci.'",
+                "Chain_of_thought": "1. Primož Trubar je bil slovenski protestantski duhovnik in pisatelj. 2. Njegova dela, kot sta Katekizem in Abecednik, so prispevala k standardizaciji slovenskega jezika ter poudarjala pomen slovenske kulture. 3. Hipoteza izhaja iz premisa, vendar zanika Trubarjev vpliv na slovensko kulturo in jezik. 4. Citata v hipotezi in premisi sta različna.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, ki opisuje Trubarjev prispevek k slovenskemu jeziku in kulturi, kar ustvarja nasprotujoča si stališča o njegovem vplivu."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Primož Trubar, slovenski protestantski duhovnik in pisatelj, znan kot oče slovenskega knjižnega jezika, je s svojimi deli, kot sta Katekizem in Abecednik, prispeval k standardizaciji in razvoju slovenskega jezika. Njegova dela so poudarjala pomen slovenskega jezika in kulture ter spodbujala slovensko narodno zavest in identiteto. Kot je sam rekel: 'Stati inu obstati, ljubi Slovenci.'",
+                "Inference pair": "Simon Gregorčič, slovenski duhovnik in pesnik, znan kot 'goriški slavček', je s svojimi deli, kot je pesem Soči, prispeval k standardizaciji in razvoju slovenskega jezika.",
+                "Chain_of_thought": "1. Primož Trubar je bil ključna figura v razvoju slovenskega knjižnega jezika in kulture. 2. Njegova dela, kot sta Katekizem in Abecednik, so prispevala k standardizaciji slovenskega jezika in poudarjala pomen slovenske kulture.",
+                "Explanation": [
+                    "Hipoteza je strukturno podobna premisi, vendar vsebuje druge podatke."
+                ]
             }
         },
         "Scenario 15": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Aleksander Makedonski, znan tudi kot Aleksander Veliki, je bil eden največjih osvajalcev v zgodovini. S svojo vojaško strategijo in sposobnostjo vladanja je ustvaril ogromno cesarstvo, ki se je raztezalo od Grčije do Egipta in do Indije.",
+                "Inference pair": "Aleksander Makedonski in današnja Severna Makedonija nimata ničesar skupnega. Čeprav je bil Aleksander Makedonski rojen na ozemlju, ki ga danes zaseda Severna Makedonija, njegovo cesarstvo ni neposredno povezano z današnjimi mejami te države.",
+                "Chain_of_thought": "1. Aleksander Makedonski je bil znan po svojih osvajalskih pohodih v antiki. 2. Njegovo cesarstvo se je raztezalo daleč izven ozemlja današnje Severne Makedonije.",
+                "Explanation": [
+                    "Hipoteza izhaja iz premisa, ki jasno ločuje med Aleksandrom Makedonskim in sodobno Severno Makedonijo, pri čemer upošteva zgodovinske in geografske kontekste."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Aleksander Makedonski, znan tudi kot Aleksander Veliki, je bil eden največjih osvajalcev v zgodovini. S svojo vojaško strategijo in sposobnostjo vladanja je ustvaril ogromno cesarstvo, ki se je raztezalo od Grčije do Egipta in do Indije.",
+                "Inference pair": "Aleksander Makedonski je bil voditelj antične Grčije in je prispeval k oblikovanju sodobne severnomakedonske kulture in identitete. Njegovo cesarstvo je imelo neposreden vpliv na oblikovanje današnje Severne Makedonije.",
+                "Chain_of_thought": "1. Aleksander Makedonski je bil znan po svojih osvajalskih pohodih v antiki. 2. Njegovo cesarstvo se je raztezalo tudi na ozemlje današnje Severne Makedonije.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj skuša povezati Aleksandra Makedonskega z današnjo Severno Makedonijo, medtem ko premisa jasno ločuje med zgodovinskim voditeljem in sodobno državo."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Aleksander Makedonski, znan tudi kot Aleksander Veliki, je bil eden največjih osvajalcev v zgodovini. S svojo vojaško strategijo in sposobnostjo vladanja je ustvaril ogromno cesarstvo, ki se je raztezalo od Grčije do Egipta in do Indije.",
+                "Inference pair": "Aleksander Makedonski je del naše skupne zgodovine, ki jo delimo s sodobnimi državami na območju Balkana, vključno s Severno Makedonijo. Tudi severnomakedonski predsednik je bil na obisku pri slovenskem predsedniku Borutu Pahorju.",
+                "Chain_of_thought": "1. Aleksander Makedonski je bil znan po svojih osvajalskih pohodih v antiki. 2. Njegovo cesarstvo se je raztezalo na območja, ki so vključevala današnjo Severno Makedonijo.",
+                "Explanation": [
+                    "Hipoteza izraža stališče, da je Aleksandrov vpliv oblikoval regijo Balkana, vendar pa nadaljevanje opisuje trenutno dogajanje, ki z Aleksandrom Velikim nima zveze."
+                ]
             }
         },
         "Scenario 16": {
@@ -604,102 +634,132 @@
         },
         "Scenario 11": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Po desetletjih raziskav in opazovanj so znanstveniki leta 2019 uspeli zajeti prvo sliko črne luknje. To je pomemben mejnik v astrofiziki, saj nam omogoča neposredno opazovanje najbolj skrivnostnih objektov v vesolju.",
+                "Inference pair": "Fotografija črne luknje, posneta leta 2019, je revolucionirala naše razumevanje vesolja. Omogoča nam, da preučujemo lastnosti in obnašanje črnih lukenj ter potrjujemo ali ovržemo teoretične modele.",
+                "Chain_of_thought": "1. Leta 2019 so znanstveniki prvič zajeli sliko črne luknje. 2. To je pomemben mejnik v astrofiziki, saj nam omogoča neposredno opazovanje črnih lukenj. 3. Fotografija omogoča preučevanje lastnosti in obnašanja črnih lukenj, kar prispeva k našemu razumevanju vesolja.",
+                "Explanation": [
+                    "Hipoteza izhaja iz premisa, ki opisuje pomembnost prve slike črne luknje za astrofiziko. Fotografija omogoča neposredno opazovanje in preučevanje črnih lukenj, kar je ključno za napredek v razumevanju vesolja."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Po desetletjih raziskav in opazovanj so znanstveniki leta 2019 uspeli zajeti prvo sliko črne luknje. To je pomemben mejnik v astrofiziki, saj nam omogoča neposredno opazovanje najbolj skrivnostnih objektov v vesolju.",
+                "Inference pair": "Fotografija črne luknje, posneta leta 2019, je znanstvena prevara. Znanstveniki so ponaredili podatke in fotografije ter jih predstavili kot resnične, da bi dobili več sredstev za svoje raziskave.",
+                "Chain_of_thought": "1. Leta 2019 so znanstveniki prvič zajeli sliko črne luknje. 2. Hipoteza trdi, da so znanstveniki ponaredili podatke in fotografije. 3. To bi bilo v nasprotju s premiso, ki opisuje pomemben znanstveni dosežek.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj trdi, da so znanstveniki manipulirali s podatki in fotografijami, ki so jih predstavili kot resnične. To bi bilo v nasprotju s pomembnostjo prve slike črne luknje za astrofiziko."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Po desetletjih raziskav in opazovanj so znanstveniki leta 2019 uspeli zajeti prvo sliko črne luknje. To je pomemben mejnik v astrofiziki, saj nam omogoča neposredno opazovanje najbolj skrivnostnih objektov v vesolju.",
+                "Inference pair": "Fotografijo črne luknje, posneto leta 2019, sem naredil, ko sem slikal krater ognjenika Teide na Kanarskih otokih. Krater sem poimenoval 'črna luknja', čeprav to ni uradno ime.",
+                "Chain_of_thought": "1. Leta 2019 so znanstveniki prvič zajeli sliko črne luknje. 2. Hipoteza opisuje fotografijo neke druge črne luknje.",
+                "Explanation": [
+                    "Hipoteza prav tako kot premisa opisuje črno luknjo, vendar je iz konteksta razvidno, da gre za drugo črno luknjo, ki s tisto iz premise ni povezana."
+                ]
             }
         },
         "Scenario 12": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko je Isaac Newton leta 1687 objavil svoje delo 'Mathematical Principles of Natural Philosophy' (Matematični principi naravne filozofije), je to predstavljalo revolucionarno spremembo v fiziki. Newtonovi zakoni gibanja in zakon gravitacije so postavili temelje za razumevanje naravnih pojavov in so še danes ključni koncepti v fiziki.",
+                "Inference pair": "Newtonovi zakoni gibanja in zakon gravitacije, ki jih je Isaac Newton objavil leta 1687, so temeljni kamni sodobne fizike. Njegove ideje so oblikovale naše razumevanje vesolja in so ključne za razvoj znanosti.",
+                "Chain_of_thought": "1. Newtonove ideje, objavljene leta 1687, so postavile temelje sodobne fizike. 2. Njegovi zakoni gibanja in zakon gravitacije so ključni koncepti v fiziki.",
+                "Explanation": [
+                    "Hipoteza izhaja iz premisa, ki opisuje Newtonove zakone kot temelje sodobne fizike. Njegove ideje so ključne za razumevanje naravnih pojavov in so še danes osnovni koncepti v fiziki."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko je Isaac Newton leta 1687 objavil svoje delo 'Mathematical Principles of Natural Philosophy' (Matematični principi naravne filozofije), je to predstavljalo revolucionarno spremembo v fiziki. Newtonove zakone gibanja in zakon gravitacije so postavili temelje za razumevanje naravnih pojavov in so še danes ključni koncepti v fiziki.",
+                "Inference pair": "Newtonove teorije, objavljene leta 1687, so bile preprosto napačne. Kasnejše raziskave so pokazale, da so njegove ideje o gibanju in gravitaciji popolnoma netočne.",
+                "Chain_of_thought": "1. Newtonove teorije, objavljene leta 1687, so temeljile na zakonih gibanja in gravitacije. 2. Hipoteza trdi, da so bile te teorije napačne.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj trdi, da so Newtonove teorije netočne. To je v nasprotju s splošnim sprejetjem Newtonovih idej kot ključnih konceptov v fiziki."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko je Isaac Newton leta 1687 objavil svoje delo 'Mathematical Principles of Natural Philosophy' (Matematični principi naravne filozofije), je to predstavljalo revolucionarno spremembo v fiziki. Newtonove zakone gibanja in zakon gravitacije so postavili temelje za razumevanje naravnih pojavov in so še danes ključni koncepti v fiziki.",
+                "Inference pair": "Newtonove teorije, objavljene leta 1687, so bile pomembne za razvoj fizike svojega časa, vendar so kasnejše raziskave pokazale, da so potrebne nadgradnje in popravki.",
+                "Chain_of_thought": "1. Newtonove teorije so bile revolucionarne v fiziki svojega časa. 2. Hipoteza trdi, da so bile pomembne za razvoj fizike, vendar da potrebujejo nadgradnje. 3. Spremembe v našem razumevanju fizike ne izpodkopavajo pomembnosti Newtonovih idej, temveč le kažejo na potrebo po razvoju znanosti.",
+                "Explanation": [
+                    "Hipoteza izraža stališče, da so Newtonove teorije bile pomembne za razvoj fizike, vendar da so potrebne nadgradnje in popravki. To ne izpodkopava pomembnosti Newtonovih idej, temveč le kaže na dinamičnost znanstvenega napredka."
+                ]
             }
         },
         "Scenario 13": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Kot je navedeno v raziskavi, objavljeni v reviji Nature leta 2020, so znanstveniki odkrili nov način shranjevanja podatkov v DNA. S tem odkritjem se odpirajo nove možnosti za dolgoročno arhiviranje velikih količin informacij na izjemno majhnem prostoru.",
+                "Inference pair": "Nov način shranjevanja podatkov v DNA, ki so ga znanstveniki odkrili leta 2020, bo revolucioniral način, kako shranjujemo in dostopamo do informacij. Sposobnost kodiranja podatkov v DNA prinaša možnost trajnega arhiviranja ogromnih količin podatkov na izjemno majhnem prostoru.",
+                "Chain_of_thought": "1. Raziskava, objavljena v reviji Nature, opisuje nov način shranjevanja podatkov v DNA. 2. To odkritje odpira nove možnosti za arhiviranje informacij.",
+                "Explanation": [
+                    "Hipoteza je logična posledica premisa, saj temelji na odkritju, ki ga opisuje raziskava. Nov način shranjevanja podatkov v DNA resnično ponuja velik potencial za revolucioniranje arhiviranja informacij."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Kot je navedeno v raziskavi, objavljeni v reviji Nature leta 2020, so znanstveniki odkrili nov način shranjevanja podatkov v DNA. S tem odkritjem se odpirajo nove možnosti za dolgoročno arhiviranje velikih količin informacij na izjemno majhnem prostoru.",
+                "Inference pair": "Raziskava, objavljena v reviji Nature leta 2020, je napačno interpretirala rezultate. Dejansko odkritje ne omogoča zanesljivega shranjevanja podatkov v DNA, saj so rezultati precej precenjeni.",
+                "Chain_of_thought": "1. Raziskava, objavljena v reviji Nature, opisuje nov način shranjevanja podatkov v DNA. 2. Hipoteza trdi, da so bili rezultati raziskave napačno interpretirani in precenjeni.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, ki opisuje odkritje novega način shranjevanja podatkov v DNA. Čeprav so lahko rezultati raziskave interpretirani različno, trditev v hipotezi kaže na nasprotovanje ideji o revolucionarnem odkritju."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Kot je navedeno v raziskavi, objavljeni v reviji Nature leta 2020, so znanstveniki odkrili nov način shranjevanja podatkov v DNA. S tem odkritjem se odpirajo nove možnosti za dolgoročno arhiviranje velikih količin informacij na izjemno majhnem prostoru.",
+                "Inference pair": "DNA je kratica za 'deoksiribonukleinska kislina'. Kaj točno to je, so odkrili v 40. letih prejšnjega stoletj. Vendar pa je potrebno več raziskav, da se ugotovi njegova zanesljivost in uporabnost v praksi.",
+                "Chain_of_thought": "1. Raziskava, objavljena v reviji Nature, opisuje nov način shranjevanja podatkov v DNA. 2. Hipoteza predstavi DNA in vendar izpostavlja potrebo po dodatnih raziskavah. 3. Medtem ko premisa opisuje odkritje novega načina podatkov, hipoteza opisuje samo DNA in izraža previdnost glede njegove dejanske uporabnosti.",
+                "Explanation": [
+                    "Hipoteza priznava potencial novosti, vendar obenem opozarja na potrebo po nadaljnjih raziskavah. Ta pristop izraža nevtralno stališče glede konkretnega vpliva odkritja."
+                ]
             }
         },
         "Scenario 14": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo objavljeno v članku v znanstveni reviji 'Science' leta 2019, so znanstveniki identificirali novo vrsto subatomskih delcev v pospeševalniku delcev CERN. Ta odkritja lahko privedejo do revolucionarnih sprememb v našem razumevanju osnovnih gradnikov vesolja.",
+                "Inference pair": "Nova odkritja v pospeševalniku delcev CERN, ki so jih znanstveniki objavili leta 2019, bodo privedla do razvoja novega standardnega modela fizike, ki bo vključeval odkrite subatomske delce. To bo omogočilo boljše razumevanje osnovnih zakonov fizike in njihovega delovanja.",
+                "Chain_of_thought": "1. V znanstvenem članku je opisano odkritje nove vrste subatomskih delcev. 2. To odkritje odpira nove možnosti v fiziki.",
+                "Explanation": [
+                    "Hipoteza izhaja iz premisa, saj temelji na odkritjih, opisanih v znanstvenem članku. Odkritje novih subatomskih delcev lahko resnično spremeni naše razumevanje fizike."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo objavljeno v članku v znanstveni reviji 'Science' leta 2019, so znanstveniki identificirali novo vrsto subatomskih delcev v pospeševalniku delcev CERN. Ta odkritja lahko privedejo do revolucionarnih sprememb v našem razumevanju osnovnih gradnikov vesolja.",
+                "Inference pair": "Raziskava objavljena v znanstveni reviji 'Science' leta 2019, je napačno interpretirala rezultate in dejansko odkritje ne predstavlja nič novega v fiziki. Nova odkritja so le posledica tehničnih napak in ne prinašajo nobenega resničnega znanstvenega napredka.",
+                "Chain_of_thought": "1. V znanstvenem članku je opisano odkritje nove vrste subatomskih delcev. 2. Hipoteza trdi, da so bili rezultati raziskave napačno interpretirani in ne prinašajo nobenega resničnega znanstvenega napredka.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, ki opisuje odkritje novih subatomskih delcev. Čeprav lahko rezultati raziskave včasih vzbudijo dvome, trditev v hipotezi kaže na nasprotovanje ideji o revolucionarnih spremembah v fiziki."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo objavljeno v članku v znanstveni reviji 'Science' leta 2019, so znanstveniki identificirali novo vrsto subatomskih delcev v pospeševalniku delcev CERN. Ta odkritja lahko privedejo do revolucionarnih sprememb v našem razumevanju osnovnih gradnikov vesolja.",
+                "Inference pair": "V vetrovniku je Primož Roglič delal na izboljšanju aerodinamičnosti njegove drže na kolesu. Svoj pospešek je izboljšal toliko, da so vetrovnik začeli klicati kar pospeševalnik.",
+                "Chain_of_thought": "1. V znanstvenem članku je opisano odkritje nove vrste subatomskih delcev. 2. Hipoteza poroča o treningu Primoža Rogliča, ki je v vetrovniku dosegel takšne izboljšave, da so mu začeli govoriti kar pospeševalnik.",
+                "Explanation": [
+                    "Hipoteza, tako kot v premisi, omenja pospeševalnik, vendar je iz konteksta očitno, da gre za dve popolnoma različni stvari."
+                ]
             }
         },
         "Scenario 15": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo iz knjige 'The Structure of Scientific Revolutions' Thomasa S. Kuhna, znanstvene paradigme niso zgolj kumulativni nabori dejstev, temveč kompleksna mreža teorij, zakonov, praks in vzorcev mišljenja, ki oblikujejo način, kako znanstveniki razumejo in interpretirajo svet.",
+                "Inference pair": "Razumevanje znanstvenih paradigem, kot je opisano v knjigi 'The Structure of Scientific Revolutions' Thomasa S. Kuhna, je ključno za raziskovanje dinamike znanstvenega napredka in inovacij, saj ponuja vpogled v procese, ki oblikujejo znanstvene revolucije.",
+                "Chain_of_thought": "1. Kuhnova knjiga obravnava znanstvene paradigme kot kompleksne sisteme. 2. Hipoteza izhaja iz premisa, saj prepoznava pomen razumevanja teh paradigem za raziskovanje znanstvenega napredka.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj gradi na razumevanju znanstvenih paradigem, kot jih opisuje Kuhn, ter poudarja njihov pomen za znanstveni napredek."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo iz knjige 'The Structure of Scientific Revolutions' Thomasa S. Kuhna, znanstvene paradigme niso zgolj kumulativni nabori dejstev, temveč kompleksna mreža teorij, zakonov, praks in vzorcev mišljenja, ki oblikujejo način, kako znanstveniki razumejo in interpretirajo svet.",
+                "Inference pair": "Knjiga 'The Structure of Scientific Revolutions' Thomasa S. Kuhna trdi, da so znanstveni teksti kompleksne mreže teorij in zakonov. Dejansko so preprosto zbirka dejstev, ki se z leti kopičijo in dopolnjujejo.",
+                "Chain_of_thought": "1. Kuhnova knjiga opisuje znanstvene tekste kot kompleksne mreže. 2. Hipoteza trdi, da so teksti preprosto zbirka dejstev.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, ki opisuje znanstvene paradigme na drugačen način, kot jih predstavlja Kuhn. Namesto da bi se strinjala s kompleksnostjo, ki jo opisuje Kuhn, hipoteza zanika ta vidik in jih poenostavi na zgolj zbirko dejstev, poimenuje pa jih tudi kar 'teksti'."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Glede na raziskavo iz knjige 'The Structure of Scientific Revolutions' Thomasa S. Kuhna, znanstvene paradigme niso zgolj kumulativni nabori dejstev, temveč kompleksna mreža teorij, zakonov, praks in vzorcev mišljenja, ki oblikujejo način, kako znanstveniki razumejo in interpretirajo svet.",
+                "Inference pair": "Razprava o naravi znanstvenih paradigem, kot jo obravnava Kuhn, je kot akumulator v avtomobilu. Če pustiš prižgane luči, se bo izpraznil.",
+                "Chain_of_thought": "1. Kuhnova knjiga ponuja kompleksno obravnavo znanstvenih paradigem. 2. Hipoteza omenja razpravo o naravi znanstvenih paradigem, vendar jo opiše na način na zelo abstrakten način.",
+                "Explanation": [
+                    "Hipoteza je zaradi abstraktnega opisa razprave o znanstvenih paradigmah težko razumljiva, iz nje pa je težko razvidno, ali gre izhaja iz premise ali ne."
+                ]
             }
         },
         "Scenario 16": {
@@ -1017,102 +1077,132 @@
         },
         "Scenario 11": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V restavraciji naročim rižoto s škampi. Po nekaj ugrizih opazim, da je rižota premalo začinjena. Menim, da bi dodatek soli in popra izboljšal okus jedi, zato prosim natakarja, naj mi prinese začimbe.",
+                "Inference pair": "Ker sem opazil, da je rižota premalo začinjena, sem prosil natakarja, da mi prinese sol in poper. Nato sem dodal začimbe v rižoto, da bi izboljšal njen okus.",
+                "Chain_of_thought": "1. Opazim, da je rižota premalo začinjena. 2. Menim, da lahko sol in poper izboljšata okus jedi. 3. Prosil sem natakarja za začimbe in jih dodal v rižoto.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj logično sklepamo, da bom dodal začimbe, če ocenim, da je hrana premalo začinjena."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V restavraciji naročim rižoto s škampi. Po nekaj ugrizih opazim, da je rižota premalo začinjena. Menim, da bi dodatek soli in popra izboljšal okus jedi, zato prosim natakarja, naj mi prinese začimbe.",
+                "Inference pair": "Ker je rižota premalo začinjena, sklepam, da natakar ni dodal škampov, ki bi dodali okus jedi. Mogoče tudi niso pravilno pripravili omake.",
+                "Chain_of_thought": "1. Opazim, da je rižota premalo začinjena. 2. Sklepam, da je vzrok napačna priprava jedi ali pozabljeni škampi. 3. Pričakujem, da bom v jedi ne bom našel škampov ali omake.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj sklepa o drugačnem vzroku za premajhno začinjenost, namesto da bi samo dodal začimbe."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V restavraciji naročim rižoto s škampi. Po nekaj ugrizih opazim, da je rižota premalo začinjena. Menim, da bi dodatek soli in popra izboljšal okus jedi, zato prosim natakarja, naj mi prinese začimbe.",
+                "Inference pair": "Rižota sestoji iz riža, zelenjave, mesa in začimb. Jaz dodam sol že med kuhanjem, moj prijatelj pa šele po koncu.",
+                "Chain_of_thought": "1. Opazim, da je rižota premalo začinjena. 2. Sklepam, da je vzrok slaba priprava jedi ali pozabljeni škampi. 3. Pričakujem, da bo natakar popravil napako.",
+                "Explanation": [
+                    "Hipoteza je nevtralna glede na premiso, saj ne potrjuje niti zanika vzroka za premalo začinjenost, temveč se osredotoča na opis rižote kot jedi."
+                ]
             }
         },
         "Scenario 12": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko sem se zjutraj prebudil, sem skozi okno opazil sončne žarke, ki so že prežarjali sobo. Na mizi sem zagledal sveže pečene rogljičke in skodelico dišeče kave. Bil sem navdušen nad obetom prijetnega jutra.",
+                "Inference pair": "Ob pogledu na sončne žarke in dišeče rogljičke na mizi sem se zavedel, da me čaka čudovit začetek dneva.",
+                "Chain_of_thought": "1. Opazim sončne žarke in dišeče rogljičke na mizi. 2. Sklepam, da me čaka čudovit začetek dneva.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izhaja iz opazovanja prijetnih dejavnikov zgodnjega jutra, ki napovedujejo čudovit dan."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko sem se zjutraj prebudil, sem skozi okno opazil sončne žarke, ki so že prežarjali sobo. Na mizi sem zagledal sveže pečene rogljičke in skodelico dišeče kave. Bil sem navdušen nad obetom prijetnega jutra.",
+                "Inference pair": "Ob pogledu na sončne žarke in dišeče rogljičke na mizi sem vedel, da me čaka dolgočasen dan.",
+                "Chain_of_thought": "1. Opazim sončne žarke in dišeče rogljičke na mizi. 2. Sklepam, da me čaka dolgočasen dan.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, ker povzroča občutek dolgočasja, namesto pričakovanega užitka ob opazovanju sončnih žarkov in okusnih rogljičkov."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Ko sem se zjutraj prebudil, sem skozi okno opazil sončne žarke, ki so že prežarjali sobo. Na mizi sem zagledal sveže pečene rogljičke in skodelico dišeče kave. Bil sem navdušen nad obetom prijetnega jutra.",
+                "Inference pair": "Ob pogledu na sončne žarke mi vselej zaigra srce, dostikrat pa me sonce potem opeče. Včasih me čisto prežari.",
+                "Chain_of_thought": "1. Opazim sončne žarke in dišeče rogljičke na mizi. 2. Sonce me navdihuje in včasih tudi opeče.",
+                "Explanation": [
+                    "Hipoteza ne nanaša neposredno na premiso, ker predlaga drugačen, bolj splošen kontekst dejavnosti kot pričakovano prijetno jutro ob opazovanju sončnih žarkov in okusnih rogljičkov."
+                ]
             }
         },
         "Scenario 13": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Včeraj zvečer sem se odločil, da bom pripravil večerjo za svoje prijatelje. Po obisku tržnice sem prinesel sveže sestavine: sočne paradižnike, svežo baziliko, dišeč česen in kakovosten parmezan. V kuhinji sem ustvaril pravo italijansko atmosfero, kjer je vonj po kuhanju že napovedoval izjemno večerjo.",
+                "Inference pair": "Ker sem prinesel sveže sestavine in ustvaril italijansko atmosfero v kuhinji, sem vedel, da bo večerja uspela in da bodo moji prijatelji navdušeni nad okusnimi jedmi.",
+                "Chain_of_thought": "1. Prinesem sveže sestavine za italijansko večerjo. 2. Ustvarim italijansko atmosfero v kuhinji. 3. Sklepam, da bo večerja uspela in da bodo prijatelji navdušeni.",
+                "Explanation": [
+                    "Hipoteza logično sledi premisi, saj opisuje pričakovanje uspešne večerje ob prisotnosti svežih sestavin in prijetne atmosfere v kuhinji."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Včeraj zvečer sem se odločil, da bom pripravil večerjo za svoje prijatelje. Po obisku tržnice sem prinesel sveže sestavine: sočne paradižnike, svežo baziliko, dišeč česen in kakovosten parmezan. V kuhinji sem ustvaril pravo italijansko atmosfero, kjer je vonj po kuhanju že napovedoval izjemno večerjo.",
+                "Inference pair": "Kljub temu, da sem prinesel sveže sestavine in ustvaril italijansko atmosfero v kuhinji, sem vedel, da bo večerja slaba in da bodo moji prijatelji razočarani.",
+                "Chain_of_thought": "1. Prinesem sveže sestavine za italijansko večerjo. 2. Ustvarim italijansko atmosfero v kuhinji. 3. Sklepam, da bo večerja slaba in da bodo prijatelji razočarani.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj povzroča pričakovanje slabe večerje, kljub prisotnosti svežih sestavin in prijetne atmosfere v kuhinji."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Včeraj zvečer sem se odločil, da bom pripravil večerjo za svoje prijatelje. Po obisku tržnice sem prinesel sveže sestavine: sočne paradižnike, svežo baziliko, dišeč česen in kakovosten parmezan. V kuhinji sem ustvaril pravo italijansko atmosfero, kjer je vonj po kuhanju že napovedoval izjemno večerjo.",
+                "Inference pair": "Kuhanje italijanske hrane je zame poseben obred, ob katerem zmeraj uživam. Pretvarjam se, da sem don Corleone in da so vsi moji prijatelji v resnici gangsterji.",
+                "Chain_of_thought": "1. Prinesem sveže sestavine za italijansko večerjo. 2. Ustvarim italijansko atmosfero v kuhinji. 3. Pretvarjam se, da sem don Corleone.",
+                "Explanation": [
+                    "Hipoteza govori o kuhanju italijanske hrane, vendar je nemogoče oceniti, če hipoteza prihaja iz premise ali ne, saj je motivacija protagonista v hipotezi drugačna kot v premisi."
+                ]
             }
         },
         "Scenario 14": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V petek zvečer sem povabil svoje prijatelje na večerjo. Odločil sem se, da bom pripravil pravo francosko pojedino. Na poti domov sem se ustavil pri lokalnem mesarju in izbral najboljši kos govejega mesa, ki sem ga nato skrbno začinil s česnom in rožmarinom. Medtem sem v pečici pekel hrustljav krompir, ob strani pa sem postregel s sočno solato, ki sem jo prelil z domačim prelivom. Celoten dom je zadišal po vonju počasi pečenega mesa in svežih zelišč.",
+                "Inference pair": "Zaradi uporabe najboljšega mesa in skrbne priprave, pričakujem, da bo večerja izjemna, in moji prijatelji bodo navdušeni nad okusnimi jedmi.",
+                "Chain_of_thought": "1. Povabil sem prijatelje na večerjo in se odločil za francosko pojedino. 2. Skrbno sem izbral najboljše sestavine in se potrudil pri pripravi jedi. 3. Na podlagi tega pričakujem, da bo večerja izjemna in da bodo moji prijatelji navdušeni.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izhaja iz uporabe najboljših sestavin in skrbne priprave jedi, kar omogoča pričakovanje uspešne večerje."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V petek zvečer sem povabil svoje prijatelje na večerjo. Odločil sem se, da bom pripravil pravo francosko pojedino. Na poti domov sem se ustavil pri lokalnem mesarju in izbral najboljši kos govejega mesa, ki sem ga nato skrbno začinil s česnom in rožmarinom. Medtem sem v pečici pekel hrustljav krompir, ob strani pa sem postregel s sočno solato, ki sem jo prelil z domačim prelivom. Celoten dom je zadišal po vonju počasi pečenega mesa in svežih zelišč.",
+                "Inference pair": "Kljub uporabi najboljših sestavin in skrbni pripravi, menim, da bo večerja razočarala, saj nisem upošteval prehranskih omejitev mojih prijateljev.",
+                "Chain_of_thought": "1. Povabil sem prijatelje na večerjo in se odločil za francosko pojedino. 2. Skrbno sem izbral najboljše sestavine in se potrudil pri pripravi jedi. 3. Kljub temu pričakujem, da bo večerja razočarala, ker nisem upošteval prehranskih omejitev mojih prijateljev.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj povzroča pričakovanje razočaranja glede na neupoštevanje prehranskih omejitev prijateljev."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V petek zvečer sem povabil svoje prijatelje na večerjo. Odločil sem se, da bom pripravil pravo francosko pojedino. Na poti domov sem se ustavil pri lokalnem mesarju in izbral najboljši kos govejega mesa, ki sem ga nato skrbno začinil s česnom in rožmarinom. Medtem sem v pečici pekel hrustljav krompir, ob strani pa sem postregel s sočno solato, ki sem jo prelil z domačim prelivom. Celoten dom je zadišal po vonju počasi pečenega mesa in svežih zelišč.",
+                "Inference pair": "Pričakujem, da bo večerja minila v prijetnem vzdušju, vendar ni mogoče napovedati natančnega izida, saj so različni dejavniki, ki lahko vplivajo na potek dogodkov.",
+                "Chain_of_thought": "1. Povabil sem prijatelje na večerjo. 2. Nisem prepričan, kako se bo večer odvijal, ker so različni dejavniki vplivali na vzdušje. 3. Pričakujem, da se bo večerja odvijala spontano, vendar ne morem napovedati natančnega izida.",
+                "Explanation": [
+                    "Hipoteza ne nanaša neposredno na entiteto premise, ampak preprosto poudarja, da ni mogoče natančno napovedati izida večerje zaradi različnih možnih vplivov."
+                ]
             }
         },
         "Scenario 15": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med sprehodom ob reki sem srečal starega ribiča, ki je sedel ob bregu in užival v sončnem dopoldnevu. Ko sem pozdravil, je prijazno odzdravil nazaj ter rekel: 'Lepo je biti tukaj in opazovati naravo, kajne?'",
+                "Inference pair": "Ker sem slišal starega ribiča, kako uživa ob opazovanju narave, sem pričakoval, da bova imela prijeten pogovor o ribolovu, naravnih lepotah okolice in spominih na mlajše dni.",
+                "Chain_of_thought": "1. Opazim starega ribiča ob reki. 2. Slišim, kako uživa ob opazovanju narave in se prijazno odzove. 3. Sklepam, da bova imela prijeten pogovor o ribolovu, naravnih lepotah okolice in spominih na mlajše dni.",
+                "Explanation": [
+                    "Hipoteza izhaja iz premisa, saj pričakuje prijeten pogovor ob opazovanju ribiča, ki uživa v naravi."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med sprehodom ob reki sem srečal starega ribiča, ki je sedel ob bregu in užival v sončnem dopoldnevu. Ko sem mu pozdravil, je prijazno odzdravil nazaj ter rekel: 'Lepo je biti tukaj in opazovati naravo, kajne?'",
+                "Inference pair": "Ker sem slišal starega ribiča, kako uživa ob opazovanju narave, sem bil razočaran, ker sem pričakoval, da bo jezen, tečen in brez volje do komunikacije.",
+                "Chain_of_thought": "1. Opazim starega ribiča ob reki. 2. Slišim, kako uživa ob opazovanju narave in se prijazno odzove. 3. Sklepam, da bo jezen, tečen in brez volje do komunikacije.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj povzroča razočaranje, namesto pričakovanega prijetnega pogovora."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Med sprehodom ob reki sem srečal starega ribiča, ki je sedel ob bregu in užival v sončnem dopoldnevu. Ko sem mu pozdravil, je prijazno odzdravil nazaj ter rekel: 'Lepo je biti tukaj in opazovati naravo, kajne?'",
+                "Inference pair": "Ko sem slišal starega ribiča, kako uživa ob opazovanju narave, sem se spomnil, da moram urediti svoje račune, preveriti elektronsko pošto in pripraviti načrt za prihajajočo službeno nalogo.",
+                "Chain_of_thought": "1. Opazim starega ribiča ob reki. 2. Slišim, kako uživa ob opazovanju narave in se prijazno odzove. 3. Spomnim se, da moram urediti svoje račune, preveriti elektronsko pošto in pripraviti načrt za prihajajočo službeno nalogo.",
+                "Explanation": [
+                    "Hipoteza ne nanaša neposredno na premiso, ker predlaga drugačno dejavnost kot pričakovano prijeten pogovor ob opazovanju starega ribiča."
+                ]
             }
         },
         "Scenario 16": {
@@ -1419,102 +1509,132 @@
         },
         "Scenario 11": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o dogajanju na borzi je bilo navedeno: 'Cene delnic podjetja XYZ so se močno zvišale, potem ko je bilo objavljeno, da so ustvarili rekordne dobičke v zadnjem četrtletju.'",
+                "Inference pair": "Ker so cene delnic podjetja XYZ močno narasle po objavi rekordnih dobičkov, se pričakuje, da bodo investitorji izrazili večje zanimanje za nakup delnic in posledično bo cena delnic še naprej rastla.",
+                "Chain_of_thought": "1. Vidim, da so cene delnic podjetja XYZ močno zrasle. 2. Preberem, da so objavili rekordne dobičke v zadnjem četrtletju. 3. Sklepam, da bodo investitorji začeli kupovati več delnic, kar bo povečalo povpraševanje in dvignilo ceno delnic še višje.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj pričakuje nadaljnjo rast cen delnic na podlagi objave rekordnih dobičkov."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o dogajanju na borzi je bilo navedeno: 'Cene delnic podjetja XYZ so se močno zvišale, potem ko je bilo objavljeno, da so ustvarili rekordne dobičke v zadnjem četrtletju.'",
+                "Inference pair": "Ker so cene delnic podjetja XYZ močno narasle po objavi rekordnih dobičkov, se pričakuje, da investitorji ne bodo izrazili zanimanja za nakup delnic in posledično bo cena delnic padla.",
+                "Chain_of_thought": "1. Vidim, da so cene delnic podjetja XYZ močno zrasle. 2. Preberem, da so objavili rekordne dobičke v zadnjem četrtletju. 3. Sklepam, da so novice preveč dobre, da bi bile resnične, in zato lahko pričakujem, da bodo cene delnic padle.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža skeptičen odnos do dobrih novic o rekordnih dobičkih."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o dogajanju na borzi je bilo navedeno: 'Cene delnic podjetja XYZ so se močno zvišale, potem ko je bilo objavljeno, da so ustvarili rekordne dobičke v zadnjem četrtletju.'",
+                "Inference pair": "Ker so cene delnic podjetja XYZ močno narasle po objavi rekordnih dobičkov, sem se spomnil, da moram še pregledati druge novice in preveriti, kako so se odzvale druge borze.",
+                "Chain_of_thought": "1. Vidim, da so cene delnic podjetja XYZ močno zrasle. 2. Preberem, da so objavili rekordne dobičke v zadnjem četrtletju. 3. Spomnim se, da moram preveriti, kako so se odzvale druge borze in ali obstajajo še kakšne pomembne novice.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premiso, ker izraža potrebo po nadaljnjem preverjanju novic in razmer na borzi."
+                ]
             }
         },
         "Scenario 12": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o političnih razmerah v državi je zapisano: 'Po izidu zadnjih volitev je bila oblikovana nova vladna koalicija, ki obljublja reforme v izobraževanju, zdravstvu in gospodarstvu.'",
+                "Inference pair": "Po oblikovanju nove vladne koalicije pričakujemo, da bodo izvedene reforme v izobraževanju, zdravstvu in gospodarstvu, kar bo pozitivno vplivalo na razvoj države.",
+                "Chain_of_thought": "1. Opazim, da je bila oblikovana nova vladna koalicija. 2. Sklepam, da bodo izvedene reforme v ključnih sektorjih. 3. Pričakujem, da bodo te reforme pozitivno vplivale na razvoj države.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izraža pričakovanje pozitivnih učinkov na razvoj države zaradi obljubljenih reform."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o političnih razmerah v državi je zapisano: 'Po izidu zadnjih volitev je bila oblikovana nova vladna koalicija, ki obljublja reforme v izobraževanju, zdravstvu in gospodarstvu.'",
+                "Inference pair": "Po oblikovanju nove vladne koalicije bo država padla v politični kaos in ekonomsko krizo, saj bo vladna nesposobnost vodila v destabilizacijo ključnih sektorjev.",
+                "Chain_of_thought": "1. Opazim, da je bila oblikovana nova vladna koalicija. 2. Sklepam, da bodo politična nestabilnost in ekonomska kriza posledica vladne nesposobnosti. 3. Pričakujem, da bo država padla v politični kaos.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža pričakovanje negativnih učinkov na državo zaradi vladne nestabilnosti."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V poročilu o političnih razmerah v državi je zapisano: 'Po izidu zadnjih volitev je bila oblikovana nova vladna koalicija, ki obljublja reforme v izobraževanju, zdravstvu in gospodarstvu.'",
+                "Inference pair": "Po oblikovanju nove vladne koalicije bom opazoval razvoj političnih in ekonomskih razmer ter se prilagodil glede na dogajanje.",
+                "Chain_of_thought": "1. Opazim, da je bila oblikovana nova vladna koalicija. 2. Sklepam, da bo potrebno spremljati razvoj dogodkov. 3. Pričakujem, da se bom prilagodil glede na nastale okoliščine.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premisi, saj izraža potrebo po spremljanju dogodkov in prilagajanju ravnanja glede na nastale okoliščine."
+                ]
             }
         },
         "Scenario 13": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V intervjuju s strokovnjakom za podnebne spremembe je bilo izpostavljeno: 'Podnebne spremembe lahko povzročijo dramatične spremembe v lokalnih ekosistemih, kar lahko vodi v izgubo habitatov in ogrozi biotsko raznovrstnost.'",
+                "Inference pair": "Ob soočanju s podnebnimi spremembami se lahko pričakuje izguba habitatov in zmanjšanje biotske raznovrstnosti v lokalnih ekosistemih, kar bo imelo dolgoročne negativne posledice na naravo.",
+                "Chain_of_thought": "1. Podnebne spremembe lahko dramatično vplivajo na lokalne ekosisteme, kar vodi v izgubo habitatov in ogroža biotsko raznovrstnost. 2. Pričakovanje je, da se bodo negativni učinki podnebnih sprememb nadaljevali v prihodnosti.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izraža pričakovanje negativnih posledic na naravo zaradi podnebnih sprememb."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V intervjuju s strokovnjakom za podnebne spremembe je bilo izpostavljeno: 'Podnebne spremembe lahko povzročijo dramatične spremembe v lokalnih ekosistemih, kar lahko vodi v izgubo habitatov in ogrozi biotsko raznovrstnost.'",
+                "Inference pair": "Ob soočanju s podnebnimi spremembami se bo biotska raznovrstnost povečala, saj bodo nove razmere omogočile širjenje novih vrst in vzpostavitev novih habitatov.",
+                "Chain_of_thought": "1. Obstaja prepričanje, da bodo podnebne spremembe omogočile nove priložnosti za razvoj lokalnih ekosistemov in spodbudile povečanje biotske raznovrstnosti. 2. To lahko privede do sprememb v sestavi ekosistema in oblikovanja novih habitatov.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža nasprotno pričakovanje glede vpliva podnebnih sprememb na biotsko raznovrstnost."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V intervjuju s strokovnjakom za podnebne spremembe je bilo izpostavljeno: 'Podnebne spremembe lahko povzročijo dramatične spremembe v lokalnih ekosistemih, kar lahko vodi v izgubo habitatov in ogrozi biotsko raznovrstnost.'",
+                "Inference pair": "Ob soočanju s podnebnimi spremembami bodo lokalni ekosistemi deležni posebne pozornosti s strani lokalnih politikov.",
+                "Chain_of_thought": "1. Prilagoditev lokalnih ekosistemov na podnebne spremembe bo odvisna od številnih dejavnikov, vključno s hitrostjo prilagajanja vrst in ukrepi za ohranjanje narave. 2. Nadaljnje ukrep bodo potrebni za zamejevanje dolgoročnih posledic.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premisi, saj govori o vodenju lokalne politike."
+                ]
             }
         },
         "Scenario 14": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Košarkarji Dallasa so na četrti tekmi uvodnega kroga končnice Lige NBA proti LA Clippersom v drugi četrtini zaostajali že s 24:55, dve minuti pred koncem pa so povedli s 105:104. V napeti končnici je James Harden zagotovil zmago gostom (111:116).",
+                "Inference pair": "Ob neverjetnem preobratu košarkarjev Dallasa, ki so kljub veliki zaostanku v drugi četrtini uspeli prevzeti vodstvo pred koncem tekme, bi morali priznati, da imajo izjemen potencial za premagovanje težkih izzivov.",
+                "Chain_of_thought": "1. Kljub veliki zaostanku v drugi četrtini so košarkarji Dallasa uspeli prevzeti vodstvo pred koncem tekme. 2. To kaže na njihov izjemen potencial za premagovanje težkih izzivov.",
+                "Explanation": [
+                    "Iz premisa izhaja, da so košarkarji Dallasa kljub zaostanku uspeli prevzeti vodstvo in skorajda zmagati tekmo, kar kaže na njihov izjemen potencial za premagovanje težkih izzivov. To je osrednji argument, ki podpira sklep, da imajo košarkarji Dallas Mavericks potencial za uspeh."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Košarkarji Dallasa so na četrti tekmi uvodnega kroga končnice Lige NBA proti LA Clippersom v drugi četrtini zaostajali že s 24:55, dve minuti pred koncem pa so povedli s 105:104. V napeti končnici je James Harden zagotovil zmago gostom (111:116).",
+                "Inference pair": "Kljub temu da so košarkarji Dallasa uspeli prevzeti vodstvo pred koncem tekme, njihov poraz proti LA Clippersom pomeni, da nimajo pravega potenciala za premagovanje težkih izzivov.",
+                "Chain_of_thought": "1. Košarkarji Dallasa so uspeli prevzeti vodstvo. 2. Kljub temu so izgubili tekmo. 3. Izguba tekme kaže na pomanjkanje potenciala za premagovanje težkih izzivov.",
+                "Explanation": [
+                    "Kljub preobratu košarkarjev Dallasa, ki so prevzeli vodstvo, njihov poraz proti LA Clippersom nakazuje, da nimajo pravega potenciala za premagovanje težkih izzivov. Kljub zmožnosti, da se soočijo s težkimi situacijami, rezultat tekme kaže na pomanjkanje odločnosti ali sposobnosti, da bi zadržali vodstvo do konca."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Košarkarji Dallasa so na četrti tekmi uvodnega kroga končnice Lige NBA proti LA Clippersom v drugi četrtini zaostajali že s 24:55, dve minuti pred koncem pa so povedli s 105:104. V napeti končnici je James Harden zagotovil zmago gostom (111:116).",
+                "Inference pair": "Ko sem izvedel, da so košarkarji Dallasa izgubili proti LA Clippersom, me je spomnilo na pretekle tekme, ko so pokazali izjemen potencial za premagovanje težkih nasprotnikov.",
+                "Chain_of_thought": "1. Košarkarji Dallasa so izgubili tekmo. 2. Spomnilo me je na pretekle tekme. 3. Na teh tekmah so pokazali izjemen potencial za premagovanje težkih nasprotnikov.",
+                "Explanation": [
+                    "Premisa opisuje dogodek, v katerem so košarkarji Dallasa izgubili tekmo, medtem ko hipoteza omenja spomin na pretekle tekme, na katerih so pokazali izjemen potencial. Med dogodki ni neposredne povezave, zato je stališče nevtralno."
+                ]
             }
         },
         "Scenario 15": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+				"Scenario": "Odvetnik Harveyja Weinsteina je sporočil, da je bil nekdanji filmski mogotec po vrnitvi v New York po razsodbi prizivnega sodišča, ki je razveljavilo njegovo obsodbo za posilstvo leta 2020, premeščen v bolnišnico zaradi več zdravstvenih preiskav.",
+                "Inference pair": "Ker je bil Harvey Weinstein premeščen v bolnišnico zaradi več zdravstvenih preiskav, to nakazuje, da razsodba prizivnega sodišča ni imela vpliva na njegovo zdravstveno stanje.",
+                "Chain_of_thought": "1. Harvey Weinstein je bil premeščen v bolnišnico. 2. Razlog za to so bile zdravstvene preiskave. 3. Hipoteza: Razsodba prizivnega sodišča ni vplivala na njegovo zdravstveno stanje.",
+                "Explanation": [
+                    "Premisa opisuje, da je bil Harvey Weinstein premeščen v bolnišnico zaradi zdravstvenih preiskav, kar nakazuje, da razsodba prizivnega sodišča ni imela neposrednega vpliva na njegovo zdravstveno stanje."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Odvetnik Harveyja Weinsteina je sporočil, da je bil nekdanji filmski mogotec po vrnitvi v New York po razsodbi prizivnega sodišča, ki je razveljavilo njegovo obsodbo za posilstvo leta 2020, premeščen v bolnišnico zaradi več zdravstvenih preiskav.",
+                "Inference pair": "Ker je bil Harvey Weinstein premeščen v bolnišnico po razsodbi prizivnega sodišča, ki je razveljavilo njegovo obsodbo za posilstvo leta 2020, je bilo to verjetno posledica stresa in pritiska, ki ga je doživljal med sodnim procesom.",
+                "Chain_of_thought": "1. Harvey Weinstein je bil premeščen v bolnišnico. 2. To se je zgodilo po razsodbi prizivnega sodišča. 3. Hipoteza: Posledica tega je verjetno stres, ki ga je doživljal med sodnim procesom.",
+                "Explanation": [
+                    "Iz premisa izhaja, da je bil Harvey Weinstein premeščen v bolnišnico po razsodbi prizivnega sodišča, kar nakazuje, da je bil stres med sodnim procesom verjetno vzrok za njegove zdravstvene težave."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Odvetnik Harveyja Weinsteina je sporočil, da je bil nekdanji filmski mogotec po vrnitvi v New York po razsodbi prizivnega sodišča, ki je razveljavilo njegovo obsodbo za posilstvo leta 2020, premeščen v bolnišnico zaradi več zdravstvenih preiskav.",
+                "Inference pair": "Harvey Weinstein se rad vrača v New York, kjer je sproduciral vrsto znanih filmov.",
+                "Chain_of_thought": "1. Harvey Weinstein je bil premeščen v bolnišnico. 2. Razlog za to so bile zdravstvene preiskave. 3. To je bilo v New Yorku.",
+                "Explanation": [
+                    "Premisa opisuje dogodek, v katerem je bil Harvey Weinstein premeščen v bolnišnico zaradi zdravstvenih preiskav, medtem ko hipoteza govori o Weinsteinovi ljubezni do New Yorka."
+                ]
             }
         },
         "Scenario 16": {
@@ -1821,102 +1941,132 @@
         },
         "Scenario 11": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V gozdu, globoko pod zelenimi krošnjami stoletnih dreves, je bilo skrito starodavno kraljestvo Zelenega zmaja. Tam je princ Liam, obkrožen s čarovnijo in skrivnostjo, odkril starodavni zemljevid, ki naj bi vodil do izgubljenega zaklada.",
+                "Inference pair": "Princ Liam, navdihnjen z odkritjem starodavnega zemljevida, se bo podal na pustolovščino, da bi rešil kraljestvo Zelenega zmaja in pridobil izgubljeni zaklad.",
+                "Chain_of_thought": "1. Princ Liam je odkril starodavni zemljevid, ki vodi do zaklada. 2. Z navdušenjem se odloči, da bo šel na pustolovščino, da bi rešil kraljestvo. 3. Pričakuje, da bo zmagal in pridobil izgubljeni zaklad.",
+                "Explanation": [
+                    "Hipoteza logično sledi premisi, saj izraža pričakovanje prinčeve pustolovščine, navdihnjeno z odkritjem starodavnega zemljevida."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V gozdu, globoko pod zelenimi krošnjami stoletnih dreves, je bilo skrito starodavno kraljestvo Zelenega zmaja. Tam je princ Liam, obkrožen s čarovnijo in skrivnostjo, odkril starodavni zemljevid, ki naj bi vodil do izgubljenega zaklada.",
+                "Inference pair": "Princ Liam se bo po odkritju starodavnega zemljevida odločil, da se umakne iz kraljestva Zelenega zmaja, ker se boji nevarnosti in negotove prihodnosti.",
+                "Chain_of_thought": "1. Princ Liam je odkril starodavni zemljevid, ki vodi do zaklada. 2. Kljub odkritju se bo odločil umakniti iz kraljestva Zelenega zmaja. 3. Pričakuje, da bo previdnostna odločitev varna.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža prinčevo strahospoštovanje pred nevarnostjo, namesto pričakovanja pustolovščine."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V gozdu, globoko pod zelenimi krošnjami stoletnih dreves, je bilo skrito starodavno kraljestvo Zelenega zmaja. Tam je princ Liam, obkrožen s čarovnijo in skrivnostjo, odkril starodavni zemljevid, ki naj bi vodil do izgubljenega zaklada.",
+                "Inference pair": "Princ Liam, potem ko je odkril starodavni zemljevid, se bo posvetoval z modreci kraljestva, da bi pridobil več informacij in se nato odločil, kako nadaljevati.",
+                "Chain_of_thought": "1. Princ Liam je odkril starodavni zemljevid, ki vodi do zaklada. 2. Sklepa, da se bo najprej posvetoval z modreci kraljestva. 3. Pričakuje, da bo na podlagi teh informacij sprejel odločitev o nadaljnjih korakih.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premiso, saj izraža prinčevo prilagajanje glede na pridobljene informacije, ne pa pričakovanja neposredne pustolovščine."
+                ]
             }
         },
         "Scenario 12": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Na robu mesta, kjer se nebo dotika zemlje, stoji stara svetilka. Njene žareče luči se razprostirajo v noč, razpršujejo se kot iskrice v vetru. Tam srečaš starega uličnega umetnika, ki s čopičem in barvami oživlja sivino asfalta. V njegovih očeh sije neizmerna globina, kot da bi v njih lahko videl vse zgodbe sveta.",
+                "Inference pair": "Ko stopiš bliže svetilki, začutiš utripanje mestnega srca, ki se prepleta z utripom umetnikovega navdiha. Pričakuješ, da te bo ta čarobnost navdihnila za lastno ustvarjanje.",
+                "Chain_of_thought": "1. Stopim bliže svetilki, ki se sveti v temi. 2. Začutim utrip mestnega srca in umetnikovega navdiha. 3. Pričakujem, da me bo ta čarobnost navdihnila za lastno ustvarjanje.",
+                "Explanation": [
+                    "Hipoteza logično sledi premisi, saj izraža pričakovanje, da bo čarobnost trenutka, ki se rodi iz srečanja s svetilko in umetnikom, motivirala za lastno ustvarjanje."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Na robu mesta, kjer se nebo dotika zemlje, stoji stara svetilka. Njene žareče luči se razprostirajo v noč, razpršujejo se kot iskrice v vetru. Tam srečaš starega uličnega umetnika, ki s čopičem in barvami oživlja sivino asfalta. V njegovih očeh sije neizmerna globina, kot da bi v njih lahko videl vse zgodbe sveta.",
+                "Inference pair": "Po srečanju s svetilko in umetnikom čutiš, kako temačnost mesta požira tvojo notranjo svetlobo, zato se počutiš praznega in brez idej.",
+                "Chain_of_thought": "1. Stopim bliže svetilki, ki se sveti v temi. 2. Začutim utrip mestnega srca in umetnikovega navdiha. 3. Počutim se praznega in brez idej, ko me temačnost mesta obdaja.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža občutek praznine in pomanjkanja idej, medtem ko je premisa opisana bolj optimistično in navdihujoče."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Na robu mesta, kjer se nebo dotika zemlje, stoji stara svetilka. Njene žareče luči se razprostirajo v noč, razpršujejo se kot iskrice v vetru. Tam srečaš starega uličnega umetnika, ki s čopičem in barvami oživlja sivino asfalta. V njegovih očeh sije neizmerna globina, kot da bi v njih lahko videl vse zgodbe sveta.",
+                "Inference pair": "Po srečanju s svetilko in umetnikom se zavedaš, kako majhni smo v primerjavi z neskončnostjo vesolja, kar te spodbudi k razmišljanju o življenju in smislu.",
+                "Chain_of_thought": "1. Stopim bliže svetilki, ki se sveti v temi. 2. Začutim utrip mestnega srca in umetnikovega navdiha. 3. Premišljujem o neskončnosti vesolja in smislu življenja.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premiso, saj izraža drugačno, bolj osebno refleksijo po srečanju s svetilko in umetnikom."
+                ]
             }
         },
         "Scenario 13": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V stari knjižnici, polni prahu in zgubanih strani, odkriješ starodavno knjigo. Njene platnice so iztrgane, listi pa rumeni od časa. Med listanjem se potopiš v zaprašene strani zgodovine, ki se prepletajo s sanjami prihodnosti.",
+                "Inference pair": "Ko prebiram staro knjigo, se zavem, da je naša prihodnost tkana iz niti preteklosti, in pričakujem, da bom iz tega spoznanja pridobil vpogled v svojo lastno usodo.",
+                "Chain_of_thought": "1. Prebiram staro knjigo, ki odseva preteklost. 2. Spoznavam, da je prihodnost tesno povezana z dogodki iz preteklosti. 3. Pričakujem, da bom iz tega spoznanja pridobil vpogled v svojo lastno usodo.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izraža pričakovanje, da bo spoznanje o povezanosti preteklosti in prihodnosti prineslo vpogled v lastno usodo."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V stari knjižnici, polni prahu in zgubanih strani, odkriješ starodavno knjigo. Njene platnice so iztrgane, listi pa rumeni od časa. Med listanjem se potopiš v zaprašene strani zgodovine, ki se prepletajo s sanjami prihodnosti.",
+                "Inference pair": "Ko prebiram staro knjigo, se zavem, da so dogodki preteklosti in prihodnosti povsem ločeni, zato pričakujem, da bom iz tega spoznanja lažje sprejel sedanje trenutke.",
+                "Chain_of_thought": "1. Prebiram staro knjigo, ki odseva preteklost. 2. Spoznavam, da so dogodki preteklosti in prihodnosti povsem ločeni. 3. Pričakujem, da bom iz tega spoznanja lažje sprejel sedanje trenutke.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža občutek ločenosti med preteklostjo, prihodnostjo in sedanjostjo, medtem ko premisa poudarja njihovo prepletanje."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V stari knjižnici, polni prahu in zgubanih strani, odkriješ starodavno knjigo. Njene platnice so iztrgane, listi pa rumeni od časa. Med listanjem se potopiš v zaprašene strani zgodovine, ki se prepletajo s sanjami prihodnosti.",
+                "Inference pair": "Ko prebiram staro knjigo, se zavem, da so preteklost in prihodnost vpeti v nedoumljivo mrežo časa. Nove knjige so namreč veliko boljše kvalitete kot stare, čeprav je v starih pisava lepša. Zate se odločim, da bodo nove knjige vedno moja prva izbira.",
+                "Chain_of_thought": "1. Prebiram staro knjigo, ki odseva preteklost. 2. Spoznavam, da so preteklost in prihodnost vpeti v nedoumljivo mrežo časa. 3. Ugotovim, da je stara knjiga brez vrednosti, saj je strgana in neberljiva.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premiso, saj izraža opazke in razmišljanja o fizičnem stanju knjig in bralčevih preferencah."
+                ]
             }
         },
         "Scenario 14": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli. Kljub temu, da sta bila kot noč in dan, sta se hitro zbližala. Po mnogih letih, ko sta se znova srečala, se je med njima ponovno prebudila iskrica.",
+                "Inference pair": "Ker sta se Viktor in Eva po dolgem času znova srečala in je med njima preskočila iskrica, pričakujem, da bosta ponovno stopila na skupno pot in zaživela ljubezensko zgodbo.",
+                "Chain_of_thought": "1. Viktor in Eva sta se po dolgem času znova srečala. 2. Med njima je preskočila iskrica. 3. Pričakujem, da bosta ponovno stopila na skupno pot in zaživela ljubezensko zgodbo.",
+                "Explanation": [
+                    "Hipoteza logično sledi premisi, saj izraža pričakovanje po nadaljevanju ljubezenske zgodbe glede na ponovno vzpostavljeno povezanost med Viktorjem in Evo."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli. Kljub temu, da sta bila kot noč in dan, sta se hitro zbližala. Po mnogih letih, ko sta se znova srečala, se je med njima ponovno prebudila iskrica.",
+                "Inference pair": "Ker sta se Viktor in Eva po dolgem času znova srečala in je med njima preskočila iskrica, pričakujem, da se bosta odločila, da ostaneta le pri prijateljstvu, saj je med njima preveč razlik.",
+                "Chain_of_thought": "1. Viktor in Eva sta se po dolgem času znova srečala. 2. Med njima je preskočila iskrica. 3. Pričakujem, da se bosta odločila, da ostaneta le pri prijateljstvu, saj je med njima preveč razlik.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža pričakovanje po ohranitvi le prijateljskega odnosa, medtem ko je v premisi opisano, da se med njima ponovno prebuja romantična iskrica."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli. Kljub temu, da sta bila kot noč in dan, sta se hitro zbližala. Po mnogih letih, ko sta se znova srečala, se je med njima ponovno prebudila iskrica.",
+                "Inference pair": "Čeprav sta se Viktor in Eva po dolgem času znova srečala in je med njima preskočila iskrica, se ne bom odločal, kaj to pomeni za njun odnos, ampak bom opazoval, kako se bosta stvari razvijale.",
+                "Chain_of_thought": "1. Viktor in Eva sta se po dolgem času znova srečala. 2. Med njima je preskočila iskrica. 3. Ne bom se odločal, kaj to pomeni za njun odnos, ampak bom opazoval, kako se bosta stvari razvijale.",
+                "Explanation": [
+                    "Hipoteza se ne nanaša neposredno na premiso, saj izraža opazovanje, kako se bosta stvari razvijale, ne glede na občutke med Viktorjem in Evo."
+                ]
             }
         },
         "Scenario 15": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V majhni vasici na podeželju je bila vsako leto organizirana tradicionalna praznična zabava. Vsako leto je bilo na tej zabavi postavljeno tudi tekmovanje v reševanju logičnih ugank. Letos je bila zagonetka še posebej zapletena. Postavljen je bil izziv: 'Če ima Janez tri sestre in vsaka sestra ima brata, koliko je skupaj otrok v Janezovi družini?'",
+                "Inference pair": "Ker je bila zagonetka postavljena na praznični zabavi, pričakujem, da bodo udeleženci zaradi razposajenosti in uživanja alkohola zmedeni in ne bodo znali pravilno rešiti zagonetke.",
+                "Chain_of_thought": "1. Na praznični zabavi je bil postavljen izziv z zagonetko. 2. Udeleženci bodo zaradi razposajenosti in uživanja alkohola zmedeni. 3. Ne bodo znali pravilno rešiti zagonetke.",
+                "Explanation": [
+                    "Hipoteza sledi premisi, saj izraža pričakovanje, da bodo udeleženci zaradi razposajenosti in uživanja alkohola zmedeni in ne bodo znali pravilno rešiti zagonetke, ki je bila postavljena na praznični zabavi."
+                ]
             },
             "Contradiction": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V majhni vasici na podeželju je bila vsako leto organizirana tradicionalna praznična zabava. Vsako leto je bilo na tej zabavi postavljeno tudi tekmovanje v reševanju logičnih ugank. Letos je bila zagonetka še posebej zapletena. Postavljen je bil izziv: 'Če ima Janez tri sestre in vsaka sestra ima brata, koliko je skupaj otrok v Janezovi družini?'",
+                "Inference pair": "Ker je bila zagonetka postavljena na praznični zabavi, pričakujem, da bodo udeleženci kljub razposajenosti in uživanju alkohola znali pravilno rešiti zagonetko.",
+                "Chain_of_thought": "1. Na praznični zabavi je bil postavljen izziv z zagonetko. 2. Udeleženci so kljub razposajenosti in uživanju alkohola zbrani. 3. Znali bodo pravilno rešiti zagonetko.",
+                "Explanation": [
+                    "Hipoteza nasprotuje premisi, saj izraža pričakovanje, da bodo udeleženci kljub razposajenosti in uživanju alkohola znali pravilno rešiti zagonetko, ki je bila postavljena na praznični zabavi."
+                ]
             },
             "Neutral": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "V majhni vasici na podeželju je bila vsako leto organizirana tradicionalna praznična zabava. Vsako leto je bilo na tej zabavi postavljeno tudi tekmovanje v reševanju logičnih ugank. Letos je bila zagonetka še posebej zapletena. Postavljen je bil izziv: 'Če ima Janez tri sestre in vsaka sestra ima brata, koliko je skupaj otrok v Janezovi družini?'",
+                "Inference pair": "Ker je bila zagonetka postavljena na praznični zabavi, bom opazoval, kako se udeleženci zabavajo in razmišljajo o rešitvi, ne pa o njihovi pravilnosti.",
+                "Chain_of_thought": "1. Na praznični zabavi je bil postavljen izziv z zagonetko. 2. Opazujem, kako se udeleženci zabavajo in razmišljajo. 3. Ne bom se osredotočil na pravilnost njihovih rešitev.",
+                "Explanation": [
+                    "Hipoteza ne nanaša neposredno na premisi, saj izraža opazovanje, kako se udeleženci zabavajo in razmišljajo, namesto na analizo pravilnosti rešitve zagonetke, ki je bila postavljena na praznični zabavi."
+                ]
             }
         },
         "Scenario 16": {
