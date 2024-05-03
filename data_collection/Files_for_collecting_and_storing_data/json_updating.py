@@ -14,10 +14,9 @@ with open("data_collection.json", 'r') as file:
 # chain_of_thought = "Družina Posedel se je odpravljala na dopust na Malto. Med gledanjem poročil pred odhodom so slišali novico o povečanem številu vlomov v stanovanja med poletnimi meseci. Zaskrbljeni so bili zaradi varnosti svojega doma med odsotnostjo. Z zaščitnimi ukrepi so lahko zmanjšali tveganje za vlom in se lažje odpravili na dopust."
 # explanation = ["Zaradi grožnje vloma in želje po zaščiti doma se je družina pred odhodom na dopust odločila za izvedbo zaščitnih ukrepov."]
 # scenario_paragraph = "Propad rimskega imperija v 5. stoletju našega štetja je bil prelomnica v evropski zgodovini. To obsežno cesarstvo, ki je nekoč obvladovalo velik del celine, je razpadlo zaradi notranjih spopadov, gospodarskih težav in vdorov barbarov.  To označuje konec antičnega sveta in začetek srednjega veka. V nastalem vakuumu moči so se uveljavili močni posamezniki, ki so prevzeli nadzor nad zemljo in ljudmi. Propad imperija je povzročil tudi gospodarsko krizo, ki je prizadela trgovino, kmetijstvo in mesta. To je spodbudilo razvoj fevdalnega sistema, pri katerem so se kmetje v zameno za zemljo in zaščito obvezali opravljati delo za svoje gospode. V tem kaotičnem obdobju se je krščanstvo uveljavilo kot prevladujoča religija v Evropi. Njegovo sporočilo o upanju in odrešitvi je privlačilo mnoge ljudi, ki so iskali smisel in tolažbo v nemirnih časih. Cerkev je podpirala fevdalni sistem, saj je to omogočilo plemičem, da so nadzorovali zemljo in prebivalstvo, cerkvi pa so v zameno odstopali delež svojih prihodkov."
-scenario_paragraph = "Strah je stiskal Lei prsi, ko je gledala skozi okno vesoljske ladje na rdečo puščavo Marsa. Njena notranjost je bila polna tesnobe in dvomov. Bila je prva človeška pilotka, ki je pristala na tem oddaljenem planetu. Navdušenje nad raziskovanjem novega sveta se je mešalo z občutkom osamljenosti in negotovosti. Toda ko je pogledala po posadki, je videla odločnost in samozavest v njihovih očeh. Kapitan Zhang ji je s toplim nasmehom pokimal in ji s tem vlil pogum. Njena živčnost se je počasi umirila, nadomestila jo je osredotočenost na uspešno izvedbo misije."
-inference_paragraph = "Lea se je ob pogledu skozi okno vesoljske ladje prestrašena zazrla v prostranstvo rdeče puščave Marsa. V sebi je bila vsa tesnobna in negotova, ob zavedanju, da je prva ženska pilotka, ki je stopila na to oddaljeno in nepoznano ozemlje. Vznemirljenje ob raziskovanju novega sveta se je prepletalo z občutkom izoliranosti. in neznanega. Toda ko je pogledala po obrazih svojih sopotnikov, je v njihovih očeh zaznala neomajnost in vero vase. Kapitan Zhang ji je namenil smejoče odobravanje, kar ji je vlilo novo moč za boj. Namesto nervoze se je usmerila v uspešno izvedbo misije."
-chain_of_thought = "Oba odstavka imata skupno temo. Oba odstavka opisujejo Leino izkušnjo ob pristanku na Marsu. V obeh odstavkih so prisotna čustva strahu, tesnobe, navdušenja in osamljenosti. Oba odstavka poudarjata pomen podpore sopotnikov in kapitana Zhanga. Oba odstavka se končata z Leino osredotočenostjo na uspešno izvedbo misije."
-explanation = ["Kljub razlikam v izbiri besed oba odstavka ohranjata osnovno sporočilo zgodbe.", "Drugi odstavek ohranja osnovno sporočilo prvega odstavka, čeprav opise čustev in doživljanja nadomesti s sinonimi."]
+# scenario_paragraph = "Strah je stiskal Lei prsi, ko je gledala skozi okno vesoljske ladje na rdečo puščavo Marsa. Njena notranjost je bila polna tesnobe in dvomov. Bila je prva človeška pilotka, ki je pristala na tem oddaljenem planetu. Navdušenje nad raziskovanjem novega sveta se je mešalo z občutkom osamljenosti in negotovosti. Toda ko je pogledala po posadki, je videla odločnost in samozavest v njihovih očeh. Kapitan Zhang ji je s toplim nasmehom pokimal in ji s tem vlil pogum. Njena živčnost se je počasi umirila, nadomestila jo je osredotočenost na uspešno izvedbo misije."
+
+scenario_paragraph = "Francoska družba 18. stoletja je bila razdeljena na tri stanove: plemstvo, duhovščino in tretji stan. Plemstvo in duhovščina sta uživala v privilegijih in bogastvu, medtem ko je tretji stan, ki je vključeval večino prebivalstva, nosil največje davčne breme in ni imel nobene politične moči. Francija je v 18. stoletju doživela vrsto gospodarskih kriz, ki so prizadele predvsem tretji stan. Povečanje cen hrane, brezposelnost in revščina so povzročili veliko trpljenje in nemir med prebivalstvom. Ideje razsvetljenstva, ki so poudarjale svobodo, enakost in bratstvo, so se med prebivalstvom širile vedno bolj. Ljudje so se uprli absolutistični monarhiji in zahtevali spremembe. Revolucija je privedla do strmoglavljenja kralja Ludvika XVI, vzpostavitve republike in sprejetja Deklaracije o človekovih in državljanskih pravicah."
 
 # Update specific values in the JSON data
 category = "Historical Events"  # example category
@@ -29,10 +28,23 @@ label = "Entailment"            # example label
 # data["Everyday Life Situations"]["Scenario 4"]["Neutral"]["Scenario"] = scenario_paragraph
 # data["Everyday Life Situations"]["Scenario 4"]["Entailment"]["Scenario"] = scenario_paragraph
 # data["Everyday Life Situations"]["Scenario 4"]["Contradiction"]["Scenario"] = scenario_paragraph
-data["Fictional Stories"]["Scenario 1"]["Entailment"]["Scenario"] = scenario_paragraph
-data["Fictional Stories"]["Scenario 1"]["Entailment"]["Inference pair"] = inference_paragraph
-data["Fictional Stories"]["Scenario 1"]["Entailment"]["Chain_of_thought"] = chain_of_thought
-data["Fictional Stories"]["Scenario 1"]["Entailment"]["Explanation"] = explanation
+# data["Fictional Stories"]["Scenario 1"]["Entailment"]["Scenario"] = scenario_paragraph
+# data["Fictional Stories"]["Scenario 1"]["Entailment"]["Inference pair"] = inference_paragraph
+# data["Fictional Stories"]["Scenario 1"]["Entailment"]["Chain_of_thought"] = chain_of_thought
+# data["Fictional Stories"]["Scenario 1"]["Entailment"]["Explanation"] = explanation
+# data["Everyday Life Situations"]["Scenario 5"]["Neutral"]["Scenario"] = scenario_paragraph
+# data["Everyday Life Situations"]["Scenario 5"]["Neutral"]["Inference pair"] = inference_paragraph
+# data["Everyday Life Situations"]["Scenario 5"]["Neutral"]["Chain_of_thought"] = chain_of_thought
+data["Historical Events"]["Scenario 1"]["Contradiction"]["Scenario"] = scenario_paragraph
+# data["Historical Events"]["Scenario 2"]["Contradiction"]["Inference pair"] = inference_paragraph
+# data["Historical Events"]["Scenario 2"]["Contradiction"]["Chain_of_thought"] = chain_of_thought
+
+# data["Scientific Explanations"]["Scenario 2"]["Entailment"]["Explanation"] = explanation
+# data["Scientific Explanations"]["Scenario 1"]["Entailment"]["Chain_of_thought"] = chain_of_thought
+# data["Scientific Explanations"]["Scenario 2"]["Neutral"]["Inference pair"] = inference_paragraph
+# data["Scientific Explanations"]["Scenario 2"]["Neutral"]["Scenario"] = scenario_paragraph
+# data["Scientific Explanations"]["Scenario 2"]["Neutral"]["Chain_of_thought"] = chain_of_thought
+# data["Scientific Explanations"]["Scenario 2"]["Neutral"]["Explanation"] = explanation
 
 
 
