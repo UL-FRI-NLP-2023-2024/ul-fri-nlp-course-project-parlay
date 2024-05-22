@@ -1030,10 +1030,16 @@
         },
         "Scenario 5": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
-                "Chain_of_thought": "",
-                "Explanation": ""
+                "Scenario": "Stroški vesoljskih potovanj so astronomski. Rakete, ki nas ponesejo v vesolje, so neverjetno drage za gradnjo in vzdrževanje. Astronavti potrebujejo leta intenzivnega treninga, da se pripravijo na fizične in psihične izzive vesolja. Vsako potovanje, naj gre za obisk Mednarodne vesoljske postaje ali raziskovalno misijo na Mars, zahteva ogromne količine zalog in sredstev za vzdrževanje življenjskih funkcij. Trenutno si vesoljska potovanja lahko privoščijo le vlade in izjemno bogata elita. To omejuje raziskovanje vesolja in njegove neizmerne možnosti. Vendar pa se v vesoljski industriji dogaja prelom. Razvijajo se nove tehnologije, ki bi lahko drastično znižale stroške potovanj. Cilj je narediti vesolje dostopno širšemu krogu ljudi, od znanstvenikov in inženirjev do podjetnikov in navdušencev nad vesoljem",
+                "Inference pair": "Večkratno uporabne rakete in učinkovitejši motorji bi lahko bistveno zmanjšale stroške izstrelitve. Podjetja raziskujejo tudi alternativne načine potovanja, kot so vesoljski izstrelki na osnovi vesoljačev ali elektromagnetni katapulti. Hkrati se razvija vesoljski turizem, ki bi s povečanim povpraševanjem lahko znižal stroške za vse. Zmanjšani stroški in povečana dostopnost bodo omogočili, da bodo v vesolje lahko potovali ljudje iz različnih okolij in z različnimi interesi. To bi vključevalo ne le astronavte in znanstvenike, ampak tudi inženirje, podjetnike, umetnike, študente in celo navadne ljudi, ki si želijo doživeti čudeže vesolja.",
+                "Chain_of_thought": "Premisa (scenarij) navaja, da je vesoljsko potovanje trenutno zelo drago in omejeno na majhno skupino ljudi. Izpostavlja cilj narediti vesolje bolj dostopno.Drugi odstavek predstavi nove tehnologije (kot so večkratno uporabne rakete, učinkovitejši motorji in alternativne metode izstrelitve), ki imajo potencial, da bistveno zmanjšajo stroške izstrelitve. Nato opiše posledice tega napredka - povečano dostopnost vesoljskih potovanj za širši krog ljudi. Rezultat teh izboljšav je resnično znižanje stroškov, kar je v skladu s ciljem premise.",
+                "Explanation": [
+                    "Premisa (scenarij) opiše trenutno stanje ali problem in poudari želeni izid ali cilj, ki ga je treba doseči.",
+                    "Hipoteza (drugi odstavek) predlaga rešitev za dosego tega cilja.",
+                    "Ta vrsta razmerja zaključevanja poudarja logično povezavo med ciljem in sredstvi za njegovo dosego.",
+                    "Drugi ostavek ponuja rešitev ali strategijo, ki rešuje težavo, izpostavljeno v premisi.",
+                    "Obstaja povezava med problemom in predlagano rešitvijo in rešitev je relevantna, izvedljiva in sposobna doseči zastavljeni cilj."
+                ]
             },
             "Contradiction": {
                 "Scenario": "",
@@ -1050,8 +1056,8 @@
         },
         "Scenario 6": {
             "Entailment": {
-                "Scenario": "",
-                "Inference pair": "",
+                "Scenario": "Mesta kot globalna vozlišča trpijo zaradi naraščajočega problema prometnih zastojev. Ti zastoji niso le nadloga, ampak predstavljajo resno grožnjo okolju, gospodarstvu in samemu bistvu mestnega življenja. Onesnaženje zraka zaradi izpušnih plinov ogroža zdravje prebivalcev in trajnostnost okolja. Zastoji povzročajo gospodarsko škodo z zmanjšano produktivnostjo in oviro za pretok blaga in storitev. Obstaja nujna potreba po rešitvah, ki bodo obravnavale vzroke prometnih zastojev in spodbujale trajnostno mobilnost. Z implementacijo inovativnih strategij lahko težimo k boljšemu mestnemu življenju ter ustvarimo okolje, ki je zdravo, gospodarsko uspešno in živahno.",
+                "Inference pair": "S skrbno načrtovanimi in izvedenimi ukrepi se lahko preobrazba mestnega prometa izvede na način, ki spodbuja trajnostno mobilnost in ustvarja bolj zdrava ter vitalna urbana središča. Razširitev javnega prevoza z obsežnimi omrežji hitrega tranzita, integriranim sistemom vozovnic in elektrifikacijo vozil bo mestno prevoze naredila privlačnejše in bolj dostopne, s čimer se bo zmanjšala odvisnost od avtomobilov. Spodbujanje aktivne mobilnosti z gradnjo varnih kolesarskih stez in pešpoti, programi izposoje koles in sistemi souporabe avtomobilov pa bo prebivalcem omogočilo, da se po mestu premikajo brez izpustov in na zdrav način. Skupni učinek teh ukrepov bo čistejše okolje, manj prometnih zastojev in bolj zdravo prebivalstvo, kar bo mestna središča ponovno preoblikovalo v privlačne in trajnostne kraje za življenje.",
                 "Chain_of_thought": "",
                 "Explanation": ""
             },
