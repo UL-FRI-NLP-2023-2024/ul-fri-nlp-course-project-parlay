@@ -1,0 +1,220 @@
+11.
+Scenario (Premise):
+"Jana je v petek zjutraj hitela na delo, ko je opazila, da ji je počila pnevmatika na avtomobilu. Odločila se je, da pokliče avtovleko, saj ni imela orodja za menjavo pnevmatike. Medtem ko je čakala na pomoč, je sosed Marko prišel mimo in ji ponudil pomoč. Marko je imel vse potrebno orodje in izkušnje z menjavo pnevmatik, zato je hitro zamenjal počeno pnevmatiko. Jana se mu je zahvalila in mu ponudila kavo v zahvalo. Po dogodku je še pravočasno prispela na delo."
+
+Entailment Hypothesis:
+"Jana je v petek zjutraj odkrila, da ji je počila pnevmatika na avtomobilu, in ker ni imela orodja za menjavo, je poklicala avtovleko. Medtem ko je čakala, je njen sosed Marko, ki je imel vse potrebno orodje in izkušnje, ponudil pomoč. Marko je hitro zamenjal pnevmatiko, kar je Janu rešilo situacijo. Jana mu je v zahvalo ponudila kavo, nato pa je pravočasno prispela na delo. Zaradi Markove pomoči je bila situacija rešena hitro in brez večjih zapletov."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Janujini težavi s pnevmatiko, Markovi pomoči, hitri rešitvi in zahvali, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Jana je v petek zjutraj odkrila, da ji je počila pnevmatika na avtomobilu, vendar je imela vso potrebno opremo in sama zamenjala pnevmatiko. Sosed Marko ni bil prisoten in ji ni ponudil pomoči. Jana ni potrebovala avtovleke in je hitro nadaljevala svojo pot na delo brez pomoči drugih. Na delo je prispela z zamudo zaradi zapletov pri menjavi pnevmatike. Situacija je povzročila veliko stresa in ni bilo priložnosti za zahvalno gesto."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje, kako je Jana potrebovala pomoč, ki ji jo je ponudil sosed Marko, medtem ko hipoteza zanika Markovo prisotnost in pomoč, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Jana je v petek zjutraj odkrila, da ima težavo s pnevmatiko na avtomobilu, zato je poklicala avtovleko. Medtem ko je čakala na pomoč, je sosed Marko ponudil, da ji pomaga, saj je imel orodje in izkušnje z menjavo pnevmatik. Marko je zamenjal počeno pnevmatiko, Jana pa se mu je zahvalila s povabilom na kavo. Na delo je prispela pravočasno, zahvaljujoč hitri pomoči. Situacija je bila rešena brez večjih zapletov, kar je Janu omogočilo miren začetek dneva."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava težavo s pnevmatiko in Markovo pomoč, hkrati pa izpostavlja, da je Jana pravočasno prispela na delo. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+12.
+Scenario (Premise):
+"Maja je v soboto dopoldne odšla v trgovino, da bi nakupila sestavine za družinsko kosilo. Ko je prišla domov, je ugotovila, da je pozabila kupiti mleko, ki ga je nujno potrebovala za pripravo omake. Ker ni želela ponovno oditi v trgovino, je prosila sosedo Nino, če ji lahko posodi liter mleka. Nina je z veseljem pomagala in ji prinesla mleko. Maja se ji je zahvalila z domačimi piškoti, ki jih je spekla za kosilo. S tem je uspešno pripravila kosilo in družina je bila navdušena nad obrokom."
+
+Entailment Hypothesis:
+"Maja je v soboto dopoldne odšla v trgovino po sestavine za družinsko kosilo, vendar je ob prihodu domov ugotovila, da je pozabila kupiti mleko. Namesto da bi se vrnila v trgovino, je prosila sosedo Nino za pomoč. Nina ji je posodila liter mleka, kar je Maji omogočilo, da pripravi omako za kosilo. V zahvalo je Maja Nini podarila domače piškote. Družinsko kosilo je bilo uspešno pripravljeno in družina je bila zadovoljna z obrokom."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Maji, ki je pozabila kupiti mleko, prošnji za pomoč sosedi in uspešni pripravi kosila. Vse to je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Maja je v soboto dopoldne šla v trgovino, kjer je uspešno kupila vse potrebne sestavine, vključno z mlekom. Pri pripravi kosila ni potrebovala dodatne pomoči in ni prosila sosede Nine za liter mleka. Vse sestavine je imela doma, zato ni bilo potrebe po dodatnih nakupih ali posojilih. Kosilo je pripravila brez težav in ni bilo nobene menjave piškotov za mleko s sosedo. Družinsko kosilo je bilo pripravljeno brez zapletov."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje, da je Maja pozabila kupiti mleko in je prosila sosedo za pomoč, kar hipoteza zanika. Nasprotno pa hipoteza trdi, da je imela vse sestavine in ni potrebovala pomoči, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Maja je v soboto dopoldne odšla v trgovino po sestavine za družinsko kosilo. Prišla je domov in ugotovila, da ji manjka mleko, ki ga je potrebovala za omako. Namesto da bi se vrnila v trgovino, je prosila sosedo Nino za liter mleka. Nina ji je z veseljem posodila mleko, Maja pa se ji je zahvalila z domačimi piškoti. Kosilo je bilo uspešno pripravljeno in družina je uživala v obroku."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava težavo z manjkajočim mlekom in prošnjo sosedi za pomoč, hkrati pa izpostavlja pomoč sosede in uspešno pripravo kosila. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+13. (3)
+Scenario (Premise):
+"Petra in Ana sta se v soboto popoldne srečali na kavi, da bi se pogovorili o načrtih za skupno praznovanje rojstnega dneva. Ana je predlagala piknik v parku. 'Kaj če bi letos praznovanje naredili malo drugače in organizirali piknik?' je predlagala. Petra je raje želela organizirati večerjo doma. 'Jaz bi raje organizirala večerjo doma. Bolj intimno in udobno bi bilo,' je odgovorila Petra. Med pogovorom se jima je pridružil Anin brat Jure. 'Hej, sestri! O čem razpravljata?' je vprašal. Po poslušanju njunih predlogov je Jure predlagal najem koče v hribih. 'Kaj če bi najeli kočo v hribih? Svež zrak, lepa narava in mir,' je predlagal. Po krajšem premisleku so se vsi strinjali, da je najem koče najboljša ideja."
+
+Entailment Hypothesis:
+"Petra in Ana sta se srečali na kavi, da bi se pogovorili o načrtih za praznovanje rojstnega dneva. Ana je predlagala piknik v parku, medtem ko je Petra raje želela organizirati večerjo doma. Ko se jima je pridružil Anin brat Jure, je predlagal najem koče v hribih. Po krajšem premisleku so se vsi strinjali, da je najem koče najboljša možnost. Nato so skupaj začeli načrtovati podrobnosti dogodka."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o srečanju na kavi, različnih predlogih za praznovanje in končni odločitvi o najemu koče, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Petra in Ana sta se srečali na kavi, da bi razpravljali o načrtih za praznovanje rojstnega dneva, a je razprava hitro zašla v slepo ulico. Ana je predlagala piknik v parku, a Petra se je bala slabega vremena. 'Jaz bi raje organizirala večerjo doma, ampak kaj, če ne bo dovolj prostora za vse?' je rekla Petra. Medtem ko je Jure predlagal najem koče v hribih, je Ana omenila, da je predrago. Na koncu so se odločili, da praznovanja sploh ne bodo imeli in bodo samo šli na večerjo v bližnjo restavracijo."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so strah pred slabim vremenom, finančne omejitve in končna odločitev, da sploh ne praznujejo, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Petra in Ana sta se srečali na kavi, da bi razpravljali o možnostih za praznovanje rojstnega dneva. Medtem ko sta razpravljali, je v kavarno vstopila njuna prijateljica Tina in se jima pridružila. Tina je delila svoje izkušnje z zadnjim izletom na morje, kar je povzročilo, da so za nekaj časa pozabile na načrtovanje rojstnega dneva. Po krajšem pogovoru o morju so se vrnile k prvotnemu pogovoru in se strinjale, da bi bilo najem koče v hribih najboljša možnost. Po srečanju so obiskale tržnico in nakupile nekaj svežih pridelkov za večerjo."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o srečanju s prijateljico in pogovoru o izletu na morje, kar ni neposredno povezano z načrtovanjem rojstnega dneva, vendar še vedno vsebuje končno odločitev o najemu koče. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+14. (1)
+Scenario (Premise):
+"Matej je v petek zjutraj zamudil avtobus za delo, ker je bil promet zelo gost. 'Ne morem verjeti, da sem spet zamudil avtobus!' je jezno rekel. Odločil se je, da bo šel v službo s kolesom, saj ni želel zamuditi pomembnega sestanka. Med vožnjo je naletel na sodelavca Marka, ki se je ravno odpravljal iz svoje hiše. 'Hej, Matej! Zakaj se pa danes pelješ s kolesom?' je vprašal Marko. Matej mu je pojasnil situacijo in skupaj sta se odpravila proti pisarni. Po prihodu sta se oba udeležila sestanka in Matej je bil vesel, da ni zamudil."
+
+Entailment Hypothesis:
+"Matej je v petek zjutraj zamudil avtobus zaradi gostega prometa in se odločil, da bo šel v službo s kolesom, da ne bi zamudil pomembnega sestanka. Med vožnjo je srečal sodelavca Marka, ki ga je vprašal, zakaj se pelje s kolesom. Matej mu je pojasnil situacijo in skupaj sta se odpravila proti pisarni. Po prihodu sta se oba udeležila sestanka, Matej pa je bil vesel, da ni zamudil."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Matejevi zamudi avtobusa, odločitvi za kolesarjenje, srečanju z Markom in pravočasnem prihodu na sestanek, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Matej je v petek zjutraj pravočasno prišel na avtobus, saj ni bilo nobenega prometa. Med vožnjo z avtobusom je naletel na prometno nesrečo, ki je povzročila daljšo zamudo. 'Ne morem verjeti, da bomo zaradi te nesreče zamudili v službo!' je rekel jezno. Ko je končno prispel v pisarno, je ugotovil, da je zamudil pomemben sestanek. Kljub temu je Marko, ki je prav tako zamudil, predlagal, da gresta skupaj na kosilo, da bi nadoknadila izgubljeni čas."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so Matejev pravočasen prihod na avtobus, prometna nesreča in zamuda na sestanek, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Matej je v petek zjutraj zamudil avtobus in se odločil za kolesarjenje v službo. Med potjo je naletel na sodelavca Marka, s katerim sta se pogovarjala o nedavni nogometni tekmi. Marko je omenil, da namerava popoldne obiskati novo trgovino z elektroniko blizu pisarne. Matej se je strinjal, da se mu pridruži po delu. Po prihodu v pisarno sta se oba udeležila sestanka, Matej pa je bil vesel, da ni zamudil in da ima načrte za popoldne."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o pogovoru o nogometni tekmi in načrtih za obisk trgovine z elektroniko, kar ni neposredno povezano z zamudo avtobusa ali sestankom, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+15.
+Scenario (Premise):
+"Katja je v soboto zjutraj obiskala tržnico, da bi kupila sveže sadje in zelenjavo za vikend kosilo. Medtem ko je izbirala paradižnike, je opazila prijatelja Mateja, ki je prodajal domač med. 'Hej, Matej! Nisem vedela, da prodajaš med,' je rekla presenečeno. Matej ji je pojasnil, da se je s čebelarstvom začel ukvarjati pred nekaj leti in da zdaj prodaja svoj med na tržnici vsak vikend. Katja je kupila kozarec medu in se nato vrnila domov, da bi pripravila kosilo. Med kuhanjem je poskusila med in ugotovila, da je odličen dodatek k njenim jedem."
+
+Entailment Hypothesis:
+"Katja je v soboto zjutraj obiskala tržnico, da bi kupila sveže sadje in zelenjavo za vikend kosilo. Medtem ko je izbirala paradižnike, je naletela na prijatelja Mateja, ki je prodajal domač med. Matej ji je razložil, da se že nekaj let ukvarja s čebelarstvom in vsak vikend prodaja svoj med na tržnici. Katja je kupila kozarec medu, se vrnila domov in med kuhanjem poskusila med, ki je bil odličen dodatek k njenim jedem."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Katjinem obisku tržnice, srečanju z Matejem, nakupu medu in uporabi medu pri kuhanju, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Katja je v soboto zjutraj obiskala tržnico, vendar je bila razočarana, saj ni našla svežega sadja in zelenjave. Medtem ko je razmišljala, ali naj sploh kaj kupi, je opazila prijatelja Mateja, ki je prodajal ročno izdelane sveče. 'Hej, Matej! Nisem vedela, da izdeluješ sveče,' je rekla presenečeno. Matej ji je pojasnil, da se je s tem hobijem začel ukvarjati pred nekaj leti in da zdaj prodaja sveče na tržnici vsak vikend. Katja ni kupila nobenih izdelkov in se vrnila domov praznih rok, brez ideje za kosilo."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so Matejevo prodajanje sveč namesto medu in Katjina vrnitev domov brez nakupov in ideje za kosilo, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Katja je v soboto zjutraj obiskala tržnico, da bi kupila sveže sadje in zelenjavo za vikend kosilo. Medtem ko je izbirala paradižnike, je naletela na prijatelja Mateja, ki je bil tam z družino. Med pogovorom sta ugotovila, da imata skupnega prijatelja, ki prav tako redno obiskuje tržnico. Katja je nato kupila kozarec medu od drugega prodajalca in se vrnila domov, kjer je med kuhanjem preizkušala nove recepte. Popoldne je obiskala še svojo babico in ji podarila kozarec medu."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o Matejevi družini, skupnem prijatelju in obisku babice, kar ni neposredno povezano s srečanjem z Matejem na tržnici ali nakupom medu, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+16.
+Scenario (Premise):
+"Maja je v sredo popoldne odšla v park, da bi tam prebrala knjigo in se sprostila. Ko je našla klop v senci, je začela brati svoj najljubši roman. Med branjem je opazila, da se v bližini igrajo otroci, in eden izmed njih je začel jokati, ker se je spotaknil in padel. Maja je hitro priskočila na pomoč. 'Si v redu?' je vprašala dečka. Deček je rekel, da ga boli koleno, in Maja mu je pomagala vstati ter ga pospremila k njegovi mami. Mama se ji je zahvalila in ponudila kavo kot znak hvaležnosti. Po prijetnem klepetu je Maja nadaljevala z branjem in uživanjem v popoldnevu v parku."
+
+Entailment Hypothesis:
+"Maja je v sredo popoldne odšla v park, da bi tam prebrala knjigo in se sprostila. Med branjem je opazila otroka, ki je začel jokati, ker se je spotaknil in padel. Maja mu je hitro priskočila na pomoč, vprašala, če je v redu, in mu pomagala vstati. Dečka je pospremila k njegovi mami, ki se ji je zahvalila in ji ponudila kavo kot znak hvaležnosti. Po klepetu je Maja nadaljevala z branjem knjige v parku."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Majinem obisku parka, pomoči dečku, zahvali mame in Majinem nadaljevanju branja, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Maja je v sredo popoldne odšla v trgovino, da bi kupila nekaj potrebščin. Ko je iskala izdelke na policah, je naletela na staro prijateljico iz srednje šole. 'Hej, Maja! Kako si?' je vprašala prijateljica. Med pogovorom sta se odločili, da gresta na kavo, kjer sta se pogovarjali o starih časih in načrtih za prihodnost. Medtem ko je Maja uživala v klepetu, se ni zgodilo nič nepričakovanega, in popoldne se je končalo brez posebnosti."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so obisk trgovine, srečanje s prijateljico iz srednje šole in popolnoma drugačno dogajanje, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Maja je v sredo popoldne odšla v park, da bi se sprostila. Medtem ko je sedela na klopi, je opazovala mimoidoče in uživala v sončnem vremenu. Na drugi strani parka je potekal rekreativni tečaj joge, kar je pritegnilo njeno pozornost. Po nekaj minutah opazovanja se je odločila, da se bo prihodnji teden pridružila tečaju. Po tem se je vrnila k branju knjige in preživela preostanek popoldneva v parku."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o opazovanju rekreativnega tečaja joge in odločitvi, da se mu pridruži, kar ni neposredno povezano z dogodkom, ko Maja pomaga dečku, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+17.
+Scenario (Premise):
+"Miha je v nedeljo zjutraj odšel na kolesarski izlet po okoliških hribih. Ko je prišel na vrh enega izmed hribov, je opazil, da je njegova kolesarska veriga počila. 'O, ne! Ravno zdaj, ko sem na vrhu,' je zavzdihnil. Medtem ko je poskušal popraviti verigo, je mimo prišel drug kolesar, Janez. 'Potrebujete pomoč?' je vprašal. Miha je razložil situacijo in Janez je imel pri sebi orodje za popravilo. Skupaj sta popravila verigo in se nato odločila, da skupaj nadaljujeta vožnjo. Po koncu izleta sta se ustavila na kavi in izmenjala kontakte za prihodnje izlete."
+
+Entailment Hypothesis:
+"Miha je v nedeljo zjutraj odšel na kolesarski izlet po okoliških hribih. Na vrhu enega izmed hribov je ugotovil, da mu je počila kolesarska veriga. Medtem ko je poskušal popraviti verigo, je mimo prišel drug kolesar, Janez, ki je ponudil pomoč. Janez je imel orodje za popravilo in skupaj sta popravila verigo. Nato sta se odločila, da skupaj nadaljujeta vožnjo in po koncu izleta sta se ustavila na kavi, kjer sta izmenjala kontakte za prihodnje izlete."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Mihovem kolesarskem izletu, počeni verigi, Janezovi pomoči, nadaljevanju vožnje in ustavitvi na kavi, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Miha je v nedeljo zjutraj načrtoval kolesarski izlet, vendar je deževalo, zato je ostal doma. Namesto kolesarjenja se je odločil, da bo preživel dan z družino. Medtem ko so igrali družabne igre, je Miha prejel klic od prijatelja Janeza, ki je predlagal, da gresta naslednji vikend na kolesarjenje. Miha je sprejel predlog in se veselil prihodnjega izleta. Ta dan se je končal z večerjo doma in načrti za prihodnji teden."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so deževno vreme, ostanek doma in načrtovanje prihodnjega izleta, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Miha je v nedeljo zjutraj odšel na kolesarski izlet po okoliških hribih. Med vožnjo je opazoval čudovito naravo in opazil nekaj zanimivih ptic. Na vrhu enega izmed hribov je srečal drugega kolesarja, Janeza, s katerim sta se pogovarjala o različnih kolesarskih poteh v okolici. Po krajšem klepetu sta nadaljevala vsak svojo pot. Po izletu se je Miha ustavil še v lokalni trgovini, da bi kupil nekaj sestavin za kosilo."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o opazovanju narave, pogovoru o kolesarskih poteh in obisku trgovine, kar ni neposredno povezano s popravilom verige, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+18.
+Scenario (Premise):
+"Urša je v torek popoldne obiskala knjižnico, da bi si izposodila nekaj knjig za vikend branje. Med iskanjem knjige o zgodovini umetnosti je opazila starega prijatelja Luka, ki je ravno vračal knjigo. 'Hej, Luka! Kako si?' je vprašala presenečeno. Luka ji je povedal, da dela na novem raziskovalnem projektu o renesančni umetnosti. Urša je bila navdušena nad temo in predlagala, da gresta skupaj na kavo, kjer bi se lahko pogovorila o njegovem projektu. Po klepetu v bližnji kavarni sta se dogovorila, da se bosta spet srečala naslednji teden, da bi izmenjala več informacij."
+
+Entailment Hypothesis:
+"Urša je v torek popoldne obiskala knjižnico, da bi si izposodila nekaj knjig za vikend branje. Med iskanjem knjige o zgodovini umetnosti je srečala starega prijatelja Luka, ki je vračal knjigo. Luka ji je povedal, da dela na raziskovalnem projektu o renesančni umetnosti. Urša je bila navdušena nad temo in predlagala, da gresta skupaj na kavo, kjer bi se lahko pogovorila o njegovem projektu. Po klepetu v bližnji kavarni sta se dogovorila, da se bosta spet srečala naslednji teden."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Uršinem obisku knjižnice, srečanju z Lukom, njegovem raziskovalnem projektu in njunem dogovoru za naslednje srečanje, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Urša je v torek popoldne načrtovala obisk knjižnice, a so jo zaradi nepričakovanega dežja odpovedali. Namesto tega je ostala doma in gledala dokumentarec o renesančni umetnosti. Medtem je Luka delal na svojem raziskovalnem projektu doma in ni obiskal knjižnice. Kasneje sta se pogovarjala po telefonu in se dogovorila, da se srečata naslednji teden za kavo, kjer bi lahko razpravljala o Uršinih najnovejših umetniških odkritjih."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so odpoved obiska knjižnice zaradi dežja, ostanek doma in telefonski pogovor, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Urša je v torek popoldne obiskala knjižnico, da bi si izposodila nekaj knjig za vikend branje. Med iskanjem knjige je opazila zanimivo razstavo fotografij lokalnih umetnikov. Po ogledu razstave je srečala starega prijatelja Luka, s katerim sta se pogovarjala o najnovejših knjigah, ki sta jih prebrala. Nato sta se dogovorila, da bosta skupaj obiskala naslednjo umetniško razstavo v mestu. Urša se je vrnila domov z nekaj izposojenimi knjigami in idejami za prihodnje kulturne dogodke."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o ogledu razstave in načrtih za obisk prihodnjih umetniških dogodkov, kar ni neposredno povezano z Luko in njegovim raziskovalnim projektom, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+19.
+Scenario (Premise):
+"Jana je v četrtek zvečer pripravila domačo večerjo za svoje prijatelje. Medtem ko je kuhala, je ugotovila, da ji zmanjkuje ene ključne sestavine – olivnega olja. 'Oh, ne, brez olivnega olja ne bo ta recept uspel,' je zaskrbljeno rekla. Hitro je stekla k sosedu Davidu, da bi si ga izposodila. 'David, mi lahko posodiš malo olivnega olja?' ga je prosila. David je z veseljem prinesel steklenico olivnega olja in Jana se mu je zahvalila z nekaj sveže pečenimi piškoti. Večerja je bila uspešna in prijatelji so uživali v okusni hrani in prijetnem vzdušju."
+
+Entailment Hypothesis:
+"Jana je v četrtek zvečer pripravila domačo večerjo za svoje prijatelje, vendar je med kuhanjem ugotovila, da ji zmanjkuje olivnega olja. Hitro je šla k sosedu Davidu, da bi si ga izposodila. David ji je prinesel steklenico olivnega olja in Jana se mu je zahvalila s sveže pečenimi piškoti. Večerja je bila uspešna, prijatelji pa so uživali v okusni hrani in prijetnem vzdušju."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Janinem pomanjkanju olivnega olja, pomoči soseda Davida in uspešni večerji, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Jana je v četrtek zvečer načrtovala večerjo, vendar so vsi njeni prijatelji odpovedali. Namesto tega je skuhala večerjo zase in ugotovila, da ji manjka olivno olje. 'Ah, vseeno, bom uporabila maslo,' je rekla. Medtem ko je jedla, je slišala hrup zunaj in ugotovila, da je sosed David organiziral glasno zabavo. Namesto pomoči od Davida je Jana poklicala policijo zaradi hrupa. Večerja je bila sicer okusna, vendar večer ni minil brez zapletov."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so odpoved prijateljev, uporaba masla namesto olivnega olja in glasna zabava pri Davidu, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Jana je v četrtek zvečer pripravila domačo večerjo za svoje prijatelje. Medtem ko je kuhala, je poslušala svojo najljubšo glasbo in opazovala, kako se njen maček igra v kuhinji. Na koncu je ugotovila, da ji manjka olivno olje, in šla k sosedu Davidu, da bi si ga izposodila. David ji je prinesel steklenico olivnega olja in se zahvalil za nekaj sveže pečenih piškotov. Po večerji se je Jana sprostila s knjigo in skodelico čaja."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o poslušanju glasbe, opazovanju mačka in sprostitvi po večerji, kar ni neposredno povezano s pripravo večerje ali pomočjo soseda, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+20.
+Scenario (Premise):
+"Anže je v soboto zjutraj odšel na tržnico, da bi kupil sveže sestavine za kosilo. Medtem ko je izbiral svežo zelenjavo, je opazil, da je tam tudi njegova stara učiteljica Marta, ki je prodajala doma pridelane izdelke. 'Pozdravljeni, gospa Marta! Nisem vedel, da imate svojo stojnico,' je rekel presenečeno. Marta mu je povedala, da se je s kmetovanjem začela ukvarjati po upokojitvi. Anže je kupil nekaj njenih izdelkov in ji obljubil, da bo prišel spet. Po obisku tržnice se je odpravil domov in pripravil okusno kosilo z novo kupljenimi sestavinami."
+
+Entailment Hypothesis:
+"Anže je v soboto zjutraj odšel na tržnico, da bi kupil sveže sestavine za kosilo. Tam je srečal svojo staro učiteljico Marto, ki je prodajala doma pridelane izdelke. Marta mu je povedala, da se je s kmetovanjem začela ukvarjati po upokojitvi. Anže je kupil nekaj njenih izdelkov in ji obljubil, da bo spet prišel. Po obisku tržnice se je vrnil domov in pripravil okusno kosilo z novo kupljenimi sestavinami."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Anžetovem obisku tržnice, srečanju z učiteljico Marto, nakupu njenih izdelkov in pripravi kosila, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Anže je v soboto zjutraj načrtoval obisk tržnice, vendar je njegov avto odpovedal, zato je moral ostati doma. Namesto obiska tržnice je naročil sestavine prek spleta. Medtem ko je čakal na dostavo, je srečal poštarja, ki mu je prinesel paket z darilom od prijatelja. 'Nisem vedel, da pričakujem paket,' je rekel presenečeno. Po prejemu paketa je Anže pripravil kosilo iz dostavljenih sestavin, a je ugotovil, da manjkajo nekatere ključne sestavine. Na koncu je moral improvizirati z obrokom."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so odpoved avtomobila, spletno naročilo sestavin in prejem paketa od poštarja, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Anže je v soboto zjutraj odšel na tržnico, da bi kupil sveže sestavine za kosilo. Medtem ko je izbiral zelenjavo, je opazoval barvitost tržnice in različne stojnice. Na eni stojnici je bil celo mini sejem lokalnih umetnikov, ki so razstavljali svoje slike in ročne izdelke. Anže je kupil nekaj sveže zelenjave in se odločil, da bo naslednjič raziskal še umetniški sejem. Po obisku tržnice se je vrnil domov in pripravil okusno kosilo z novo kupljenimi sestavinami."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o opazovanju umetniškega sejma na tržnici, kar ni neposredno povezano s srečanjem z učiteljico Marto, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
