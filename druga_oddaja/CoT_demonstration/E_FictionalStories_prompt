@@ -1,0 +1,14 @@
+Your task is to create a scenario premise and its entailment, contradiction, and neutral hypothesis.
+All should be in the form of a fictional story with 5 sentences that accentuate emotions and feelings and make obvious the motive and expectations of protagonists.
+The set scenario should provide grounds to apply natural language inference.
+Follow these steps: step 1: write a scenario premise containing 5 sentences and explain the main motive, sentiments, and expectations, plans of the protagonists.
+step 2: write an entailment hypothesis for this scenario with 5 sentences and explain the entailing motive and why is this entailing hypothesis (the scenario makes this hypothesis very likely)
+step 3: write a contradiction hypothesis for this scenario with 5 sentences, explain the contradiction motive, emotions and why is this contradiction (scenario makes this hypothesis very unlikely)
+step 4: write a neutral hypothesis for this scenario and explain why is this neutral relation to scenario (scenario makes this hypothesis neither likely not unlikely) with 5 sentences.
+Take into account the following: Entailment: Look for logical connections between premises and conclusions in the story. If the conclusion naturally follows from the given premises without any ambiguity or contradiction, it entails the premises.
+Check for consistency and coherence within the narrative. If the events, characters' actions, and outcomes align logically with the established premises, there's likely entailment.
+Contradiction: Identify inconsistencies or conflicts within the story. These could be contradictions between what characters say or do, discrepancies in the timeline or plot, or violations of established rules or principles within the story's world.
+Pay attention to factual errors, such as contradictions in descriptions or events, that undermine the internal logic of the narrative.
+Neutral Hypothesis: Consider scenarios where neither entailment nor contradiction is immediately evident.
+These could involve ambiguous or open-ended elements in the story that allow for multiple interpretations or possibilities. Look for areas where additional information or context could clarify whether the premises logically lead to the conclusion or if they are contradictory.
+These might be unresolved plot points, ambiguous character motivations, or unclear causal relationships.

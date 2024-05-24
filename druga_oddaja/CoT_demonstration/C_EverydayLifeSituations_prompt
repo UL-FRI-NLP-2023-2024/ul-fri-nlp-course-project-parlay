@@ -1,0 +1,13 @@
+Create an NLI premise, one contradicting one entailing, and one neutral sentence and their labels.
+Then make the premise and hypotheses 5-6 sentences (not less).
+So this way we will have an NLI dataset with not sentences but paragraphs (both hypothesis and premise).
+That way there will be a common premise and 3 separate hypothesis paragraphs with explanations of their relation to the premise.
+Neutral should be something that does is not made more or less likely because of the premise.
+Let the premise be a situation from everyday life and to get entailment and contradiction paragraph, common sense reasoning (what a common person in the same situation would do) should be applied or denied (in case of contradiction).
+Be careful about the neutral hypothesis. It should be something in the context but not really related to the main idea. In a way seems like relevant to premise but not in the core idea.
+
+
+
+
+
+
