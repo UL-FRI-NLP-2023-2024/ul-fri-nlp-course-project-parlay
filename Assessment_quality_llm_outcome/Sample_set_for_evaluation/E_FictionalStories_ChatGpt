@@ -1,0 +1,221 @@
+11.
+Scenario (Premise):
+"Elara, mlada čarovnica iz vasi Arindor, je nekega večera odkrila staro knjigo urokov, skrito v skrivnem predalu njene babice. Knjiga je bila prežeta z mističnimi simboli in vonjem po starodavnem pergamentu. Med listanjem je našla urok za priklic zmaja varuha, ki naj bi bil varuh izgubljenih znanj in varuh vasice pred neznanimi grožnjami. Elara je previdno izvedla urok, in zrak se je napolnil s prastarimi šepeti. Pred njo se je pojavila mogočna figura zmaja z zlato lusko, njegov dih je zvenel kot starodavna pesem. Zmaj je vodil Elaro na skrivno pot za gorami, kjer so čakali skrivnostni zakladi in zapisi, ki so obljubljali zaščito in modrost za vas Arindor. Elara je čutila, da je na pragu razkritja velikih skrivnosti, ki bi lahko spremenile usodo njenega sveta."
+
+Entailment Hypothesis:
+"Elara, mlada čarovnica iz vasi Arindor, je našla staro knjigo urokov, skrito v skrivnem predalu svoje babice. V njej je odkrila urok za priklic zmaja varuha, ki bi varoval vas pred nevarnostmi. Ko je izvedla urok, se je pojavil veličasten zmaj z zlato lusko, ki jo je vodil na skrivno pot za gorami. Skupaj sta našla skrivnostne zaklade in starodavne zapise, ki so obljubljali zaščito in modrost za vas Arindor. Elara je čutila, da je na pragu razkritja velikih skrivnosti."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Elarini najdbi knjige, priklicu zmaja varuha in njunem raziskovanju starodavnih skrivnosti ter zakladov, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Elara, mlada čarovnica iz vasi Arindor, je našla staro knjigo urokov, vendar je bila knjiga zaklenjena s čarobno ključavnico, ki jo je lahko odklenila le s krvjo prvorojenke. Medtem ko je poskušala odkleniti knjigo, se je iz nje dvignila temna meglica in Elara je padla v nezavest. Ko se je zbudila, je bila ujeta v svet s sencami, kjer je zmaj varuh postal strašni zmaj uničenja. Elara je morala najti način, kako se vrniti v svoj svet in popraviti posledice svojih dejanj, medtem ko je njen svet trpel zaradi uničevalne sile zmaja."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so zaklenjena knjiga, temna meglica, ujetost v svetu senc in uničevalni zmaj, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Elara, mlada čarovnica iz vasi Arindor, je nekega večera našla staro knjigo urokov v skrivnem predalu svoje babice. Medtem ko je preučevala knjigo, je našla tudi zapise o starodavni legendi o vilinskem kraljestvu, skritem globoko v gozdu za gorami. Navdušena nad možnostjo odkritja, je pripravila napoj, ki bi ji omogočil videti vilinske poti. Med iskanjem je naletela na staro drevo, ki je bilo prehod v drugo dimenzijo, kjer so živeli vilini. Elara je sklenila raziskati to kraljestvo in prinesla nazaj zgodbe in znanje, ki bi koristili njeni vasi."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o najdbi zapisa o vilinskem kraljestvu in raziskovanju vilinskih poti, kar ni neposredno povezano s priklicom zmaja ali raziskovanjem zakladov, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+12.
+Scenario (Premise):
+"V megleni dolini, obkroženi z visokimi gorami, je živela samotarska alkimistka po imenu Lyra. Nekega dne je med preučevanjem starih rokopisov našla zapise o Zvezdni eliksirju, ki naj bi imel moč, da pričara skrivnostno bitje iz drugega sveta. Lyra je sledila zapletenim navodilom in ob polni luni, obkrožena z zlatimi prahom in zelišči, pripravila eliksir. Ko je končno dodala zadnjo sestavino, se je pred njo pojavila svetleča postava, ki je nosila skrivnosti vesolja. Ta bitje, imenovano Astralis, je obljubilo, da bo delilo svoje znanje z Lyro, če bo pomagala obnoviti ravnovesje med svetovi."
+
+Entailment Hypothesis:
+"V megleni dolini, obkroženi z visokimi gorami, je samotarska alkimistka Lyra našla zapise o Zvezdni eliksirju, ki naj bi imel moč pričarati bitje iz drugega sveta. Sledila je zapletenim navodilom in ob polni luni pripravila eliksir. Ko je dodala zadnjo sestavino, se je pojavila svetleča postava, imenovana Astralis, ki je obljubila, da bo delila svoje znanje z Lyro, če bo pomagala obnoviti ravnovesje med svetovi."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Lyri, ki najde zapise o Zvezdni eliksirju, pripravi eliksirja in pojavu bitja Astralis, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"V megleni dolini, obkroženi z visokimi gorami, je samotarska alkimistka Lyra našla zapise o Zvezdni eliksirju, vendar je eliksir zahteval redke sestavine, ki jih ni mogla najti. Namesto eliksirja je pripravila napoj za nesmrtnost, ki ga je popila in nenamerno prebudila starodavne pošasti, ki so začele uničevati dolino. Lyra je zdaj lovljena in mora najti način, kako zapečatiti pošasti nazaj, medtem ko se bori za preživetje v opustošeni dolini."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so napoj za nesmrtnost, prebujanje pošasti in opustošena dolina, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"V megleni dolini, obkroženi z visokimi gorami, je samotarska alkimistka Lyra našla zapise o Zvezdni eliksirju. Med raziskovanjem je odkrila tudi star zemljevid, ki naj bi vodil do izgubljenega mesta zlata. Odločila se je, da bo najprej raziskala mesto zlata in nato pripravila eliksir. Med iskanjem je naletela na starodavne pasti in skrite zaklade, ki so obljubljali bogastvo in skrivnosti, a tudi nevarnosti. Po dolgem potovanju se je vrnila z zemljevidom in dragocenimi najdbami, pripravljena na naslednjo fazo svojega alkimističnega raziskovanja."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o iskanju izgubljenega mesta zlata in starodavnih pasteh, kar ni neposredno povezano s pripravo Zvezdnega eliksirja ali pojavom Astralisa, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+
+13. 
+Scenario (Premise):
+"V odmaknjeni vasici ob vznožju starodavnih gora je živel skrivnosten možakar po imenu Elias. Njegova hiša je bila polna starih zemljevidov in artefaktov, ki jih je našel med svojimi potovanji. Nekega dne je med pregledovanjem enega izmed zemljevidov odkril nenavadno označbo, ki je kazala na lokacijo globoko v gozdu. Odločil se je, da bo raziskal to skrivnostno mesto. Po dolgih urah hoje je prišel do starodavne opuščene stavbe, ki je bila poraščena z mahom in trto. Notri je našel sobo polno zaprašenih knjig in skrivnostnih mehanizmov. Med pregledovanjem je našel skrivni prehod, ki ga je vodil do podzemnega bunkerja, polnega starodavne tehnologije, ki je presegala sodobno razumevanje. Elias je vedel, da je odkril nekaj izjemnega, nekaj, kar bi lahko spremenilo tok zgodovine."
+
+Entailment Hypothesis:
+"V odmaknjeni vasici ob vznožju starodavnih gora je živel možakar po imenu Elias, ki je med pregledovanjem starih zemljevidov odkril nenavadno označbo, ki je kazala na lokacijo globoko v gozdu. Po dolgih urah hoje je prišel do starodavne opuščene stavbe in v njej našel sobo polno zaprašenih knjig in skrivnostnih mehanizmov. Med pregledovanjem je našel skrivni prehod, ki ga je vodil do podzemnega bunkerja, polnega starodavne tehnologije, ki je presegala sodobno razumevanje."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Eliasovi najdbi zemljevida, raziskovanju gozda, odkritju starodavne stavbe in skrivnem prehodu do podzemnega bunkerja s starodavno tehnologijo, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"V odmaknjeni vasici ob vznožju starodavnih gora je živel možakar po imenu Elias, ki je bil znan kot krajevni šaljivec. Nekega dne je med preurejanjem svoje delavnice našel star zemljevid, ki ga je narisal kot šalo za svoje prijatelje. Ko je sledil označbam na zemljevidu, je našel le star vodnjak, ki so ga vaščani uporabljali za shranjevanje krompirja. Na koncu se je vrnil domov, ne da bi našel kaj posebnega, in se odločil, da bo priredil zgodbo za večerni pripovedni krožek v gostilni."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so šaljiv zemljevid, star vodnjak za krompir in pripovedovanje zgodb v gostilni, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"V odmaknjeni vasici ob vznožju starodavnih gora je živel možakar po imenu Elias, ki je bil znan po svojih spretnostih s starimi zemljevidi. Nekega dne je med pregledovanjem zemljevidov našel nenavadno označbo, vendar je odločil, da bo raziskovanje preložil na kasnejši čas. Namesto tega je obiskal lokalno knjižnico, kjer je naletel na razstavo starih dokumentov iz različnih delov sveta. Po dolgem dnevu raziskovanja se je vrnil domov z novimi idejami za svoje bodoče projekte, a brez kakršnega koli konkretnega odkritja."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o obisku knjižnice in razstavi starih dokumentov, kar ni neposredno povezano z raziskovanjem skrivnostnega mesta ali odkritjem starodavne tehnologije, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+14.
+Scenario (Premise):
+"Ana, mlada raziskovalka na področju umetne inteligence, je nekega dne med pregledovanjem starih arhivov naletela na skrivnosten digitalni dokument, označen kot 'Projekt Hiperion'. Dokument je vseboval podrobnosti o eksperimentalnem algoritmu, ki naj bi imel sposobnost napovedovanja prihodnosti. Z navdušenjem je začela raziskovati algoritem in ugotovila, da zahteva posebne vhodne podatke, ki so bili shranjeni na starem trdem disku v skladišču podjetja. Ana je pridobila disk in uspela zagnati algoritem. Na zaslonu so se pojavili nenavadni vzorci in napovedi, ki so nakazovali pomembne dogodke v bližnji prihodnosti. Ana je vedela, da je odkrila nekaj izjemnega, nekaj, kar bi lahko spremenilo tok zgodovine."
+
+Entailment Hypothesis:
+"Ana, mlada raziskovalka na področju umetne inteligence, je naletela na skrivnosten digitalni dokument, označen kot 'Projekt Hiperion'. Dokument je vseboval podrobnosti o eksperimentalnem algoritmu za napovedovanje prihodnosti. Ko je pridobila potrebne podatke s starega trdega diska in zagnala algoritem, so se na zaslonu pojavili nenavadni vzorci in napovedi, ki so nakazovali pomembne dogodke v bližnji prihodnosti. Ana je vedela, da je odkrila nekaj izjemnega."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Anini najdbi dokumenta, raziskovanju algoritma, pridobitvi podatkov in nenavadnih napovedih, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Ana, mlada raziskovalka na področju umetne inteligence, je naletela na star dokument, ki pa je bil le šala, napisana s strani njenih sodelavcev. Dokument ni vseboval ničesar pomembnega, zgolj naključne šifre in nesmiselne zapise. Ko je poskusila zagnati domnevni algoritem, je njen računalnik zmrznil in povzročil izgubo vseh podatkov na trdem disku. Na koncu se je izkazalo, da 'Projekt Hiperion' sploh ne obstaja in da je bila vse skupaj le neslana šala."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so šala sodelavcev, nesmiselni zapisi in izguba podatkov, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Ana, mlada raziskovalka na področju umetne inteligence, je naletela na zanimiv digitalni dokument med pregledovanjem arhivov. Dokument je vseboval nekaj informacij o starih projektih podjetja, a nič posebej izjemnega. Namesto da bi se osredotočila na ta dokument, se je Ana odločila, da bo raziskovala nove metode strojnega učenja. Medtem ko je delala na teh projektih, je naletela na sodelavca, ki je delal na podobnem raziskovalnem področju, in skupaj sta razvila nov algoritem za analizo velikih podatkovnih nizov."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o raziskovanju novih metod strojnega učenja in sodelovanju s sodelavcem, kar ni neposredno povezano z raziskovanjem 'Projekta Hiperion', vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+15.
+Scenario (Premise):
+"David, mlad razvijalec programske opreme, je nekega dne med raziskovanjem starih digitalnih arhivov naletel na nenavaden datotečni sistem, označen kot 'Projekt Atlas'. Datoteke so vsebovale podrobnosti o sofisticiranem algoritmu, ki bi lahko prepoznal in predvideval vzorce v globalnih podatkovnih tokovih, kar bi omogočilo napovedovanje velikih gospodarskih in političnih dogodkov. David je bil fasciniran in se je odločil, da bo preučil algoritem. Po več tednih dela je končno uspel zagnati program. Algoritem je začel prikazovati nenavadne vzorce in napovedi, ki so nakazovali potencialno nestabilnost na določenih trgih in možne politične premike. David je vedel, da je odkril nekaj revolucionarnega, kar bi lahko imelo daljnosežne posledice za svet."
+
+Entailment Hypothesis:
+"David, mlad razvijalec programske opreme, je med raziskovanjem starih digitalnih arhivov naletel na nenavaden datotečni sistem, označen kot 'Projekt Atlas'. Datoteke so vsebovale podrobnosti o algoritmu za napovedovanje vzorcev v globalnih podatkovnih tokovih. Po več tednih dela je uspel zagnati program, ki je začel prikazovati nenavadne vzorce in napovedi o gospodarskih in političnih dogodkih. David je vedel, da je odkril nekaj revolucionarnega."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Davidovi najdbi datotečnega sistema, preučevanju algoritma, zagonu programa in prikazu nenavadnih napovedi, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"David, mlad razvijalec programske opreme, je naletel na star digitalni arhiv, ki je bil okužen z zlonamerno programsko opremo. Namesto sofisticiranega algoritma so datoteke vsebovale viruse, ki so uničili njegov računalnik. Ko je poskusil obnoviti podatke, je ugotovil, da je izgubil vse svoje pomembne projekte. 'Projekt Atlas' je bil prevara, zasnovana za uničevanje podatkov, in ni vseboval nobenih koristnih informacij. David je bil prisiljen začeti svoje delo od začetka."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so okužba z zlonamerno programsko opremo, uničenje podatkov in prevara, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"David, mlad razvijalec programske opreme, je med raziskovanjem digitalnih arhivov naletel na zanimiv datotečni sistem. Datoteke so vsebovale informacije o preteklih raziskovalnih projektih podjetja. Med pregledovanjem arhivov je naletel na stare zapiske o zgodovini računalništva in razvoju algoritmov. Navdušen nad zgodovinskim vidikom, je David preživel več dni, preučujoč te dokumente. Vendar ni našel ničesar revolucionarnega, kar bi vplivalo na njegovo trenutno delo, a je pridobil novo perspektivo o zgodovini svojega področja."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o raziskovanju zgodovine računalništva in preučevanju starih zapiskov, kar ni neposredno povezano z napovedovanjem globalnih dogodkov ali sofisticiranim algoritmom, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+16. 
+Scenario (Premise):
+"Na robu mesta, kjer se nebo dotika zemlje, stoji stara svetilka. Njene žareče luči se razprostirajo v noč, razpršujejo se kot iskrice v vetru. Tam srečaš starega uličnega umetnika, ki s čopičem in barvami oživlja sivino asfalta. V njegovih očeh sije neizmerna globina, kot da bi v njih lahko videl vse zgodbe sveta. Njegove slike, ki jih ustvarja na ulici, prikazujejo prizore, ki presegajo vsakdanje življenje – mestne ulice, ki se spreminjajo v sanjske pokrajine, obraze, ki izžarevajo skrivnostne zgodbe. Ljudje se ustavljajo, očarani nad umetnikovim delom, ki kot da prinaša košček magije v vsakdanje življenje."
+
+Entailment Hypothesis:
+"Na robu mesta stoji stara svetilka, katere luči se razprostirajo v noč in privabljajo mimoidoče. Tam deluje star ulični umetnik, ki s čopičem in barvami ustvarja živopisne slike na asfaltu. Njegove oči razkrivajo globino, polno zgodb, ki jih oživlja v svojih delih. Umetnikove stvaritve prikazujejo mestne prizore, preobražene v sanjske pokrajine, in obraze z misterioznimi izrazi. Ljudje se pogosto ustavljajo, začarani nad njegovimi deli, ki dodajajo pridih magije njihovemu vsakdanu."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o stari svetilki, umetnikovem delu in očaranih ljudeh, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Na robu mesta, kjer se nebo dotika zemlje, stoji moderna svetilka z LED lučmi, ki močno osvetljujejo okolico. Tam srečaš mladega programerja, ki s svojim prenosnikom ustvarja digitalne umetnine. V njegovih očeh ni nobene globine, saj se osredotoča le na tehnične vidike svojega dela. Njegove digitalne slike so hladne in brezdušne, prikazujejo sterilne pokrajine brez življenja. Ljudje se izogibajo njegovemu delu, saj jim ne vzbuja nobenih občutkov."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so moderna svetilka, mladi programer, digitalne umetnine brez duše in nezainteresirani ljudje, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Na robu mesta stoji stara svetilka, katere žareče luči se razprostirajo v noč. Tam srečaš starega uličnega umetnika, ki s čopičem in barvami oživlja sivino asfalta. Medtem ko ustvarja svoje slike, se pogosto pogovarja z mimoidočimi o zgodovini mesta in dogodkih, ki so ga oblikovali. Umetnik pogosto potuje v druge dele mesta, kjer išče navdih za svoje naslednje umetnine. Njegovo delo je znano med lokalnimi prebivalci, vendar ne pritegne veliko pozornosti turistov."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o umetnikovih pogovorih z mimoidočimi in njegovih potovanjih po mestu, kar ni neposredno povezano s prikazovanjem sanjskih pokrajin ali očaranostjo ljudi, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+17.
+Scenario (Premise):
+"V stari knjižnici, polni prahu in zgubanih strani, odkriješ starodavno knjigo. Njene platnice so iztrgane, listi pa rumeni od časa. Med listanjem se potopiš v zaprašene strani zgodovine, ki se prepletajo s sanjami prihodnosti. Knjiga vsebuje zapise o davno pozabljenih civilizacijah in njihove skrivnosti o naprednih tehnologijah in družbenih strukturah, ki presegajo današnje razumevanje. Med branjem te prevzame občutek, da držiš v rokah ključ do razumevanja prihodnosti skozi preteklost."
+
+Entailment Hypothesis:
+"V stari knjižnici najdeš starodavno knjigo, katere platnice so iztrgane in listi rumeni od časa. Ko jo listaš, odkriješ zapise o pozabljenih civilizacijah ter njihovih naprednih tehnologijah in družbenih strukturah. Knjiga te pritegne, saj razkriva skrivnosti, ki bi lahko osvetlile prihodnost skozi preučevanje preteklosti."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o odkritju starodavne knjige, prepletanju zgodovine in sanj prihodnosti ter občutku, da knjiga razkriva ključne skrivnosti o preteklosti in prihodnosti.
+
+Contradiction Hypothesis:
+"V stari knjižnici, polni prahu in zgubanih strani, odkriješ sodobno knjigo z bleščečimi platnicami in sveže natisnjenimi listi. Med listanjem se soočiš z modernimi teorijami o prihodnosti, ki so popolnoma neodvisne od preteklosti. Knjiga ne vsebuje nobenih zgodovinskih zapisov ali naprednih tehnologij iz preteklosti. Namesto tega se osredotoča na znanstvene fantastike in teorije, ki nimajo nobene povezave z resničnimi dogodki."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so sodobna knjiga, moderni teoriji brez povezave z zgodovino in osredotočanje na znanstveno fantastiko, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"V stari knjižnici, polni prahu in zgubanih strani, odkriješ starodavno knjigo. Medtem ko listanje razkriva zaprašene strani zgodovine, se v ozadju sliši tiho brenčanje starodavnega urejevalnika dokumentov. Knjiga vsebuje zapise o različnih kulturnih praksah in ritualih, ki so bili nekoč običajni. Med branjem se osredotočiš na opisane kulturne navade in običaje, ne pa na napredne tehnologije ali družbene strukture. Knjiga ti omogoča vpogled v vsakdanje življenje preteklih civilizacij."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o kulturnih praksah in ritualih, kar ni neposredno povezano z naprednimi tehnologijami ali družbenimi strukturami iz preteklosti, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+18.
+Scenario (Premise):
+"V zapuščeni skladiščni stavbi v industrijski coni je Alex, mladi programer, naletel na star strežnik. Med raziskovanjem je odkril, da je strežnik vseboval arhive starega tehnološkega podjetja, vključno z nekaterimi neizdanimi projekti. Med njimi je bil še posebej zanimiv projekt 'Sentinel', napreden sistem za analizo podatkov v realnem času, ki bi lahko revolucioniral varnostne protokole. Alex je uspel vzpostaviti strežnik in zagnati sistem. Takoj so se začeli pojavljati podatkovni vzorci in alarmi, ki so nakazovali potencialne varnostne grožnje v različnih delih mesta. Alex je spoznal, da je našel nekaj izjemnega, kar bi lahko imelo velik vpliv na mestno varnost."
+
+Entailment Hypothesis:
+"V zapuščeni skladiščni stavbi je Alex, mladi programer, našel star strežnik, ki je vseboval arhive starega tehnološkega podjetja. Med temi arhivi je odkril projekt 'Sentinel', napreden sistem za analizo podatkov v realnem času, ki bi lahko izboljšal varnostne protokole. Ko je zagnal sistem, so se pojavili podatkovni vzorci in alarmi, ki so nakazovali varnostne grožnje v mestu. Alex je spoznal, da je odkril nekaj zelo pomembnega."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Alexovi najdbi starega strežnika, odkritju projekta 'Sentinel' in zagonu sistema, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"V zapuščeni skladiščni stavbi je Alex, mladi programer, našel star strežnik, vendar je bil popolnoma pokvarjen in ni vseboval nobenih uporabnih podatkov. Medtem ko je poskušal vzpostaviti strežnik, je po nesreči povzročil električni kratek stik, ki je uničil celotno stavbo. Projekt 'Sentinel' ni nikoli obstajal in Alex se je moral vrniti domov praznih rok, brez kakršnih koli novih odkritij."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so pokvarjen strežnik, električni kratek stik in neobstoj projekta 'Sentinel', kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"V zapuščeni skladiščni stavbi je Alex, mladi programer, našel star strežnik, ki je vseboval nekaj zanimivih podatkov iz preteklosti podjetja. Med raziskovanjem je naletel na zgodovinske podatke o prejšnjih projektih, vendar nobenega, ki bi bil posebej revolucionaren. Alex je preživel nekaj časa preučevanje arhivov, kar mu je dalo vpogled v razvoj tehnologije, vendar ni našel ničesar, kar bi lahko neposredno vplivalo na varnostne protokole mesta. Zadovoljen z novo pridobljenim znanjem se je vrnil domov."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o raziskovanju zgodovinskih podatkov podjetja in pridobivanju znanja, kar ni neposredno povezano z odkritjem naprednega sistema za analizo podatkov ali varnostnimi grožnjami, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+19.
+Scenario (Premise):
+"Lara, mlada arheologinja, je med izkopavanji na robu puščave naletela na nenavadno napravo, zakopano globoko pod peskom. Naprava je bila kovinska in polna starodavnih simbolov, ki so spominjali na izgubljeno civilizacijo. Lara je napravo odnesla v svoj laboratorij, kjer je ugotovila, da gre za nekakšen starodaven računalnik, ki je lahko prebiral in analiziral podatke iz preteklosti. Ko je aktivirala napravo, so se na zaslonu začeli prikazovati zapisi o davno pozabljenih dogodkih in tehnologijah. Lara je spoznala, da je odkrila nekaj, kar bi lahko spremenilo razumevanje zgodovine."
+
+Entailment Hypothesis:
+"Lara, mlada arheologinja, je med izkopavanji na robu puščave odkrila nenavadno napravo, polno starodavnih simbolov, ki so kazali na izgubljeno civilizacijo. Ko je napravo prinesla v laboratorij in jo aktivirala, je ugotovila, da gre za starodaven računalnik, ki je prikazoval zapise o pozabljenih dogodkih in tehnologijah. Ta odkritja bi lahko spremenila razumevanje zgodovine."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Larinem odkritju naprave, njeni analizi in prikazu starodavnih zapisov, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Lara, mlada arheologinja, je med izkopavanji našla staro škatlo, polno običajnih orodij, ki jih uporabljajo sodobni delavci. Orodja niso bila povezana z nobeno starodavno civilizacijo, temveč so pripadala ekipi, ki je tam delala pred leti in jih pozabila. Ko je Lara pregledala škatlo v laboratoriju, ni našla ničesar nenavadnega ali vrednega omembe. Odkritje ni imelo nobene vrednosti za zgodovino ali arheologijo."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so običajna orodja sodobnih delavcev, neuporabna škatla in nepomembno odkritje, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Lara, mlada arheologinja, je med izkopavanji na robu puščave odkrila staro posodo, polno zrn peska in kamenčkov. Posoda je imela nekaj starodavnih simbolov, vendar ni bila povezana z nobeno znano civilizacijo. Med analizo je ugotovila, da posoda verjetno pripada lokalnemu prebivalstvu iz preteklosti, vendar ni vsebovala nobenih podatkov ali zapisov. Medtem ko je bila posoda zanimiva, ni imela neposrednega vpliva na razumevanje zgodovine."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o odkritju stare posode z zrnci peska, kar ni neposredno povezano s starodavnim računalnikom ali zapisi o pozabljenih dogodkih, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+20.
+Scenario (Premise):
+"Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli. Kljub temu, da sta bila kot noč in dan, sta se hitro zbližala. Po mnogih letih, ko sta se znova srečala, se je med njima ponovno prebudila iskrica. Od takrat naprej sta začela skupaj preživljati vedno več časa in obujati spomine iz mladosti, kar je še dodatno utrdilo njuno vez."
+
+Entailment Hypothesis:
+"Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli in kljub različnim značajem postala prijatelja. Po letih ločenosti sta se znova srečala in ponovno začutila povezanost. Začela sta preživljati več časa skupaj in obujati spomine, kar je še bolj okrepilo njuno prijateljstvo."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o njunem spoznanju na ekskurziji, ponovnem srečanju po letih in obnovitvi njune povezanosti preko skupnih spominov.
+
+Contradiction Hypothesis:
+"Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli, vendar se nista marala in sta se pogosto prepirala. Po mnogih letih sta se znova srečala na nekem dogodku, vendar je med njima takoj prišlo do prepira zaradi preteklih zamer. Odločila sta se, da ne bosta več v stiku, in Viktor se je kasneje preselil v drugo državo."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Nasprotuje scenariju z uvedbo novih dejstev, kot so prepiri v osnovni šoli, prepir na ponovnem srečanju in odločitev, da ne bosta več v stiku, kar neposredno nasprotuje opisu dogodkov v scenariju.
+
+Neutral Hypothesis:
+"Viktor in Eva sta se spoznala na ekskurziji v osnovni šoli, a njuni poti sta se ločili. Po mnogih letih sta se znova srečala na letališču, kjer sta oba čakala na svoje lete. Medtem ko sta čakala, sta se pogovarjala o svojih potovanjih in izkušnjah v različnih državah. Po krajšem pogovoru sta se poslovila in nadaljevala svoja potovanja brez posebne povezave."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Vključuje dodatne podatke o srečanju na letališču in pogovoru o potovanjih, kar ni neposredno povezano z obnovitvijo iskrice ali globljim povezovanjem, vendar še vedno vsebuje elemente zgodbe. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+

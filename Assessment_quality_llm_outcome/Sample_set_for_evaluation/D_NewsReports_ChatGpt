@@ -1,0 +1,219 @@
+11.
+Scenario (Premise):
+"Nedavni podatki kažejo, da je omejitev vpisa uvedena na 58 srednjih šolah v Sloveniji, kar je manj od lanskih 70. Povečal se je vpis v srednje in nižje poklicne šole, kar odraža naraščajoče zanimanje za ta področja. Ta trend nakazuje premik v izobraževalnih preferencah proti praktičnemu in poklicno usmerjenemu izobraževanju. Ministrstvo za izobraževanje je poudarilo stalno povpraševanje po programih v gradbeništvu in ekonomiji, medtem ko je opazen porast prijav na programe v gastronomiji in turizmu. Letos je razporeditev dijakov bolj enakomerna, z manj dijaki, ki se selijo iz manjših krajev v večja mestna središča."
+
+Entailment Hypothesis:
+"Omejitev vpisa na 58 srednjih šolah v Sloveniji odraža premik proti poklicnemu in tehničnemu izobraževanju, kar potrjuje povečano število prijav v ta področja. Programi v gradbeništvu, ekonomiji, gastronomiji in turizmu so zelo iskani, kar kaže na preferenco po praktičnem in poklicno usmerjenem izobraževanju. Ta trend se ujema z opažanji Ministrstva za izobraževanje in nakazuje bolj enakomerno razporeditev dijakov po regijah. Splošni upad števila dijakov, ki se selijo v večja mesta, podpira ta lokaliziran vzorec vpisa, kar kaže na uravnotežen pristop k izobraževalnim preferencam."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke, kot so povečano zanimanje za poklicno in tehnično izobraževanje, specifični programi, ki so v povpraševanju, in bolj enakomerna razporeditev dijakov, kar se neposredno ujema z opisanimi trendi in opažanji v scenariju.
+
+Contradiction Hypothesis:
+"Vpis na srednje šole v Sloveniji ni omejen, prav tako ni opaziti povečanja vpisa v poklicne in tehnične šole. Zanimanje za programe, kot so gradbeništvo, ekonomija, gastronomija in turizem, je nizko. Dijaki še vedno v veliki meri migrirajo v večja mesta zaradi boljših izobraževalnih možnosti, kar povzroča neuravnoteženo razporeditev vpisa. Ministrstvo za izobraževanje ni poročalo o pomembnih spremembah v preferencah dijakov, kar kaže na statično izobraževalno okolje brez premikov proti praktičnemu izobraževanju."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje specifične omejitve vpisa, povečano zanimanje za poklicne in tehnične programe ter bolj enakomerno razporeditev dijakov. Nasprotno pa ta hipoteza nepravilno trdi, da ni omejitev ali pomembnih sprememb, kar neposredno nasprotuje opažanjem scenarija.
+
+Neutral Hypothesis:
+"Trendi vpisa v srednje šole v Sloveniji odražajo stalne spremembe v izobraževalnih preferencah, pri čemer nekatere šole uvajajo omejitve vpisa, medtem ko se povečuje število prijav v poklicne in tehnične programe. Področja, kot so gradbeništvo, ekonomija, gastronomija in turizem, postajajo vse bolj priljubljena, čeprav tradicionalni akademski programi ostajajo priljubljeni. Letos je razporeditev dijakov bolj uravnotežena, z manj migracijami v večja mesta. Ministrstvo za izobraževanje še naprej spremlja te trende, da bi zagotovilo, da izpolnjujejo potrebe in preference dijakov po različnih regijah."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava splošne trende vpisa in izobraževalne preference, vključno s povečanim zanimanjem za določene poklicne programe in bolj uravnoteženo razporeditev dijakov. Z osredotočanjem na širši kontekst in spremljanje trendov ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+12.
+Scenario (Premise):
+"Policija je nedavno izsledila domnevnega avtorja spletne grožnje, ki je v začetku aprila povzročila preplah na slovenskih šolah. Grožnja je bila objavljena pod člankom o napadu na finski osnovni šoli, kjer je uporabnik z imenom 'Slava Rusiji' napovedal podoben napad v Sloveniji. Policija je hitro ukrepala, izvedla preiskave in zasegla več elektronskih naprav ter nekaj ostrih nabojev. Avtorju grozi do pet let zapora zaradi suma kaznivega dejanja grožnje. Moškega so v preteklosti že obravnavali zaradi poskusa preprečitve uradnega dejanja uradni osebi."
+
+Entailment Hypothesis:
+"Policija je uspešno izsledila in aretirala domnevnega avtorja spletne grožnje, ki je v aprilu povzročila preplah na slovenskih šolah. Komentar, objavljen pod člankom o finski šoli, je napovedoval podoben napad v Sloveniji. Po hitrem ukrepanju so zasegli elektronske naprave in ostre naboje ter ugotovili sum kaznivega dejanja grožnje, za kar storilcu grozi do pet let zapora. Moški je bil že prej znan policiji zaradi poskusa preprečitve uradnega dejanja uradni osebi."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o hitrem ukrepanju policije, zaseženih napravah, ugotovljenem sumu kaznivega dejanja in možni kazni, kar se neposredno ujema z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Policija ni uspela izslediti avtorja spletne grožnje, ki je v aprilu povzročila preplah na slovenskih šolah. Grožnja, objavljena pod člankom o napadu na finski šoli, ni bila obravnavana resno in nobeni ukrepi niso bili izvedeni. Elektronske naprave niso bile zasežene, avtor pa ni bil kaznovan. Tako ni bilo ugotovljenega suma kaznivega dejanja in nihče ne bo soočen z zaporno kaznijo."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje hitro ukrepanje policije, zaseg naprav, ugotovljen sum kaznivega dejanja in morebitno kazen. V nasprotju s tem, hipoteza trdi, da policija ni ukrepala, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Preiskava policije glede spletne grožnje, ki je povzročila preplah na slovenskih šolah, je v teku. Grožnja je bila objavljena pod člankom o napadu na finski osnovni šoli, in policija je takoj začela z ukrepi. Zasegli so več elektronskih naprav in ostrih nabojev ter ugotovili sum kaznivega dejanja. Avtorju grozi zaporna kazen, preiskava pa še vedno poteka, da se zagotovi popolno razjasnitev primera."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava preiskavo in ukrepe policije, vključno z zasegom naprav in ugotovljenim sumom kaznivega dejanja, ter poudarja, da preiskava še vedno poteka. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+13.
+Scenario (Premise):
+"Združeni narodi opozarjajo, da je dostava človekoljubne pomoči v Gazi pred kolapsom, zaradi izraelske kopenske ofenzive in ustavitve dobave pomoči in goriva v južnem mestu Rafa. Svetovni program za hrano (WFP) je moral ustaviti razdeljevanje hrane zaradi pomanjkanja zalog in varnostnih tveganj. Plavajoči pomol, ki ga je zgradila ZDA, naj bi pomagal, vendar humanitarne organizacije menijo, da le kopenska dostava lahko zagotovi zadostno pomoč. Pomanjkanje hrane in zdravil ogroža milijone ljudi, situacija pa se zaradi zaprtih mejnih prehodov še poslabšuje."
+
+Entailment Hypothesis:
+"Dostava človekoljubne pomoči v Gazi je pred kolapsom, kar poudarjajo Združeni narodi zaradi izraelske ofenzive in ustavitve dobave v Rafi. Svetovni program za hrano je moral zaradi pomanjkanja zalog ustaviti razdeljevanje hrane. Plavajoči pomol, zgrajen s pomočjo ZDA, ni zadosten, saj humanitarne organizacije opozarjajo, da le kopenska dostava lahko zagotovi potrebno pomoč. Pomanjkanje hrane in zdravil resno ogroža milijone prebivalcev, situacija pa se še poslabšuje zaradi zaprtih mejnih prehodov."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o nevarnosti kolapsa dostave pomoči, pomanjkanju zalog, plavajočem pomolu in nujnosti kopenske dostave. Vse to je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Dostava človekoljubne pomoči v Gazi ni pred kolapsom, saj izraelska ofenziva in ustavitev dobave v Rafi nista vplivali na pomoč. Svetovni program za hrano ni ustavil razdeljevanja hrane zaradi pomanjkanja zalog ali varnostnih tveganj. Plavajoči pomol, zgrajen s pomočjo ZDA, zagotavlja zadostno pomoč, humanitarne organizacije pa ne zahtevajo kopenske dostave. Pomanjkanje hrane in zdravil ne ogroža prebivalcev, saj so mejni prehodi odprti."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje resne težave pri dostavi pomoči, pomanjkanje zalog in zaprtje mejnih prehodov. Nasprotno pa hipoteza trdi, da ni težav, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Trenutna humanitarna situacija v Gazi je kritična, z Združenimi narodi in Svetovnim programom za hrano, ki opozarjajo na resne izzive pri dostavi pomoči. Izraelska ofenziva in zaprtje mejnih prehodov sta močno otežila razdeljevanje hrane in zdravil. Plavajoči pomol, ki ga je zgradila ZDA, pomaga, a humanitarne organizacije poudarjajo, da je kopenska dostava ključna. Pomanjkanje osnovnih dobrin resno ogroža prebivalce, zato so nujni učinkoviti ukrepi za izboljšanje dostave pomoči."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava težave pri dostavi pomoči, izraelsko ofenzivo in zaprtje mejnih prehodov, hkrati pa poudarja pomen plavajočega pomola in kopenske dostave. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+14.
+Scenario (Premise):
+"Generalna skupščina Svetovne zdravstvene organizacije (WHO) bo naslednji teden odločala o novem sporazumu glede preprečevanja pandemij, ki ga predlaga Evropska unija. Sporazum naj bi temeljil na solidarnosti med razvitimi državami in državami v razvoju ter vključuje več kot tristo dopolnil. Slovenska vlada podpira sporazum, vendar pod pogojem, da ne posega v suverenost držav članic in temeljne človekove pravice. Kljub temu nekateri akademiki opozarjajo na tveganja za nacionalno suverenost in predlagajo, da se dokument ne potrdi brez široke javne razprave."
+
+Entailment Hypothesis:
+"Generalna skupščina Svetovne zdravstvene organizacije (WHO) bo kmalu odločala o novem sporazumu glede preprečevanja pandemij, ki ga predlaga Evropska unija. Sporazum poudarja solidarnost med razvitimi državami in državami v razvoju ter vključuje več kot tristo dopolnil. Slovenska vlada podpira sprejetje sporazuma, vendar zahteva, da ne posega v suverenost držav članic in človekove pravice. Kljub vladni podpori pa nekateri akademiki opozarjajo na morebitna tveganja za nacionalno suverenost in pozivajo k širši javni razpravi pred potrditvijo dokumenta."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o sporazumu, njegovi podpori s strani slovenske vlade ter opozorilih akademikov glede nacionalne suverenosti. Vse to je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Generalna skupščina Svetovne zdravstvene organizacije (WHO) ne bo odločala o novem sporazumu glede pandemij, saj tak sporazum ne obstaja. Slovenska vlada ne podpira nobenih novih mednarodnih sporazumov, ki bi vplivali na pandemijsko pripravljenost. Sporazum, ki ga predlaga Evropska unija, ni bil obravnavan, in ni bilo nobenih opozoril s strani akademikov glede nacionalne suverenosti. Slovenija nima nobenih posebnih zahtev glede človekovih pravic ali suverenosti v kontekstu mednarodnih zdravstvenih pravilnikov."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje, da WHO razpravlja o novem sporazumu glede pandemij, ki ga predlaga Evropska unija, ter da slovenska vlada podpira ta sporazum pod določenimi pogoji. Nasprotno pa ta hipoteza zanika obstoj sporazuma in podpore, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Generalna skupščina Svetovne zdravstvene organizacije (WHO) bo obravnavala nov sporazum o preprečevanju pandemij, ki ga predlaga Evropska unija, vendar so pogajanja še vedno v teku. Sporazum vključuje več kot tristo dopolnil in temelji na večji solidarnosti med državami. Slovenska vlada načeloma podpira sporazum, vendar vztraja, da ne sme posegati v suverenost držav članic in človekove pravice. Nekateri akademiki opozarjajo na možna tveganja za nacionalno suverenost, kar poudarja potrebo po široki javni razpravi pred končno odločitvijo. Pogajanja bodo trajala do generalne skupščine WHO."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava obstoj sporazuma in podporo slovenske vlade, hkrati pa izpostavlja opozorila akademikov in potrebo po nadaljnjih pogajanjih ter javni razpravi. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+15.
+Scenario (Premise):
+"Evropski parlament je po dolgih letih priprav sprejel akt o umetni inteligenci, s katerim želi vplivati na globalno prakso. Akt uvaja štiri stopnje tveganja za uporabo umetne inteligence, pri čemer prepoveduje tiste aplikacije, ki predstavljajo nesprejemljivo tveganje za varnost in pravice ljudi. Poleg tega akt zahteva strogo regulacijo za sisteme visokega tveganja, kot so tisti v kritični infrastrukturi in pravosodju. Cilj akta je zagotoviti varno uporabo umetne inteligence, hkrati pa ohraniti inovacije. Nekateri strokovnjaki menijo, da bo akt omejil razvoj umetne inteligence v Evropi, medtem ko drugi verjamejo, da je to nujen korak za zaščito uporabnikov."
+
+Entailment Hypothesis:
+"Evropski parlament je sprejel akt o umetni inteligenci, ki uvaja štiri stopnje tveganja za njeno uporabo, kar vključuje strogo regulacijo za sisteme visokega tveganja. Akt prepoveduje aplikacije, ki predstavljajo nesprejemljivo tveganje za varnost in pravice ljudi. Cilj akta je zagotoviti varno uporabo umetne inteligence in hkrati ohraniti inovacije v industriji. Nekateri strokovnjaki opozarjajo, da bi akt lahko omejil razvoj umetne inteligence v Evropi, medtem ko drugi menijo, da je to nujno za zaščito uporabnikov. Akt bi lahko imel globalni vpliv, saj bi se drugi zakonodajalci lahko zgledovali po evropskem pristopu."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o sprejetju akta, uvedbi štirih stopenj tveganja, prepovedi nevarnih aplikacij, cilju akta in možnem globalnem vplivu. Vse to je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Evropski parlament ni sprejel nobenega akta o umetni inteligenci in ne načrtuje regulacije za njeno uporabo. Ne obstajajo štiri stopnje tveganja za aplikacije umetne inteligence, niti ni predvidena prepoved aplikacij, ki predstavljajo tveganje za varnost in pravice ljudi. Cilj evropske politike ni regulacija, temveč popolna svoboda razvoja umetne inteligence brez omejitev. Strokovnjaki niso izrazili nobenih pomislekov glede vpliva takšnega akta, saj akt ne obstaja in ni vplival na globalno prakso."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje, da je Evropski parlament sprejel akt o umetni inteligenci z jasnimi regulacijami in cilji. Nasprotno pa ta hipoteza zanika obstoj akta in regulacij, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Evropski parlament je sprejel akt o umetni inteligenci, ki vključuje štiri stopnje tveganja in predvideva regulacijo za visoko tvegane aplikacije. Akt prepoveduje aplikacije, ki predstavljajo nesprejemljivo tveganje za varnost in pravice ljudi, medtem ko spodbuja varno uporabo tehnologije. Strokovnjaki so razdeljeni glede vpliva akta; nekateri opozarjajo na možne omejitve razvoja, drugi pa menijo, da je regulacija nujna za zaščito uporabnikov. Akt bo verjetno vplival tudi na globalno prakso, saj bi lahko druge države sledile evropskemu zgledu."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava obstoj akta in regulacijo umetne inteligence, hkrati pa izpostavlja razdeljena mnenja strokovnjakov in možen globalni vpliv. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+16.
+Scenario (Premise):
+"Luka Dončić je blestel na prvi tekmi finala Zahodne konference, kjer je Dallas premagal Minnesoto s 105:108. Dončić je dosegel 33 točk, prispeval šest skokov in osem podaj ter igral odlično v napadu in obrambi. Poleg njega je Kyrie Irving dodal 30 točk, P. J. Washington pa 13 točk. Dončić je z odločilnimi potezami v zadnji četrtini nagnil tehtnico na stran Dallasa, s ključnimi koši in obrambnimi potezami, kar je prineslo pomembno zmago na gostovanju."
+
+Entailment Hypothesis:
+"Luka Dončić je na prvi tekmi finala Zahodne konference pokazal izjemno igro, kar je pripomoglo k zmagi Dallasa nad Minnesoto s 105:108. Dosegel je 33 točk, zbral šest skokov in osem podaj ter v ključnih trenutkih zadnje četrtine blestel v napadu in obrambi. Poleg Dončića je Kyrie Irving dosegel 30 točk, kar je dodatno okrepilo napad Dallasa. Dončićeve ključne poteze, vključno z odločilnimi koši in ukradenimi žogami, so bile ključne za zmago. S to predstavo je Dallas prevzel vodstvo v seriji."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Razširja ključne točke o Dončićevi izjemni igri, njegovem prispevku k zmagi in podpori soigralcev, kar je v skladu z opisanimi dogodki v scenariju.
+
+Contradiction Hypothesis:
+"Luka Dončić na prvi tekmi finala Zahodne konference ni igral pomembne vloge in ni prispeval k zmagi Dallasa nad Minnesoto. Dosegel je manj kot 10 točk in ni imel nobenih ključnih potez v zadnji četrtini. Kyrie Irving je bil edini igralec, ki je dosegel pomembno število točk za Dallas. Dončićeva igra ni vplivala na končni rezultat, saj je Dallas zmagal brez njegovega prispevka. Minnesota je imela večino tekme prednost in Dallas je zmagal zgolj po naključju."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje, kako je Dončić blestel s 33 točkami in ključnimi potezami, kar je prineslo zmago Dallasa. Nasprotno pa hipoteza zanika Dončićevo pomembno vlogo, kar neposredno nasprotuje scenariju.
+
+Neutral Hypothesis:
+"Luka Dončić je na prvi tekmi finala Zahodne konference dosegel pomembne točke za Dallas, ki je premagal Minnesoto s 105:108. Dončić je prispeval 33 točk, šest skokov in osem podaj ter pokazal dobro igro v ključnih trenutkih zadnje četrtine. Kyrie Irving je bil prav tako pomemben z 30 točkami. Tekma je bila napeta, z odločilnimi potezami v zadnjih minutah. Dončićeva igra je bila pomembna za zmago, vendar je bil uspeh ekipe rezultat skupnega truda vseh igralcev."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava Dončićevo pomembno vlogo in skupni trud ekipe, hkrati pa poudarja napetost tekme in pomembnost prispevka vseh igralcev. Ohranja nevtralno stališče brez neposrednega potrjevanja ali nasprotovanja scenariju.
+
+17.
+Scenario (Premise):
+"Strokovnjaki menijo, da bi lahko v Sloveniji že zdaj uvedli taktni vozni red za vlake, kjer bi ti vozili vsakih 30, 60 ali 120 minut. Taktni vozni red omogoča redne in predvidljive intervale vlakov, kar bi izboljšalo dostopnost in uporabo javnega prevoza. Uvedba takšnega sistema zahteva določene infrastrukturne izboljšave, kot so nadgradnja tirov in signalizacije, vendar bi se prednosti hitro pokazale v obliki boljše povezanosti med mesti in zmanjšanja prometnih zastojev na cestah. Strokovnjaki so prepričani, da bi tak sistem izboljšal potovalne navade in povečal uporabo javnega prevoza."
+
+Entailment Hypothesis:
+"Strokovnjaki trdijo, da bi lahko v Sloveniji uvedli taktni vozni red za vlake z intervali 30, 60 ali 120 minut. Ta sistem bi omogočal redne in predvidljive vozne čase, kar bi izboljšalo dostopnost javnega prevoza. Uvedba zahteva izboljšave infrastrukture, kot so nadgradnja tirov in signalizacije, a bi hitro prinesla koristi v obliki boljše povezanosti med mesti in manj prometnih zastojev na cestah. Prednosti vključujejo tudi izboljšanje potovalnih navad in večjo uporabo javnega prevoza."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Poudarja ključne točke o uvedbi taktnega voznega reda, vključno z rednimi intervali, izboljšavami infrastrukture in pričakovanimi koristmi, kar je neposredno skladno s scenarijem.
+
+Contradiction Hypothesis:
+"Strokovnjaki menijo, da uvedba taktnega voznega reda za vlake v Sloveniji ni izvedljiva. Vlaki ne morejo voziti v intervalih 30, 60 ali 120 minut zaradi omejitev v infrastrukturi, ki je trenutno v odličnem stanju in ne potrebuje nobenih izboljšav. Tak sistem ne bi prinesel nobenih koristi, saj bi prometni zastoji na cestah ostali nespremenjeni, potovalne navade pa se ne bi izboljšale. Uporaba javnega prevoza bi se celo zmanjšala."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje možne izboljšave in koristi uvedbe taktnega voznega reda, medtem ko ta hipoteza nepravilno navaja, da ni potrebe po izboljšavah in da uvedba ne bi prinesla nobenih koristi, kar neposredno nasprotuje opisu v scenariju.
+
+Neutral Hypothesis:
+"Taktni vozni red za vlake je le ena izmed številnih možnosti za izboljšanje javnega prevoza v Sloveniji. Drugi ukrepi vključujejo povečanje frekvence avtobusnih linij, uvedbo hitrih avtobusnih koridorjev in gradnjo novih postajališč za javni prevoz. Poleg izboljšav v železniškem prometu bi lahko uvedli tudi več parkirišč P+R (Park and Ride) ter spodbudili uporabo kolesarjenja in pešačenja. Različne strategije za izboljšanje javnega prevoza imajo svoje prednosti in izzive, ki jih je treba skrbno preučiti."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava pomen taktnega voznega reda, vendar omenja tudi druge možnosti za izboljšanje javnega prevoza, kot so avtobusne linije in P+R parkirišča, ki niso neposredno povezane s taktnih voznim redom vlakov. S tem ohranja nevtralno stališče, ne da bi se osredotočala izključno na to možnost, in tako ne potrjuje ali nasprotuje scenariju.
+
+18.
+Scenario (Premise):
+"Slovenska odbojkarska reprezentanca je z zmago nad olimpijskimi prvaki še korak bližje uvrstitvi na olimpijske igre v Parizu. Tekma je bila napeta in polna preobratov, a Slovenci so pokazali izjemno borbenost in vztrajnost. Ključni igralci so prispevali pomembne točke, obramba je bila neomajna, kar je na koncu privedlo do pomembne zmage. Zdaj je ekipa polna optimizma in samozavesti pred nadaljevanjem kvalifikacij. Navijači so navdušeni in podpirajo ekipo na vsakem koraku, kar dodatno dviguje moralo igralcev."
+
+Entailment Hypothesis:
+"Slovenska odbojkarska reprezentanca je z zmago nad olimpijskimi prvaki naredila velik korak k uvrstitvi na olimpijske igre v Parizu. Tekma je bila zelo izenačena, a Slovenci so z borbenostjo in vztrajnostjo prišli do zmage. Ključni igralci so odigrali odlično, obramba je bila trdna, kar je omogočilo pomembno zmago. Ekipa je zdaj samozavestna in polna optimizma pred nadaljnjimi kvalifikacijami, navijači pa jih podpirajo na vsakem koraku."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Poudarja ključne točke, kot so zmaga nad olimpijskimi prvaki, borbenost ekipe, trdna obramba in optimizem pred nadaljnjimi kvalifikacijami, kar je neposredno skladno s scenarijem.
+
+Contradiction Hypothesis:
+"Slovenska odbojkarska reprezentanca je po porazu proti olimpijskim prvakom izgubila možnosti za uvrstitev na olimpijske igre v Parizu. Tekma je bila enostranska, Slovenci pa niso pokazali borbenosti ali vztrajnosti. Ključni igralci so igrali slabo, obramba je bila neučinkovita, kar je privedlo do poraza. Ekipa je zdaj demoralizirana in brez optimizma pred nadaljnjimi kvalifikacijami, navijači pa so razočarani."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje zmago Slovencev, njihovo borbenost in optimizem, medtem ko ta hipoteza nepravilno navaja poraz, slabo igro in demoralizacijo, kar neposredno nasprotuje opisu v scenariju.
+
+Neutral Hypothesis:
+"Slovenska odbojkarska reprezentanca je v zadnjem času dosegla mešane rezultate v kvalifikacijah za olimpijske igre. Poleg tekme z olimpijskimi prvaki so igrali še proti drugim močnim nasprotnikom. Nekatere tekme so bile zelo izenačene, druge pa so Slovenci zmagali ali izgubili z večjo razliko. Ne glede na rezultate je ekipa osredotočena na cilj uvrstitve na olimpijske igre, navijači pa jih še naprej podpirajo. Kvalifikacijski proces bo zahteven, a ekipa je pripravljena na izzive."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava dosežke slovenske reprezentance, vendar omenja tudi mešane rezultate proti drugim nasprotnikom in splošno osredotočenost na kvalifikacije, kar ni neposredno povezano z zmago nad olimpijskimi prvaki. S tem ohranja nevtralno stališče, ne da bi se osredotočala izključno na en dogodek, in tako ne potrjuje ali nasprotuje scenariju.
+
+19.
+Scenario (Premise):
+"Državni zbor (DZ) je potrdil razpis posvetovalnega referenduma o gradnji drugega bloka jedrske elektrarne Krško (JEK-2). Datum izvedbe referenduma še ni določen. Posvetovalni referendum bo omogočil državljanom, da izrazijo svoje mnenje o pomembnem infrastrukturnem projektu, ki naj bi povečal energetsko neodvisnost Slovenije. Gradnja JEK-2 vključuje številne tehnične, ekonomske in okoljske izzive, zato je mnenje javnosti ključno za nadaljnje odločitve. Razprave o projektu so razdelile javnost in politike, saj eni poudarjajo potrebo po energetski varnosti, medtem ko drugi opozarjajo na okoljske in finančne tveganja."
+
+Entailment Hypothesis:
+"Državni zbor je potrdil razpis posvetovalnega referenduma o gradnji drugega bloka jedrske elektrarne Krško (JEK-2), kar bo državljanom omogočilo izraziti mnenje o tem infrastrukturnem projektu. Datum referenduma še ni določen. Gradnja JEK-2 naj bi povečala energetsko neodvisnost Slovenije, vendar vključuje tehnične, ekonomske in okoljske izzive. Razprave o projektu so razdelile javnost in politike glede energetske varnosti ter okoljskih in finančnih tveganj."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Poudarja ključne točke, kot so potrditev razpisa referenduma, namen referenduma, pričakovane koristi in izzivi projekta ter razdeljenost javnosti in politike, kar je neposredno skladno s scenarijem.
+
+Contradiction Hypothesis:
+"Državni zbor ni potrdil razpisa referenduma o gradnji drugega bloka jedrske elektrarne Krško (JEK-2). Datum referenduma je že določen in gradnja JEK-2 nima nobenih tehničnih, ekonomskih ali okoljskih izzivov. Javnost in politiki so enotni glede nujnosti projekta za energetsko varnost in ne vidijo nobenih tveganj."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje potrditev razpisa referenduma, nedoločen datum, tehnične, ekonomske in okoljske izzive ter razdeljenost javnosti in politike, medtem ko ta hipoteza nepravilno navaja nasprotno, kar neposredno nasprotuje opisu v scenariju.
+
+Neutral Hypothesis:
+"Referendumi so pogosto uporabljeni mehanizem za vključevanje javnosti v pomembne odločitve o infrastrukturnih projektih. Poleg referenduma o JEK-2 so bili v preteklosti izvedeni tudi referendumi o drugih energetskih projektih in okoljskih vprašanjih. Razprave o teh projektih pogosto vključujejo različne vidike, kot so energetska varnost, ekonomske koristi in okoljski vplivi. Referendumi omogočajo državljanom, da neposredno vplivajo na odločitve, ki imajo dolgoročne posledice za državo."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava pomen referendumov za vključevanje javnosti v odločitve o infrastrukturnih projektih, vendar omenja tudi pretekle referendume o drugih projektih in splošne vidike, ki niso neposredno povezani z JEK-2. S tem ohranja nevtralno stališče, ne da bi se osredotočala izključno na JEK-2, in tako ne potrjuje ali nasprotuje scenariju.
+
+20.
+Scenario (Premise):
+"Med največjo krajo sodobne umetnosti v španski zgodovini je bilo izmaknjenih pet dragocenih slik. Doslej so oblasti našle že štiri od teh slik, kar je pomemben uspeh v preiskavi. Ukradene slike so bile delo priznanih umetnikov in so bile zelo cenjene tako v umetniških krogih kot tudi med zbiratelji. Kraja je sprožila obsežno mednarodno iskalno akcijo, v kateri so sodelovali različni organi pregona. Uspeh pri iskanju slik je dvignil upanje, da bodo kmalu našli tudi peto sliko in privedli storilce pred sodišče."
+
+Entailment Hypothesis:
+"Med največjo krajo sodobne umetnosti v Španiji je bilo ukradenih pet dragocenih slik, od katerih so zdaj našli že štiri. Te slike so delo priznanih umetnikov in so zelo cenjene. Mednarodna iskalna akcija je vključila številne organe pregona, kar je pripeljalo do tega uspeha. Obstaja upanje, da bodo kmalu našli tudi peto sliko in privedli storilce pred sodišče."
+
+Explanation (Entailment):
+Ta hipoteza je nujno resnična glede na scenarij. Poudarja ključne točke, kot so število ukradenih in najdenih slik, vrednost slik ter mednarodno iskalno akcijo, kar je neposredno skladno s scenarijem.
+
+Contradiction Hypothesis:
+"Med krajo sodobne umetnosti v Španiji ni bilo ukradenih nobenih dragocenih slik. Organi pregona niso uspeli najti nobenih slik, saj preiskava ni bila mednarodna in ni vključevala nobenih drugih organov. Ukradeni predmeti so bili brez večje vrednosti in niso delo priznanih umetnikov. Storilcev niso uspeli izslediti, zato se primer še vedno vleče brez napredka."
+
+Explanation (Contradiction):
+Ta hipoteza je nujno napačna glede na scenarij. Scenarij opisuje krajo petih dragocenih slik, uspešno iskalno akcijo in najdbo štirih slik, medtem ko ta hipoteza nepravilno navaja, da ni bilo ukradenih dragocenih slik in da preiskava ni bila uspešna, kar neposredno nasprotuje opisu v scenariju.
+
+Neutral Hypothesis:
+"Kraje umetnin so pogoste po vsem svetu in številne države sodelujejo pri iskanju ukradenih del. Pogosto gre za dragocena dela priznanih umetnikov, ki so zelo iskana med zbiratelji. Mednarodne iskalne akcije vključujejo sodelovanje različnih organov pregona in specializiranih enot. V preteklosti so bili primeri, ko so ukradena dela najdena po več letih, včasih celo desetletjih, kar priča o kompleksnosti tovrstnih preiskav."
+
+Explanation (Neutral):
+Ta hipoteza ne potrjuje niti ne zanika specifičnih dejstev scenarija. Priznava pomen mednarodnega sodelovanja pri iskanju ukradenih umetnin in splošne izzive takih preiskav, vendar ne omenja konkretnih podrobnosti kraje v Španiji. S tem ohranja nevtralno stališče, ne da bi se osredotočala izključno na ta primer, in tako ne potrjuje ali nasprotuje scenariju.
