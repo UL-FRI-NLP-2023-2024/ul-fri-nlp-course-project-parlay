@@ -1,0 +1,8 @@
+Use inductive reasoning to craft a news report scenario about a certain topic, and then generate reports with different perspectives.
+YOUR CHAIN OF THOUGHT IS:
+Step 1: Choose a Topic:
+Step 2: Develop the Scenario (Premise). It should comprise of 5 to 6 sentences. Write down the main message of the news report.
+Step 3: Generate Entailing Hypothesis News Report: Apply inductive reasoning to predict a likely consequence of the scenario (around 5 sentences), so that the main message is being applied in this hypothesis.
+Step 4: Generate Contradicting Hypothesis News Report: Challenge the premise with contradictive reasoning going against the message of the premise, using inductive reasoning (around 5 sentences).
+Step 5: Generate Neutral Hypothesis News Report: Make a news report that could either be likely or unlikely according to the premise.
+Be careful about the neutral hypothesis. It should be something in the context but not really related to the main message. In a way seems like relevant to premise but not in the core idea.
