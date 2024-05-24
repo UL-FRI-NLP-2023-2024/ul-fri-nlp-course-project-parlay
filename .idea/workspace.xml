@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="abe1a3d4-16ba-4d38-937c-3ee4ec580536" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/~$QACM_D_NewsReports.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_C_EverydayLifeSituations.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/A_HistoricalEvents_Gemini" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/A_HistoricalEvents_Gemini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_Gemini" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_Gemini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
