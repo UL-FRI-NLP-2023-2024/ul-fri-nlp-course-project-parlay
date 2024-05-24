@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abe1a3d4-16ba-4d38-937c-3ee4ec580536" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/Outcome Quality Assessment Composed Metrics.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/QACM_A_HistoricalEvents.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/QACM_B_ScientificExplanations.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/QACM_C_EverydayLifeSituations.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/QACM_E_FictionalStories.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/E_FictionalStories_ChatGpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[nova]data_collection/[nova]data_collection_updated.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[nova]data_collection/data_updating.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/Outcome Quality Assessment Composed Metrics_ChatGpt.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/Outcome Quality Assessment Composed Metrics_Gemini.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/~$Scenario Quality Assessment Composed Metrics_1 .xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/A_HistoricalEvents_ChatGpt" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/A_HistoricalEvents_ChatGpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_ChatGpt" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_ChatGpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/~$QACM_D_NewsReports.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_Gemini" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/B_ScientificExplanations_Gemini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/C_EverydayLifeSituations_ChatGpt" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/C_EverydayLifeSituations_ChatGpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/D_NewsReports_ChatGpt" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/D_NewsReports_ChatGpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/D_NewsReports_Gemini" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/D_NewsReports_Gemini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/Sample_set_for_evaluation/E-FictionalStories_ChatGpt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
