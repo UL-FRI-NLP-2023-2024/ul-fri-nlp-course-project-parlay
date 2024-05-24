@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abe1a3d4-16ba-4d38-937c-3ee4ec580536" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_A_HistoricalEvents.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics/QACM_A_HistoricalEvents.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_B_ScientificExplanations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics/QACM_B_ScientificExplanations.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics/QACM_C_EverydayLifeSituations.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics/QACM_D_NewsReports.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics/QACM_E_FictionalStories.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini]Outcome Quality Assessment Composed Metrics/QACM_E_FictionalStories.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_A_HistoricalEvents.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_D_NewsReports.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_E_FictionalStories.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/~$QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_A_HistoricalEvents.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_D_NewsReports.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_E_FictionalStories.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[template]outcome_QACM.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/data_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/json_initiation_withscore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/json_updating.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +39,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2fEXw3aqMJYpMNTUx58FzRIIZ4l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/meta/Documents/ul-fri-nlp-course-project-parlay/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -139,11 +152,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_initiation_withscore.coverage" NAME="json_initiation_withscore Coverage Results" MODIFIED="1716564477546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_updating.coverage" NAME="json_updating Coverage Results" MODIFIED="1714848683397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$chat_gemini_score_comparison.coverage" NAME="chat_gemini_score_comparison Coverage Results" MODIFIED="1716580941043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment_quality_llm_outcome/StatisticalAnalysis" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_initiation_1.coverage" NAME="json_initiation_1 Coverage Results" MODIFIED="1716553064488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
   </component>
 </project>
