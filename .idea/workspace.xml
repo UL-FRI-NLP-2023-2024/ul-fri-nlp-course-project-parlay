@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abe1a3d4-16ba-4d38-937c-3ee4ec580536" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[ChatGPT]Outcome Quality Assessment Composed Metrics/~$QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/dataset/collecting_and_storing_data/collecting_data/json_updating_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/dataset/collecting_and_storing_data/collecting_data/json_updating_v2.py" afterDir="false" />
+>>>>>>> f440974b135ab6f8c33f666d5b94f820b65c5669
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fEXw3aqMJYpMNTUx58FzRIIZ4l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +45,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< HEAD
+=======
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+>>>>>>> f440974b135ab6f8c33f666d5b94f820b65c5669
     &quot;last_opened_file_path&quot;: &quot;/Users/meta/Documents/ul-fri-nlp-course-project-parlay/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -137,11 +150,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_initiation_withscore.coverage" NAME="json_initiation_withscore Coverage Results" MODIFIED="1716564477546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_updating.coverage" NAME="json_updating Coverage Results" MODIFIED="1714848683397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$chat_gemini_score_comparison.coverage" NAME="chat_gemini_score_comparison Coverage Results" MODIFIED="1716580941043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment_quality_llm_outcome/StatisticalAnalysis" />
-    <SUITE FILE_PATH="coverage/ul_fri_nlp_course_project_parlay$json_initiation_1.coverage" NAME="json_initiation_1 Coverage Results" MODIFIED="1716553064488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_collection/Files_for_collecting_and_storing_data" />
   </component>
 </project>

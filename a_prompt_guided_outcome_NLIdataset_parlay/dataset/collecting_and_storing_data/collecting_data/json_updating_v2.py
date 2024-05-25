@@ -1,18 +1,17 @@
 import json
 
-
 # Function to parse the text file into a structured dictionary
 def parse_text_file(lines):
     data = []
     scenario = {}
     key_map = {
-        "Scenario (Premise):": "Scenario",                                                      # tagi - spremeni, ce so pri tebi drugacni
+        "Scenario (Premise):": "Scenario",
         "Entailment Hypothesis:": "Entailment Hypothesis",
         "Explanation (Entailment):": "Explanation (Entailment)",
         "Contradiction Hypothesis:": "Contradiction Hypothesis",
         "Explanation (Contradiction):": "Explanation (Contradiction)",
         "Neutral Hypothesis:": "Neutral Hypothesis",
-        "Explanation (Neutral)": "Explanation (Neutral)"
+        "Explanation (Neutral)": "Explanation (Neutral)"  # Corrected key mapping
     }
     current_key = None
     for line in lines:
@@ -36,11 +35,9 @@ def parse_text_file(lines):
 
     return data
 
-
 # Function to clean and remove quotes
 def clean_text(text):
-    return text.strip().strip('"')
-
+    return text.strip().strip('"').strip()  # Double strip to ensure no leading/trailing whitespaces
 
 # Function to transfer the data from file1 to file2 based on the provided structure
 def transfer_data(data1, data2, section_key):
@@ -62,18 +59,17 @@ def transfer_data(data1, data2, section_key):
             data2[section_key][scenario_key]["Neutral"]["Scenario"] = common_scenario
             data2[section_key][scenario_key]["Neutral"]["Inference pair"] = clean_text(
                 scenario_data.get("Neutral Hypothesis", ""))
-            data2[section_key][scenario_key]["Neutral"]["Explanation"] = clean_text(
-                scenario_data.get("Explanation (Neutral)", ""))
+            explanation_neutral = clean_text(scenario_data.get("Explanation (Neutral)", ""))
+            print(f"Explanation (Neutral) for Scenario {scenario_number}: {explanation_neutral}")  # Debugging line
+            data2[section_key][scenario_key]["Neutral"]["Explanation"] = explanation_neutral
     return data2
 
-
 # Load the main JSON file
-with open('[nova]data_collection_updated2.json', 'r', encoding='utf-8') as file2:           # ciljna datoteka -spremeni pot oz. ime datoteke
+with open('[nova]data_collection_updated3.json', 'r', encoding='utf-8') as file2:
     data2 = json.load(file2)
 
-
 # Define file-to-section mapping
-file_section_mapping = {                                                                    # izvorne datoteka - spremeni pot oz. ime datotek
+file_section_mapping = {
     'A_HistoricalEvents_ChatGpt': "Historical Events",
     'B_ScientificExplanations_ChatGpt': "Scientific Explanations",
     'C_EverydayLifeSituations_ChatGpt': "Everyday Life Situations",
@@ -89,7 +85,7 @@ for input_file, section_key in file_section_mapping.items():
         data2 = transfer_data(data1, data2, section_key)
 
 # Save the updated JSON file
-with open('[nova]data_collection_updated2.json', 'w', encoding='utf-8') as file2:           # ciljna datoteka - spremeni pot oz. ime datoteke
+with open('[nova]data_collection_updated3.json', 'w', encoding='utf-8') as file2:
     json.dump(data2, file2, ensure_ascii=False, indent=4)
 
 # Display a success message

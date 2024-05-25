@@ -1,0 +1,181 @@
+1
+45.17
+
+Scenario Premise:
+It's Saturday morning. You're helping your parents clean the kitchen. You're drying dishes while your mom washes them. As you reach for a glass, your hand slips, and the glass crashes onto the floor, shattering into pieces.  You hear a gasp from your mom. You feel a pang of guilt and worry about how to address the situation.
+
+Entailment Hypothesis:
+Knowing the importance of safety, your first instinct is to clear the broken glass immediately. You put down the dish towel and carefully approach the mess.  You can see some large shards scattered around the base of the cabinet. You grab a dustpan and broom and begin to sweep the bigger pieces into the pan.  You then get a damp paper towel to pick up any smaller fragments, making sure to dispose of everything safely in the trash can. Once the area is clear, you inform your mom about the accident and apologize for the broken glass.
+Explanation: The broken glass poses a safety hazard. A common person in this situation would prioritize cleaning it up safely to avoid injuries.  The hypothesis describes exactly these actions, making it an entailment of the premise.
+
+Contradiction Hypothesis:
+Feeling embarrassed about breaking the glass, you decide to avoid mentioning it to your mom. You hope she won't notice the mess. You continue drying dishes, pretending nothing happened. Later, your dad walks into the kitchen barefoot and steps on a small shard of glass, yelping in pain. He looks around and sees the shattered remains of the glass.  He gets upset that you didn't tell him about the broken glass, which could have caused a serious injury.
+Explanation: Common sense dictates that broken glass is a safety hazard. By hiding the mess from your parents, the hypothesis contradicts the natural response of addressing the situation to prevent accidents.
+
+Neutral Hypothesis:
+A loud crash from outside momentarily distracts you. You glance out the window to see the recycling bin toppled over, most likely by a neighborhood cat. You recognize the culprit – Mittens, the ginger tabby from next door. Often, you find yourself sneaking Mittens a saucer of milk when it wanders into your kitchen for a friendly head scratch.  But today, Mittens looks more mischievous than usual, its fur ruffled and eyes gleaming with a hint of trouble.
+Explanation: This hypothesis creates a separate narrative thread involving the neighbor's cat. While it might be a temporary distraction from the broken glass, it doesn't influence the original situation or provide any clues about how you'll address it.
+
+2
+44.66
+
+Scenario Premise:
+It's a hot summer evening, and you're craving a refreshing iced tea. You head to the kitchen to make some, but upon opening the fridge, you realize the pitcher is empty. You remember there are lemons in the fruit bowl on the counter, but you're unsure if there's any iced tea mix left in the pantry. The pantry is located right next to the refrigerator, behind a swinging door. The heat is oppressive, clinging to your skin like a damp towel. You can practically feel sweat beading on your forehead as you contemplate your next move.
+
+Entailment Hypothesis:
+Since you already have lemons for the iced tea, you decide to quickly check the pantry to see if there's any iced tea mix left. Luckily, you find a half-used container in the back. Relief washes over you like a cool breeze. The heat outside is relentless, shimmering off the pavement and turning the air thick and heavy. Sweat trickles down your back just from moving around the kitchen. The thought of the refreshing iced tea you're about to make is a beacon of hope. You grab a pot and some sugar, eager to transform these simple ingredients into a cool, thirst-quenching drink that will banish the summer heat with every delicious sip.
+Explanation: This entails the logical consequence of the information provided in the premise. If you have lemons and find iced tea mix,  you can proceed with making your desired drink.
+
+Contradiction Hypothesis:
+Frustrated by the empty iced tea pitcher, you decide waking up your spouse is the most efficient solution. Despite having lemons readily available on the counter and the pantry just a few steps away, you convince yourself it's quicker to interrupt his sleep schedule and ask him to drive to the late-night grocery store for iced tea mix. The thought of squeezing lemons, finding the sugar, and brewing the tea yourself seems far too much effort compared to the convenience of getting the mixture prepared. However, a glance at the clock reveals it's already past 12 pm. You see your spouse fast asleep on the couch, his tired breaths a soft counterpoint to the hum of the refrigerator. Waking him for a late-night errand seems inconsiderate, but the thought of a cool, refreshing drink is so tempting.
+Explanation: This scenario contradicts common-sense reasoning because while waking up your spouse to pick up iced tea mix might seem convenient in the moment, but unnecessary when the pantry is readily accessible, and the ingredients for basic iced tea (lemons, sugar, and water) are already available. This means you could easily make the tea yourself without much effort.
+
+Neutral Hypothesis:
+While in kitchen, you notice the bag of chips is almost empty and make a mental note to add them to your grocery list. You also spot a box of cookies you forgot about tucked away in the back. The aroma of chocolate chip cookies wafts up, a delicious reminder of their soft, chewy texture and pockets of melted goodness. Unable to resist the temptation, you grab one, and then another one. You sit down and relax.
+Explanation: This neutral sentence introduces new information unrelated to the initial situation of making iced tea. Whether you check for the chips or grab a cookie doesn't depend on having iced tea mix or lemons.  It simply shows additional actions you might take while in the kitchen.
+
+3
+48.00
+
+Scenario Premise:
+It's a Wednesday evening, and you're relaxing on the couch after a long day at school. You just booted up your favorite video game, excited to team up with your online friends for some epic battles. Suddenly, your mom walks in and reminds you about the unfinished homework assignments due tomorrow. She warns that if they't done by 8 pm tonight, your console privilege will be revoked, just like the time you neglected your science project last month.
+
+Entailment Hypothesis:
+Taking a deep breath, you explain to your mom about your desire to play games with friends but also acknowledge the importance of completing the homework. You suggest showing her the assignments and discuss a plan to finish them efficiently. This demonstrates your commitment and initiative. You propose dedicating a focused hour to complete the most urgent tasks, then enjoying a limited time playing with your friends before bedtime.
+Explanation: This entails the logical continuation of the situation based on the information provided. Openly communicating with your mom and proposing a plan shows maturity and responsibility. This approach respects your desire for play while prioritizing your academic obligations.
+
+Contradiction Hypothesis:
+Scoffing at your mom's warning, you roll your eyes and tell her it's not a big deal. You reason that homework is pointless anyway, and you always manage to scrape by with decent grades. You tell her you'd rather spend the time playing with your friends online, claiming you can do the assignments in ten minutes before bed anyway. You even add that if she takes your console again, it's not the end of the world – you'll just find another way to entertain yourself.
+Explanation: This contradicts the common-sense reasoning a person might apply. Disregarding homework and prioritizing gaming despite the clear consequences demonstrates a lack of responsibility and respect for your mom's expectations. Additionally, underestimating the workload and claiming you can finish it in a short time is unrealistic and likely leads to incomplete or poorly done work.
+
+
+Neutral Hypothesis:
+Just as you settle into the couch with your controller, your phone buzzes with a notification. It's from your favorite game, announcing a limited-time double XP event starting in an hour. This is a rare opportunity to significantly boost your progress in the game, something you've been working towards for weeks. You grin, the thrill of the upcoming challenge coursing through you. This game truly offers a unique escape, the intricate storylines and strategic gameplay keeping you hooked for hours. You can't wait to dive back in and test your skills against challenging opponents.
+Explanation: This scenario is neutral to the premise because it focuses on your excitement about the game's double XP event  without influencing the decision-making process regarding your homework. Whether you prioritize finishing your homework or playing during the double XP event doesn't affect the notification itself or your excitement about the game.
+
+4
+47.00
+
+Scenario Premise:
+It's a sweltering summer afternoon. You're scrambling to finish errands before your kids' birthday party starts in a couple of hours. The guest list is bursting with excited little ones, and you promised a grand ice cream sundae bar as the main attraction. You arrive at the grocery store, heart set on a variety of ice cream flavors, sprinkles, syrups, and whipped cream.  Reaching the frozen aisle, your stomach sinks. A large sign announces: "Power Outage - Frozen Food Aisles Inoperable". Panic starts to rise. How can you possibly have a successful party without the promised ice cream extravaganza?
+
+Entailment Hypothesis:
+Knowing you desperately need ice cream for your sundae, you decide to improvise. You head to the baking aisle and grab a container of whipping cream and a box of your favorite chocolate chip cookies. You figure you can whip up a homemade ice cream substitute with these ingredients and some milk you already have at home. While not exactly the same, it'll still satisfy your need for ingredients to prepare ice cream sundae for kids' party.
+Explanation: The premise describes a situation where the desired frozen food (ice cream) is unavailable. The common-sense reaction (find a substitute) aligns with the hypothesis where the person actively seeks alternative ingredients to fulfill the need.
+
+
+Contradiction Hypothesis:
+Disappointment washes over you, but a determined glint enters your eye. "Ice cream or nothing!" you declare, ignoring the confused looks of other shoppers.  Party plans are instantly forgotten. This calls for a more creative solution.  You head straight for the electronics section, grabbing the latest high-end virtual reality headset.  In your mind, you envision a thrilling virtual reality adventure you can share with your friend, completely forgetting about the bewildered kids and the promised ice cream plan. Lost in the possibilities of this new gadget, you completely disregard the purpose of the party and prioritize your own entertainment.
+Explanation: This hypothesis emphasizes the lack of a common-sense solution by focusing on a personal indulgence (VR headset) that has nothing to do with the party or the children.  It highlights the disconnect from the initial plan.
+
+Neutral Hypothesis:
+Needing various supplies besides the planned snacks, you head down the aisle for party essentials. You grab balloons in bright, celebratory colors, streamers that unfurl like playful ribbons, and party favors filled with exciting trinkets, determined to create a festive atmosphere. You also pick up disposable plates with fun designs, colorful cups, and plenty of napkins for easy cleanup. With these supplies secured, you move on to the next section on your shopping list, a mischievous glint in your eye. You remember the park down the street with its sprawling green space and towering oak trees perfect for a game of hide-and-seek, and you decide that's where you'll take the kids for an unforgettable afternoon.
+Explanation: The premise describes the preparations for a party with no mention of a specific dessert. This hypothesis describes obtaining generic party supplies (balloons, streamers, etc.) and practical items (plates, napkins) that don't directly address the potential lack of dessert. There's no attempt to plan for refreshments or snacks, but it doesn't contradict the possibility of having them either.
+
+5
+46.66
+
+Scenario:
+
+Nekega sončnega jutra se skupina prijateljev odpravi na pohod v hribe. Simona predlaga, da s seboj vzamejo tudi šotore, da, v primeru, da bodo ugodni vremenski pogoji, prespijo in naslednji dan raziščejo še drugo smer. Rok in Simona si med potjo kljub hitremu tempu glasno prepevata in si pripovedujeta vice. Ela in Matej se med hojo razgovorita o problemih v službi. Ko se Matej malo ustavi, da bi iz nahrbtnika vzel plastenko vode, na nebu opazi temne oblake. Druščina prijateljev se zave, da se je  veter okrepil in tudi temperatura se je znižala. Rok pogleda na uro in vidi, da se bliža večer. Simona druščino opozori, da do mraka ne bodo prišli v dolino, če ne bodo pospešili koraka. Ostali se s tem strinjajo.
+
+Entailment:
+Skupina prijateljev se je v jutranjih urah, ko je sonce že prijetno grelo, odpravila na pohod v hribe. Simona je predlagala, da s seboj vzamejo tudi šotore, saj so bile vremenske razmere ugodne in bi lahko v gorah prespali. Med potjo so prepevali in uživali, na vrsto pa so prišle tudi debate o službenih problemih. Vendar pa se je vreme kmalu začelo spreminjati. Matej je opazil temne oblake, ki so se bližali, veter se je okrepil in temperatura se je občutno znižala. Rok je pogledal na uro in videl, da se bliža večer. Simona je opozorila ostale, da bo treba pohiteti nazaj v dolino, preden jih ujame mrak. Občutek nelagodja se je stopnjeval. Zavedajoč se nevarnosti, ki jih prinaša bližajoča se nevihta, so se prijatelji po kratkem posvetu soglasno odločili za sestop v dolino. Čeprav so bili razočarani, saj so si želeli doseči vrh, je varnost prevladala nad željo po razgledu.",
+Explanation: Če nas v hribih zajame nevihta in se bliža mrak, je najbolj razumna odločitev v tej situaciji hiter sestop v dolino.
+
+Sonce se je lenobno prebijalo skozi krošnje dreves, ko se je skupina prijateljev odpravila na pohod v hribe. Simona je predlagala, da s seboj vzamejo tudi šotore.'Kdo ve,' je rekla, 'morda bomo prespali, če bo vreme ugodno, in naslednji dan raziskali še drugo smer.' Ela in Matej sta sodelavca v službi in sta se med hojo spustila v živahno debato o službenih problemih. Nenadoma se je Matej ustavil, da bi se odžejal. Ko je dvignil glavo, je vzkliknil in pokazal proti nebu. Tam so se zgrinjali temni oblaki, veter se je okrepil in temperatura se je občutno znižala. Rok je pogledal na uro. 'Bliža se večer,' je rekel.  Ela je pripomnila, da so že preblizu vrha in da bi bilo škoda obrniti. Tudi ostali so se strinjali, da so raje malo mokri, kot da bi se odpovedali razgledu z vrha in da jih tudi mrak ne more odvrniti, saj imajo žepne svetilke.
+Explanation: Brezbrižno ravnanje v pogojih ogrožujoče situacije je v nasprotju z zdravorazumskim delovanjem, ki bi izhajal iz premise.
+
+Neutral:
+Pot ni ponujala nobenih namigov o višini gore, tako da niso vedeli, koliko višinskih metrov so že premagali do sedaj. Kljub pomanjkanju jasnih označb so pot krasile pisane cvetoče rastline, ki so ustvarjale barvito kuliso. Te cvetlične spremljevalke v različnih odtenkih vijolične, rumene in modre so dodale kanček lepote sicer razgibani pokrajini. Med hojo so vdihovali sladki vonj cvetja, ki je mešal z svežim gorskim zrakom in ustvarjal čudovito dišavo. Vendar so se prijatelji kljub temu bili sposobni osredotočiti na pot pred seboj, da ne bi prišlo do kakih nesreč.
+Explanation: Odstavek opisuje dogodek, ki lahko da se je zgodil ali da se ni zgodil glede na scenarij.
+
+6
+43
+
+Scenario:
+Luka, študent računalništva, se je v knjižnici ubadal s snovjo za izpit iz linearne algebre. Ni mu šlo najbolje in ni razumel koncepta lastnih vektorjev. Ravno, ko je Luka v zvezku premetaval formule in vidno obupaval, je mimo prišel starejši moški v obleki in s knjigo o matematični izračunljivosti v rokah. Moški prijetnega izraza je videl, da ima Luka težave, in mu je prijazno ponudil pomoč. Predstavil se mu je kot upokojeni profesor matematike. Luka je pomoč z veseljem sprejel. Moški mu je nato na razumljiv način, tudi s pomočjo vizualizacije, razložil koncept, ki ga Luka ni razumel. Luka je bil končno sposoben razumeti snov in je začutil veliko hvaležnost do moškega. Moški je bil vesel, da je lahko pomagal, in sta se poslovila.
+
+Entailment:
+Študent računalništva Luka se je v knjižnici učil za izpit iz linearne algebre. Koncept lastnih vektorjev mu je povzročal nemalo preglavic. Kljub trudu ni uspel razumeti ključnih konceptov, obup pa se je vse bolj kazal tudi na njegovem obrazu. V tistem trenutku se mu je približal starejši moški v obleki, s knjigo o matematični izračunljivosti. Njegov prijazen nasmeh je zbujal zaupanje. Moški se je Luki predstavil kot upokojeni profesor matematike in mu ponudil pomoč. Luka je bil vesel, da mu nekdo lahko pomaga, profesor pa mu je nato s pomočjo vizualizacije in na razumljiv način razložil koncept lastnih vektorjev. Luka zdaj je končno razumel snov za izpit. Zahvalil se je profesorju za njegov čas, trud in nesebično pomoč. Profesor je bil vesel, da je lahko pomagal mlademu študentu, in nadaljeval svojo pot.
+Explanation: Kadar je oseba v stiski, druga neznana oseba pa opazi njeno stisko in ji ponudi pomoč, je glede na naravni človeški instinkt in družbene norme zelo verjetno, da se bo prva oseba zahvalila drugi osebi za pomoč.
+
+Contradiction:
+Luka, študent računalništva, se je v knjižnici ubadal z linearno algebro. Koncept lastnih vektorjev mu je povzročal nemalo preglavic, bližal pa se je izpit. V trenutku obupovanja nad formulami ga je opazil starejši moški, oblečen v obleko in s knjigo o matematični izračunljivosti v rokah. Moški je povedal, da je upokojeni profesor matematike in mu prijazno ponudil pomoč. Luka je bil vesel pomoči in profesor mu je na razumljiv in predstavljiv način razložil koncept lastnih vektorjev. Ko je Luka končno razumel snov, se je odločil, da ima za ta dan dovolj knjižnice in da gre čimprej domov, na kolo. Čeprav se je zavedal, da brez pomoči moškega še vedno ne bi razumel snovi, se Luki ni zdelo primerno, da bi se moškemu zahvalil. Menil je, da je profesorjeva pomoč samoumevna, saj se je šolal za profesorja. Profesor je bil presenečen nad Lukovo reakcijo, saj je pričakoval vsaj izraz hvaležnosti.",
+Explanation: Ni običajno in ni v skladu s pravili razumskega sklepanja, da če prejmemo pomoč od neznanca, ki nam drastično pomaga pri naši težavi, da bi tako pomoč jemali za samoumevno in se neznancu ne bi niti zahvalili.
+
+Neutral:
+Končno je Luka razumel snov za izpit iz linearne algebre. Po dolgotrajnem ukvarjanju s konceptom lastnih vektorjev mu je snov postala jasna. Zdaj je lahko jasno videl matematično logiko. Prej ločene informacije so se združile v koherentno celoto. Ko je Luka ponotranjil koncept, se je njegova pozornost preusmerila na naslednji del poglavja v učbeniku. Odločil se je, da bo ta vikend pridno vadil to poglavje, že v ponedeljek pa spet pride v knjižnico. Tu se lažje fokusira in morda sreča še kakšnega zanimivega sogovornika za izmenjavo mnenj o snovi. Res občuduje take ljudi, kot je ta upokojeni profesor od danes.
+Explanation: Če je Luka razumel snov, ni odvisno od scenarija v premisi, ali mu neznanec pomaga ali ne.
+
+7
+42
+
+Scenario:
+Družina Posedel se že nekaj mesecev veseli dopusta na Malti. Končno je napočil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kovčke in se prepričali, da so vzeli vse potrebno. Pred odhodom se usedejo še pred televizor, da bi gledali poročila. Med poročili slišijo zaskrbljujočo novico: policija opozarja na povečano število vlomov v stanovanja med poletnimi meseci. Vlomilci izkoriščajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja. Posedelovi so takoj želeli poskrbeti za večjo varnost njihovega doma med odsotnostjo.
+
+Entailment:
+Ker so slišali zaskrbljujočo novico o vlomih, se je družina Posedel odločila za takojšnje ukrepanje, da bi zaščitila svoj dom pred morebitnimi vlomilci pred odhodom na dopust. Okrepili so ključavnice na vratih in oknih ter poskrbeli, da so vsa okna zaprta in zaklenjena. Poleg tega so prosili soseda, da med njihovo odsotnostjo redno prazni poštni nabiralnik in dvigne časopise, s čimer so ustvarili videz, da je hiša naseljena. Dragocenosti so poskrili na varno mesto in shranili kopije pomembnih dokumentov v oblaku. Čeprav so bili zaskrbljeni zaradi vlomov, so se z izvedbo teh hitrih ukrepov lažje odpravili na dopust, saj so vedeli, da so storili vse potrebno za zaščito svojega doma.
+Explanation: Zaradi grožnje vloma in želje po zaščiti doma se je družina pred odhodom na dopust odločila za izvedbo zaščitnih ukrepov.
+
+Contradiction:
+Družina Posedel se je kljub zaskrbljujoči novici o vlomih odločila, da bo dopust potekal kot načrtovano. Želja po brezskrbnem oddihu je pretehtala nad strahom pred vlomom. Namesto da bi sprejeli dodatne varnostne ukrepe, so se odločili za nenavadno potezo: pustili so eno od oken odprto za prezračevanje. Njihova logika je bila, da bi se raje vrnili v svež in prijetno dišeč dom kot v dušno hišo, kljub tveganju vloma. Poleg odprtega okna so se Posedelovi odločili, da ne bodo prosili soseda za nadzor hiše, saj so se bali, da bi jim s tem povzročili dodatno delo.
+Explanation: Odločitev za ukrepanje (premisa) je v nasprotju z odločitvijo za neukrepanje (hipoteza).
+
+Neutral:
+Družina Posedel se odpravlja na dopust na Malto. Zamišljajo si, kaj vse bi radi počeli na dopustu na Malti. Hči se bo lahko naučila plavati, sin pa se bo igral z delfini. Veselijo se kulinaričnih dobrot, saj je Malta znana po slastnih jedeh. Kdo ve, morda bo Ajša dobila še kake dobre namige za svojo kuharsko knjigo.
+Explanation: Iz scenarija ni mogoče sklepati na hipotezo in iz scenarija ni mogoče ne sklepati na hipotezo. Hipoteza niti ne podpira niti ne nasprotuje premisi.
+
+8
+38.66
+
+Scenario:
+Ines je nadebudna grafična oblikovalka, polna inovativnih idej in z izjemnim talentom. Pred zaposlitvijo v manjšem podjetju je že prejela dve prestižni nagradi: za oblikovanje celovite grafične podobe mednarodnega podjetja in za inovativno zasnovo spletne strani javnih storitev v Italiji. Bila je polna optimizma in entuziazma, da bo svoje znanje in izkušnje unovčila v novem delovnem okolju. Vendar pa se je njeno navdušenje kmalu skalilo. Soočala se je z nenehnimi kritikami, nemogočimi nalogami in omalovaževanjem s strani sodelavcev. Ni mogla razumeti, kaj dela narobe.
+
+Entailment:
+Odkar so jo sodelavci začeli šikanirati, se je Ines na delovnem mestu počutila vse slabše. Njeno nekdanje navdušenje nad delom se je hitro sprevrglo v dvom in negotovost. Nenehne kritike so jo zbujale ponoči, nemogoče naloge so jo frustrirale, omalovaževanje sodelavcev pa je močno vplivalo na njeno samozavest. Vse bolj se je zapirala vase in se izogibala sodelavcem. Delo, ki jo je prej navdihovalo, je postalo breme. Vsak dan je bil boj, komaj je zdržala do konca delovnika. Občutek tesnobe in stresa jo je spremljal že od jutra, ko se je zbudila.
+Explanation: Pričakovano je, da se nekdo po vtrajnem šikaniranju na delovnem mestu začne počutiti zelo slabo, kar vpliva tudi na njegovo zdravje.
+
+Contradiction:
+Ines je začela opažati, da se je po začetnem šikaniranju s strani sodelavcev v podjetju začela počutiti odlično. Nenehne kritike so jo motivirale, nemogoče naloge so postale izzivi, ki so prebudili njeno ustvarjalnost, omalovaževanje pa jo je spodbudilo, da se je še bolj povezala s sodelavci. Več kot so jo kritizirali, bolj inovativne so bile njene ideje. V tem spodbudnem okolju je Ines cvetela. Njeno delo je postalo izjemno, polno inovativnih rešitev in drznih idej, šikaniranje med sodelavci pa je prebudilo nov duh sodelovanja v podjetju.
+Explanation: V nasprotju z običjanim tokom stvari v življenju je, da bi se nekdo v stresu in negotovosti počutil čedalje boljše in da bi lahko šikaniranje celo prispevalo k dobrim delovnim odnosom sodelovanja v podjetju.
+    I
+Neutral:
+Sodelavka Tatjana je talentirana umetnica na grafičnem področju. Že med študijem se je uveljavila z izjemnim delom. Njena dinamična zasnova spletne strani za lokalno davčno izpostavo je prejela nagrado za najboljšo študentsko spletno stran v Sloveniji. To ji je dalo potrditev, da je na pravi poti. Po diplomi se je prijavila na natečaj za oblikovanje celovite grafične podobe nemškega podjetja za izdelavo organske embalaže. Svojo močno razvito ekološko zavest je znala lepo preplesti z izborom oblik in barv in s tem prepričala strogo žirijo, da je njena rešitev najboljša.
+Explanation: Da je Ines talentirana in da je podvržena šikaniranju nič ne vpliva na to, da je tudi sodelavka Tatjana nadarjena grafična umetnica.
+
+9
+37.83
+
+Scenario:
+It's Friday evening, and you're finally wrapping up a long week at the office. Your stomach growls, reminding you that you skipped lunch in the flurry of deadlines. As you gather your things, a sharp pang of hunger hits you. Glancing out the window, you see a small grocery store conveniently located right across the street. You realize you desperately need a sandwich to tide you over until dinner. The idea of a walk feels invigorating, and you can already feel the tension in your shoulders melting away.
+
+Entailment:
+Knowing the grocery store is a short walk away, you decide to stretch your legs and head over there yourself. The brisk evening air and a quick walk seem like the perfect way to shake off the day's stress and build up an appetite for your sandwich. Plus, it'll stretch your legs. You throw on your headphones, pick a motivating playlist, and step outside. The grocery store's bright lights beckon you across the street, and within a few minutes, you're browsing the sandwich selection.
+Explanation: This hypothesis expands on the premise by detailing the character's decision to walk and the positive aspects associated with it. It emphasizes the short distance and the benefits of exercise and fresh air.
+
+
+Contradiction:
+Despite the grocery store being just across the street, you dont't want to walk there.  You decide to forgo the exercise and call a taxi instead. You pull out your phone and hail a ride-sharing app. But to your dismay, the app informs you there are no taxis available in your immediate vicinity, and the wait time is estimated at a staggering 30 minutes. All you want is a quick sandwich, and now you're stuck waiting for a taxi to take you across the street that might not even arrive promptly.
+Explanation: Calling a taxi to take you across the street is in contradiction with motives in the premise (need for a quick sandwich and fresh air), showcasing how common sense dictates walking in this situation.
+
+Neutral:
+As you head out to grab a sandwich, you remember you're also running low on deli ham and cheese. You make a mental note to pick those up while you're at the grocery store to avoid another trip later.  You grab a reusable shopping bag to avoid plastic waste and head out the door.  The grocery store across the street seems like a convenient one-stop shop for both your sandwich needs and restocking your pantry staples.  You also consider grabbing a yogurt for a quick breakfast tomorrow morning.
+Explanation: The details in the hypothesis are relevant to the grocery shopping scenario but don't directly address the decision of walking based on the premise.
+
+10
+41.34
+
+It's a Friday night, and you just received a text message from your friend, Alex. They're throwing a party newt Friday and they invited you. The thought of socializing and having fun sounds incredibly appealing.  On your way home from work, you stop by the grocery store and see a beautiful display of fresh strawberries.  You know Alex loves them, and a delicious idea pops into your head.
+
+Entailment:
+Thrilled by the invitation, you immediately reply to Alex's text message with a "Yeah. I'm free next Friday! Can't wait to come!"  Knowing it's a casual gathering, you make a mental note to check your closet closer to next Friday for something comfortable yet stylish to wear.  As next Friday approaches, you can't help but feel a surge of excitement for the chance to unwind, catch up with friends, and enjoy yourself. You also remember those delicious fresh strawberries you saw at the store earlier in the week, and you think about picking some up to bring as a thoughtful treat for Alex.
+Explanation: This hypothesis reflects the common-sense response to receiving a party invitation when you genuinely want to go.  It prioritizes expressing enthusiasm and making preparations to attend.
+
+Contradiction:
+With a deep breath, you pick up your phone and dial Alex's number. Your voice is yelling, as you explain your workload and the impossibility of attending the party with such short notice. You express disappointment that Alex didn't consider your upcoming deadline when planning the party. Maybe Alex isn't as considerate a friend as you'd thought. There's no point in a heated exchange. The silence itself speaks volumes about your disappointment, and the future of your friendship suddenly feels uncertain.
+Explanation: The contradiction in this hypothesis lies in the disconnect between your initial emotional response about the invitation and the final action you take.
+
+Neutral:
+It's a beautiful Saturday morning, and you receive a text from your friend Alex. They're running low on groceries and wondered if you'd like to tag along on their shopping trip. You haven't seen Alex in a while and catching up sounds pleasant. You also need to pick up a few things for yourself, so you readily agree.
+Explanation: This hypothesis presents a neutral scenario where you and Alex decide to run errands together. It avoids focusing on the party invitation.

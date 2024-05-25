@@ -1,4 +1,5 @@
 1
+45.17
 
 Scenario Premise:
 Hibernation is a physiological adaptation used by some animals to survive periods of harsh environmental conditions, particularly cold winters with limited food availability. During hibernation, an animal's body temperature drops significantly, often close to the surrounding environment.  This decrease in body temperature leads to a slower metabolic rate, conserving energy.  Animals in hibernation also experience reduced breathing and heart rate.  Additionally, they rely on stored body fat reserves for energy throughout the hibernation period.
@@ -17,6 +18,7 @@ Migration is another strategy animals use to cope with seasonal changes. Certain
 Explanation: This hypothesis is neutral to the premise. While it talks about animal adaptations (mentioned in the premise), it focuses on migration, a separate strategy with distinct mechanisms compared to hibernation.
 
 2
+45.66
 
 Scenario Premise:
 Gravity is a fundamental force that attracts any two objects with mass. According to Newton's Law of Universal Gravitation, the force of gravity is directly proportional to the product of the masses of the objects and inversely proportional to the square of the distance between them. This force is what keeps celestial bodies like planets and moons in orbit around each other.  In a stable orbit, the gravitational pull towards the central body is balanced by the outward centrifugal force caused by the object's motion.
@@ -35,6 +37,7 @@ The color of a planet, like the rusty red of Mars or the vibrant blue of Neptune
 Explanation: The premise focuses on the relationship between mass, distance, and gravity. The hypothesis discusses the color of a planet, which is a completely different property unrelated to mass. The premise doesn't provide any connection between color and gravitational pull.
 
 3
+40.34
 
 Scenario Premise:
 Stars are born from giant clouds of gas and dust called nebulae. Over time, these nebulae collapse under their own gravity, causing the central regions to heat up and ignite nuclear fusion, forming a star. However, not all the material in the nebula gets used to form the star. Some of it gets ejected outwards due to the angular momentum of the collapsing cloud or powerful stellar winds from the newly formed star. This ejected material forms a vast, spherical envelope around the star, called a stellar halo.
@@ -53,6 +56,7 @@ The recent discovery of a massive black hole at the center of a nearby galaxy ha
 Explanation: This hypothesis is neutral because it introduces a new concept (black hole) not directly related to the  formation of stellar halos. While black holes can interact with interstellar gas and dust, the hypothesis doesn't mention a connection to stellar birth or ejected material, keeping it independent of the premise's core idea.
 
 4
+36.33
 
 Scenario Premise:
 According to the principle of conservation of energy, energy cannot be created or destroyed, only transformed from one form to another. This principle is a cornerstone of physics and has been experimentally verified across various systems. During energy transfer, the total amount of energy remains constant, although the forms it takes can change. For instance, in a hydroelectric power plant, the potential energy of falling water is converted into kinetic energy as it moves turbines, ultimately generating electrical energy. Here, the total energy remains constant, even though it exists in different forms at different stages of the process.
@@ -71,6 +75,7 @@ A team of astronomers is investigating the possibility of life on a distant exop
 Explanation: This hypothesis is neutral because it doesn't directly address the principle of conservation of energy or the phenomenon of energy transfer. It explores the potential for life on another planet without making claims about the specific energy transfer mechanisms involved, which could potentially be relevant but are not the core focus of the premise.
 
 5
+47
 
 Scenario Premise:
 Sound is a pervasive force in the animal kingdom, playing a critical role in communication across diverse species. Animals produce a wide variety of sounds using various anatomical structures.  In mammals, the most common sound-producing organ is the larynx, which contains vocal cords. Airflow from the lungs vibrates these cords, creating a fundamental frequency. These sounds serve numerous purposes in animal communication, including territorial defense, attracting mates, and coordinating group behavior.
@@ -89,6 +94,7 @@ Touch is a crucial form of communication for many animals, especially those with
 Explanation: This hypothesis focuses on a completely different biological function (touch) in animals and doesn't address sound communication.  It's not related to the premise of sound as a way to convey social information.
 
 6
+38.83
 
 Scenario Premise:
 Conductors, like metals, allow electric current to flow easily because their outermost electrons (valence electrons) are loosely bound and can move freely under the influence of an electric field. This movement of charged particles creates a current. When this current encounters resistance, such as in a thin filament with a high electrical resistivity, the flow of electrons is hindered. This hindrance converts the electrical energy into thermal energy, causing the filament to heat up significantly.
@@ -107,6 +113,7 @@ Light isn't a single color, but rather a spectrum of colors. This spectrum can b
 Explanation: This hypothesis discusses a property (color) of light bulbs that can influence the appearance of light but doesn't directly relate to the core idea of electric current flow and its consequences (heating and light emission) explained in the premise.
 
 7
+45.16
 
 Scenario Premise:
 Seawater density is a crucial factor in ocean circulation and marine life.  Density is influenced by temperature and salinity. Colder water molecules pack tighter, making them denser.  Saltier water also becomes denser because dissolved salts occupy space between water molecules.  Therefore, variations in temperature and salinity create density differences in the ocean, driving large-scale currents.  These currents transport nutrients, oxygen, and heat around the globe, impacting weather patterns and marine ecosystems.
@@ -125,6 +132,7 @@ Life in the ocean thrives in a vast and diverse environment, from the sun-drench
 Explanation: This neutral hypothesis focuses on the general concept of life in the ocean, exploring the impact of sunlight on different zones and the adaptations of organisms in these environments. It avoids mentioning seawater density or its role in currents, staying neutral to the main premise.
 
 8
+32.01
 
 Scenario Premise:
 Sun heats roofs in summer, transferring heat (radiation) to the attic. This heat then warms the ceiling below. Well-insulated ceilings conduct less heat into the living space. Light-colored ceilings reflect more solar radiation back upwards, reducing heat gain.  Therefore, proper ceiling insulation and a light color can significantly reduce heat transfer from the attic to the living space, keeping the house cooler.
@@ -143,6 +151,7 @@ The presence of a swimming pool in the backyard of a house has a significant imp
 Explanation: While swimming pools can be a source of heat gain or loss depending on climate and usage, the premise focuses on ceiling-related heat transfer mechanisms.  The presence of a pool doesn't directly affect the principles of conduction, convection, or radiation explained in the premise.
 
 9
+39.17
 
 Scenario Premise:
 Plants are amazing creatures. They create their own food through a process called photosynthesis. For this process, all plants need sunlight as an energy source, water, and carbon dioxide from the air. In the plant's leaf cells, a special reaction takes place where sunlight converts water and carbon dioxide into sugar and oxygen. Sugar is the food that the plant uses for growth and survival, and oxygen is released into the air, which is essential for breathing for animals and humans.
@@ -161,6 +170,7 @@ A plant stands near a large south-facing window in a room that receives direct s
 Explanation: The scenario describes a general principle (photosynthesis requires sunlight). The neutral inference pair mentions the presence of one of the conditions necessary for the described process (sunlight). However, the inference pair does not provide enough information to determine the outcome (whether the plant is thriving or starving). When the inference pair mentions a condition relevant to the scenario but does not provide enough information about the consequences, the relationship between the scenario and the inference pair is neutral.
 
 10
+43.67
 
 Scenario Premise:
 Heat transfer is the process by which thermal energy is transferred from a region of higher temperature to a region of lower temperature. When a hot object is placed on a cold object, the hot object transfers heat to the cold object until they reach thermal equilibrium, meaning they have the same temperature. On a microscopic level, heat is transferred through collisions between molecules. The hot object has molecules with high kinetic energy, which are transferred to the molecules of the cold object during collisions. These molecules then accelerate, increasing their kinetic energy, which means a rise in temperature.
