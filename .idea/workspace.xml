@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abe1a3d4-16ba-4d38-937c-3ee4ec580536" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_A_HistoricalEvents.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_D_NewsReports.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/QACM_E_FictionalStories.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[ChatGPT]outcome_quality_assessment_composed_metrics/~$QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_A_HistoricalEvents.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_B_ScientificExplanations.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_C_EverydayLifeSituations.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_D_NewsReports.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[Gemini]outcome_quality_assessment_composed_metrics/QACM_E_FictionalStories.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/assessment_quality_LLM_outcome/prompt_outcomes_evaluation_metrics/[template]outcome_QACM.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/data_collection.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/json_initiation_withscore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/data_collection/Files_for_collecting_and_storing_data/json_updating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/dataset/collecting_and_storing_data/collecting_data/json_updating_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_prompt_guided_outcome_NLIdataset_parlay/dataset/collecting_and_storing_data/collecting_data/json_updating_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,34 +28,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fEXw3aqMJYpMNTUx58FzRIIZ4l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/meta/Documents/ul-fri-nlp-course-project-parlay/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/meta/Documents/ul-fri-nlp-course-project-parlay/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Assessment_quality_llm_outcome/PromptOutcomes_EvaluationMetrics/[Gemini|Outcome Quality Assessment Composed Metrics" />
