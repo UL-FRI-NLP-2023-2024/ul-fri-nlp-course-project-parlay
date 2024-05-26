@@ -33,15 +33,10 @@ for category in categories:
         }
 
 # Construct the filename
-filename = "data_collection_1.json"
+filename = "data_collection_test.json"
 
 # Save the JSON object to a file
 with open(filename, 'w', encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
-# Construct the filename
-filename = "data_collection_s.json"
 
-# Save the JSON object to a file
-with open(filename, 'w', encoding="utf-8") as file:
-    json.dump(data, file, indent=4)
