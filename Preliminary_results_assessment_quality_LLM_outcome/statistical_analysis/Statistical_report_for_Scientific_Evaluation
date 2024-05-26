@@ -58,7 +58,7 @@ p-value: 0.26791172119272894
 
 
 
-The descriptive statistics show that the average total score for Chat outcomes is 43.37,
+The descriptive statistics shows that the average total score for Chat outcomes is 43.37,
 with a standard deviation of 2.88, while for Gemini outcomes, the average total score is 41.33 with a standard deviation of 4.83.
 The t-test results indicate a t-statistic of 1.14 and a p-value of 0.27,
 suggesting no significant difference in mean total scores between the two systems.
