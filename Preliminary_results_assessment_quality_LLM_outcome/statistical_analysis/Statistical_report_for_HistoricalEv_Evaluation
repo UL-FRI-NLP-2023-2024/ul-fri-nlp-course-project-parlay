@@ -1,0 +1,48 @@
+Descriptive Statistics for Chat Outcomes:
+count    10.000000
+mean     44.944000
+std       4.031592
+min      37.990000
+25%      43.032500
+50%      43.830000
+75%      48.952500
+max      50.000000
+Name: Total Score, dtype: float64
+
+Descriptive Statistics for Gemini Outcomes:
+count    10.000000
+mean     42.833000
+std       3.862101
+min      37.660000
+25%      39.545000
+50%      42.750000
+75%      45.417500
+max      49.500000
+Name: Total Score, dtype: float64
+
+T-test Results:
+t-statistic: 1.1957018184518318
+p-value: 0.24732796174657504
+
+Comparison of Means
+The mean score for Chat outcomes (44.944) is slightly higher than the mean score for Gemini outcomes (42.833). This indicates that, on average, Chat outcomes have a higher total score compared to Gemini outcomes.
+Variability
+The standard deviations for both datasets are quite similar (Chat: 4.031592, Gemini: 3.862101), suggesting that the variability in the scores is comparable between the two groups.
+The range of scores is also similar, with Chat outcomes ranging from 37.990 to 50.000 and Gemini outcomes from 37.660 to 49.500.
+Percentiles
+The percentiles indicate the distribution of scores within each group. For Chat outcomes, 25% of the scores are below 43.0325, and 75% are below 48.9525. For Gemini outcomes, 25% of the scores are below 39.545, and 75% are below 45.4175.
+The median score is slightly higher for Chat (43.830) compared to Gemini (42.750), further indicating a marginally better performance on average for Chat outcomes.
+T-test Results
+T-statistic: 1.1957018184518318
+P-value: 0.24732796174657504
+The t-test results are used to determine whether there is a statistically significant difference between the mean scores of the two groups (Chat and Gemini outcomes).
+
+The t-statistic (1.1957) is a measure of the difference between the two groups' means relative to the variability observed in the groups.
+The p-value (0.2473) is the probability that the observed difference in means is due to random chance.
+Interpretation
+The p-value of 0.2473 is greater than the common significance level of 0.05. This means we do not reject the null hypothesis, which states that there is no significant difference between the mean scores of Chat outcomes and Gemini outcomes.
+In other words, the observed difference in mean scores (44.944 vs. 42.833) is not statistically significant, and we cannot conclude that one group performs better than the other based on this sample.
+Conclusion
+While there is a slight numerical difference in the mean scores between Chat and Gemini outcomes, this difference is not statistically significant according to the t-test. Therefore, we cannot confidently assert that one method is superior to the other based on the provided data. More data or additional analysis may be needed to draw a more definitive conclusion.
+
+

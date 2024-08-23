@@ -4,14 +4,15 @@ import pandas as pd
 chat_data = {
     "Example": ["EXAMPLE 1", "EXAMPLE 2", "EXAMPLE 3", "EXAMPLE 4", "EXAMPLE 5",
                 "EXAMPLE 6", "EXAMPLE 7", "EXAMPLE 8", "EXAMPLE 9", "EXAMPLE 10"],
-    "Total Score": [42.66, 45.00, 50.00, 43.66, 39.17, 40.66, 44.17, 42.67, 42.17, 43.50]
+    "Total Score": [44.17,40.99,37.99,43.49,42.99,43.16,48.33,49.16,50.00,49.16]
 }
 
 # Data for Gemini outcomes
 gemini_data = {
     "Example": ["EXAMPLE 1", "EXAMPLE 2", "EXAMPLE 3", "EXAMPLE 4", "EXAMPLE 5",
                 "EXAMPLE 6", "EXAMPLE 7", "EXAMPLE 8", "EXAMPLE 9", "EXAMPLE 10"],
-    "Total Score": [45.17, 45.66, 40.34, 36.33, 47, 38.83, 45.16, 32.01, 39.17, 43.67]
+    "Total Score": [39.34,38.83,40.16,45.50,42.33,49.50,43.17,37.66,46.67,45.17]
+
 }
 
 # Convert data to DataFrames

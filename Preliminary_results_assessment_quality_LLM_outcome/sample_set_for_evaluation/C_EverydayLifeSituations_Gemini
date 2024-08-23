@@ -112,19 +112,19 @@ Explanation: Če je Luka razumel snov, ni odvisno od scenarija v premisi, ali mu
 42
 
 Scenario:
-Družina Posedel se že nekaj mesecev veseli dopusta na Malti. Končno je napočil dan odhoda in vsi so vznemirjeni. Skrbno so spakirali kovčke in se prepričali, da so vzeli vse potrebno. Pred odhodom se usedejo še pred televizor, da bi gledali poročila. Med poročili slišijo zaskrbljujočo novico: policija opozarja na povečano število vlomov v stanovanja med poletnimi meseci. Vlomilci izkoriščajo odsotnost stanovalcev, ki so na dopustu, in vlamljajo v njihova stanovanja. Posedelovi so takoj želeli poskrbeti za večjo varnost njihovega doma med odsotnostjo.
+The Posedel family has been looking forward to a holiday in Malta for a few months. The day of departure has finally arrived and everyone is excited. They have packed their suitcases carefully and made sure they have taken everything they need. Before they leave, they sit down in front of the TV to watch the news. During the news, they hear disturbing news: the police warn of an increase in the number of burglaries during the summer months. Burglars are taking advantage of the absence of residents on holiday to break into their flats. The occupants immediately wanted to make their home more secure while they were away.
 
 Entailment:
-Ker so slišali zaskrbljujočo novico o vlomih, se je družina Posedel odločila za takojšnje ukrepanje, da bi zaščitila svoj dom pred morebitnimi vlomilci pred odhodom na dopust. Okrepili so ključavnice na vratih in oknih ter poskrbeli, da so vsa okna zaprta in zaklenjena. Poleg tega so prosili soseda, da med njihovo odsotnostjo redno prazni poštni nabiralnik in dvigne časopise, s čimer so ustvarili videz, da je hiša naseljena. Dragocenosti so poskrili na varno mesto in shranili kopije pomembnih dokumentov v oblaku. Čeprav so bili zaskrbljeni zaradi vlomov, so se z izvedbo teh hitrih ukrepov lažje odpravili na dopust, saj so vedeli, da so storili vse potrebno za zaščito svojega doma.
-Explanation: Zaradi grožnje vloma in želje po zaščiti doma se je družina pred odhodom na dopust odločila za izvedbo zaščitnih ukrepov.
+Hearing alarming news about burglaries, the Posedel family decided to take immediate action to protect their home from potential burglars before going on holiday. They strengthened the locks on the doors and windows and made sure that all windows were closed and locked. In addition, they asked a neighbour to regularly empty the letterbox and pick up newspapers while they were away, giving the appearance that the house was inhabited. They hid valuables in a safe place and stored copies of important documents in the cloud. Although they were worried about burglaries, taking these quick steps made it easier for them to go on holiday, knowing that they had taken the necessary steps to protect their home.
+Explanation: Due to the threat of burglary and the desire to protect their home, the family decided to take protective measures before going on holiday.
 
 Contradiction:
-Družina Posedel se je kljub zaskrbljujoči novici o vlomih odločila, da bo dopust potekal kot načrtovano. Želja po brezskrbnem oddihu je pretehtala nad strahom pred vlomom. Namesto da bi sprejeli dodatne varnostne ukrepe, so se odločili za nenavadno potezo: pustili so eno od oken odprto za prezračevanje. Njihova logika je bila, da bi se raje vrnili v svež in prijetno dišeč dom kot v dušno hišo, kljub tveganju vloma. Poleg odprtega okna so se Posedelovi odločili, da ne bodo prosili soseda za nadzor hiše, saj so se bali, da bi jim s tem povzročili dodatno delo.
-Explanation: Odločitev za ukrepanje (premisa) je v nasprotju z odločitvijo za neukrepanje (hipoteza).
+Despite the disturbing news of the burglary, the Posedel family decided to go ahead with their holiday as planned. The desire for a carefree holiday outweighed the fear of burglary. Instead of taking extra precautions, they decided to take an unusual step: they left one of the windows open for ventilation. Their logic was that they would rather return to a fresh and pleasant-smelling home than a stuffy house, despite the risk of burglary. In addition to the open window, the Posedels decided not to ask a neighbour to keep an eye on the house for fear of causing him extra work.
+Explanation: The decision to act (the premise) is the opposite of the decision not to act (the hypothesis).
 
 Neutral:
-Družina Posedel se odpravlja na dopust na Malto. Zamišljajo si, kaj vse bi radi počeli na dopustu na Malti. Hči se bo lahko naučila plavati, sin pa se bo igral z delfini. Veselijo se kulinaričnih dobrot, saj je Malta znana po slastnih jedeh. Kdo ve, morda bo Ajša dobila še kake dobre namige za svojo kuharsko knjigo.
-Explanation: Iz scenarija ni mogoče sklepati na hipotezo in iz scenarija ni mogoče ne sklepati na hipotezo. Hipoteza niti ne podpira niti ne nasprotuje premisi.
+The Posedel family is going on holiday to Malta. They are imagining all the things they would like to do on holiday in Malta. The daughter will be able to learn to swim and the son will play with dolphins. They are looking forward to culinary delights, as Malta is known for its delicious food. Who knows, maybe Aisha will get some more good tips for her cookbook.
+Explanation: The hypothesis neither supports nor contradicts the premise.
 
 8
 38.66
